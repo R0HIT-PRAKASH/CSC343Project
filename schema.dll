@@ -10,6 +10,11 @@ create domain Sex as varchar(20)
     not null
     check (value in ('m', 'f', 'a'));
 
+create domain HealthSector as varchar(20)
+    not null
+    check (value in (‘research’, ‘laboratory equipments’, 
+    ‘patient support’,‘budget line items’, ‘treatment types’));
+
 
 DROP TABLE IF EXISTS TB_By_Country CASCADE;
 CREATE TABLE TB_By_Country (
@@ -20,4 +25,51 @@ CREATE TABLE TB_By_Country (
     sex Sex,
     fatalityRate FLOAT NOT NULL,
     primary key(country, year)
+);
+
+DROP TABLE IF EXISTS CountryGDP CASCADE;
+CREATE TABLE CountryGDP (
+    country VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    GDP FLOAT NOT NULL,
+    primary key(country, year)
+    foreign key (country, year) references TB_By_Country
+);
+
+DROP TABLE IF EXISTS CountryGDPPC CASCADE;
+CREATE TABLE CountryGDP (
+    country VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    GDPPerCap FLOAT NOT NULL,
+    primary key(country, year)
+    foreign key (country, year) references TB_By_Country
+);
+
+DROP TABLE IF EXISTS TBComorbidity CASCADE;
+CREATE TABLE TBComorbidity (
+    country VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    cName VARCHAR(250) NOT NULL,
+    comorbidityRate DOUBLE NOT NULL,
+    primary key(country, year)
+    foreign key (country, year) references TB_By_Country
+);
+
+DROP TABLE IF EXISTS DiseaseCausedDeaths CASCADE;
+CREATE TABLE DiseaseCausedDeaths (
+    year INT NOT NULL,
+    diseaseName VARCHAR(250) NOT NULL,
+    totalDeaths INT NOT NULL,
+    primary key(year)
+    foreign key (year) references TB_By_Country (year)
+);
+
+DROP TABLE IF EXISTS HealthCareFunding CASCADE;
+CREATE TABLE HealthCareFunding (
+    country VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    healthcareSector HealthSector,
+    amount FLOAT NOT NULL,
+    primary key(country, year)
+    foreign key (country, year) references TB_By_Country
 );
