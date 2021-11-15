@@ -1,3 +1,23 @@
 drop schema if exists projectschema cascade;
 create schema projectschema;
 set search_path to projectschema;
+
+create domain ageranges as varchar(20)
+    not null
+    check (value in ('0-4', '5-14', '15plus'));
+
+create domain Sex as varchar(20)
+    not null
+    check (value in ('m', 'f', 'a'));
+
+
+DROP TABLE IF EXISTS TB_By_Country CASCADE;
+CREATE TABLE TB_By_Country (
+    country VARCHAR(100) NOT NULL,
+    year INT NOT NULL,
+    tbRate FLOAT NOT NULL,
+    ageRange ageranges,
+    sex Sex,
+    fatalityRate FLOAT NOT NULL,
+    primary key(country, year)
+);
