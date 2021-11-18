@@ -71,8 +71,7 @@ CREATE TABLE DiseaseCausedDeaths (
     year INT NOT NULL,
     diseaseName VARCHAR(250) NOT NULL,
     totalDeaths INT NOT NULL,
-    primary key(year),
-    foreign key (year) references TB_Fatality (year)
+    primary key(year, diseaseName)
 );
 
 DROP TABLE IF EXISTS HealthCareFunding CASCADE;
@@ -81,6 +80,6 @@ CREATE TABLE HealthCareFunding (
     year INT NOT NULL,
     healthcareSector HealthSector,
     amount FLOAT NOT NULL,
-    primary key(country, year),
+    primary key(country, year, healthcareSector),
     foreign key (country, year) references TB_Fatality(country, year)
 );
