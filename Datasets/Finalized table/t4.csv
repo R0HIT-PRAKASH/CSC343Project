@@ -1,0 +1,321 @@
+﻿Year,Disease_name,Cases
+2019,Tuberculosis,1208044
+2019,STDs excluding HIV,49496
+2019,HIV/AIDS,674662
+2019,Diarrhoeal diseases,1519229
+2019,Childhood-cluster diseases,329475
+2019,Meningitis,233303
+2019,Encephalitis,77757
+2019,Hepatitis,99830
+2019,Parasitic and vector diseases,537286
+2019,Intestinal nematode infections,2151
+2019,Leprosy,253
+2019,Other infectious diseases,369713
+2019,Lower respiratory infections,2593098
+2019,Upper respiratory infections,10054
+2019,Otitis media,761
+2019,Preterm birth complications,910396
+2019,Birth asphyxia and birth trauma,652489
+2019,Neonatal sepsis and infections,341603
+2019,Other neonatal conditions,133061
+2019,Protein-energy malnutrition,200392
+2019,Iodine deficiency,36
+2019,Vitamin A deficiency,5
+2019,Iron-deficiency anaemia,21636
+2019,Other nutritional deficiencies,40668
+2019,Mouth and oropharynx cancers,388996
+2019,Oesophagus cancer,462995
+2019,Stomach cancer,830682
+2019,Colon and rectum cancers,916166
+2019,Liver cancer,577430
+2019,Pancreas cancer,447208
+2019,"Trachea, bronchus, lung cancers",1784109
+2019,Melanoma and other skin cancers,125894
+2019,Breast cancer,640112
+2019,Cervix uteri cancer,304946
+2019,Corpus uteri cancer,89528
+2019,Ovary cancer,178457
+2019,Prostate cancer,389433
+2019,Testicular cancer,9738
+2019,Kidney cancer,153385
+2019,Bladder cancer,201999
+2019,Brain and nervous system cancers,242084
+2019,Gallbladder and biliary tract cancer,161386
+2019,Larynx cancer,112716
+2019,Thyroid cancer,41444
+2019,Mesothelioma,26590
+2019,"Lymphomas, multiple myeloma",383063
+2019,Leukaemia,307596
+2019,Other malignant neoplasms,520681
+2019,Thalassaemias,10774
+2019,Sickle cell disorders and trait,44748
+2019,Other haemoglobinopathies and haemolytic anaemias,49998
+2019,"Other endocrine, blood and immune disorders",210754
+2019,Depressive disorders,0
+2019,Bipolar disorder,954
+2019,Schizophrenia,6058
+2019,Alcohol use disorders,156546
+2019,Drug use disorders,181758
+2019,Anxiety disorders,121
+2019,Eating disorders,103
+2019,Autism and Asperger syndrome,0
+2019,Childhood behavioural disorders,0
+2019,Idiopathic intellectual disability,1935
+2019,Other mental and behavioural disorders,1
+2019,Alzheimer disease and other dementias,1639085
+2019,Parkinson disease,328645
+2019,Epilepsy,115890
+2019,Multiple sclerosis,24384
+2019,Migraine,18
+2019,Non-migraine headache,0
+2019,Other neurological conditions,191285
+2019,Rheumatic heart disease,288348
+2019,Hypertensive heart disease,1148939
+2019,Ischaemic heart disease,8884887
+2019,Stroke,6193978
+2019,"Cardiomyopathy, myocarditis, endocarditis",349908
+2019,Other circulatory diseases,997768
+2019,Chronic obstructive pulmonary disease,3227873
+2019,Asthma,455153
+2019,Other respiratory diseases,453872
+2019,Peptic ulcer disease,220263
+2019,Cirrhosis of the liver,1315359
+2019,Appendicitis,31368
+2019,Gastritis and duodenitis,35747
+2019,Paralytic ileus and intestinal obstruction,214824
+2019,Inflammatory bowel disease,25704
+2019,Gallbladder and biliary diseases,117031
+2019,Pancreatitis,108531
+2019,Other digestive diseases,386172
+2019,Kidney diseases,1334324
+2019,Benign prostatic hyperplasia,6671
+2019,Urolithiasis,8933
+2019,Other urinary diseases,284511
+2019,Infertility,0
+2019,Gynecological diseases,7360
+2019,Rheumatoid arthritis,43775
+2019,Osteoarthritis,5100
+2019,Gout,970
+2019,Back and neck pain,5508
+2019,Other musculoskeletal disorders,95992
+2019,Neural tube defects,79413
+2019,Cleft lip and cleft palate,2793
+2019,Down syndrome,22457
+2019,Congenital heart anomalies,205619
+2019,Other chromosomal anomalies,21769
+2019,Other congenital anomalies,200803
+2019,Oral conditions,1236
+2019,Sudden infant death syndrome,30205
+2015,Tuberculosis,1310239
+2015,STDs excluding HIV,47940
+2015,HIV/AIDS,819484
+2015,Diarrhoeal diseases,1670058
+2015,Childhood-cluster diseases,333475
+2015,Meningitis,264039
+2015,Encephalitis,73383
+2015,Hepatitis,108947
+2015,Parasitic and vector diseases,595054
+2015,Leprosy,242
+2015,Other infectious diseases,355323
+2015,Lower respiratory infections,2573038
+2015,Upper respiratory infections,10507
+2015,Otitis media,770
+2015,Preterm birth complications,1022484
+2015,Birth asphyxia and birth trauma,712893
+2015,Neonatal sepsis and infections,367389
+2015,Other neonatal conditions,147956
+2015,Protein-energy malnutrition,211857
+2015,Iodine deficiency,35
+2015,Vitamin A deficiency,7
+2015,Iron-deficiency anaemia,19096
+2015,Other nutritional deficiencies,41277
+2015,Mouth and oropharynx cancers,353927
+2015,Oesophagus cancer,425312
+2015,Stomach cancer,804068
+2015,Colon and rectum cancers,834482
+2015,Liver cancer,536696
+2015,Pancreas cancer,394836
+2015,"Trachea, bronchus, lung cancers",1637950
+2015,Melanoma and other skin cancers,120624
+2015,Breast cancer,591091
+2015,Cervix uteri cancer,288752
+2015,Corpus uteri cancer,83581
+2015,Ovary cancer,160450
+2015,Prostate cancer,350893
+2015,Testicular cancer,9172
+2015,Kidney cancer,142659
+2015,Bladder cancer,184680
+2015,Brain and nervous system cancers,227210
+2015,Gallbladder and biliary tract cancer,148613
+2015,Larynx cancer,105762
+2015,Thyroid cancer,38038
+2015,Mesothelioma,25507
+2015,"Lymphomas, multiple myeloma",354614
+2015,Leukaemia,293116
+2015,Other malignant neoplasms,478858
+2015,Thalassaemias,11252
+2015,Sickle cell disorders and trait,45232
+2015,Other haemoglobinopathies and haemolytic anaemias,45818
+2015,"Other endocrine, blood and immune disorders",191188
+2015,Depressive disorders,0
+2015,Bipolar disorder,780
+2015,Schizophrenia,4949
+2015,Alcohol use disorders,146337
+2015,Drug use disorders,154811
+2015,Anxiety disorders,93
+2015,Eating disorders,93
+2015,Autism and Asperger syndrome,0
+2015,Childhood behavioural disorders,0
+2015,Idiopathic intellectual disability,1759
+2015,Other mental and behavioural disorders,2
+2015,Alzheimer disease and other dementias,1338979
+2015,Parkinson disease,275863
+2015,Epilepsy,109951
+2015,Multiple sclerosis,21692
+2015,Migraine,20
+2015,Non-migraine headache,0
+2015,Other neurological conditions,163196
+2015,Rheumatic heart disease,290815
+2015,Hypertensive heart disease,1068241
+2015,Ischaemic heart disease,8372294
+2015,Stroke,5848042
+2015,"Cardiomyopathy, myocarditis, endocarditis",347148
+2015,Other circulatory diseases,932346
+2015,Chronic obstructive pulmonary disease,3014102
+2015,Asthma,450936
+2015,Other respiratory diseases,420856
+2015,Peptic ulcer disease,217533
+2015,Cirrhosis of the liver,1247063
+2015,Appendicitis,31234
+2015,Gastritis and duodenitis,35393
+2015,Paralytic ileus and intestinal obstruction,200256
+2015,Inflammatory bowel disease,24820
+2015,Gallbladder and biliary diseases,107179
+2015,Pancreatitis,104112
+2015,Other digestive diseases,361230
+2015,Kidney diseases,1211086
+2015,Benign prostatic hyperplasia,5673
+2015,Urolithiasis,8263
+2015,Other urinary diseases,250034
+2015,Infertility,0
+2015,Gynecological diseases,7228
+2015,Rheumatoid arthritis,37740
+2015,Osteoarthritis,4657
+2015,Gout,830
+2015,Back and neck pain,4430
+2015,Other musculoskeletal disorders,84465
+2015,Neural tube defects,88718
+2015,Cleft lip and cleft palate,3255
+2015,Down syndrome,21912
+2015,Congenital heart anomalies,229248
+2015,Other chromosomal anomalies,21371
+2015,Other congenital anomalies,217479
+2015,Oral conditions,1143
+2015,Sudden infant death syndrome,33950
+2010,Tuberculosis,1431151
+2010,STDs excluding HIV,44151
+2010,HIV/AIDS,1106794
+2010,Diarrhoeal diseases,1924546
+2010,Childhood-cluster diseases,356516
+2010,Meningitis,328592
+2010,Encephalitis,81116
+2010,Hepatitis,125858
+2010,Parasitic and vector diseases,756620
+2010,Intestinal nematode infections,3220
+2010,Leprosy,280
+2010,Other infectious diseases,314040
+2010,Lower respiratory infections,2646273
+2010,Upper respiratory infections,11743
+2010,Otitis media,811
+2010,Preterm birth complications,1127497
+2010,Birth asphyxia and birth trauma,825948
+2010,Neonatal sepsis and infections,426209
+2010,Other neonatal conditions,170201
+2010,Protein-energy malnutrition,227327
+2010,Iodine deficiency,29
+2010,Vitamin A deficiency,11
+2010,Iron-deficiency anaemia,16851
+2010,Other nutritional deficiencies,42594
+2010,Mouth and oropharynx cancers,313287
+2010,Oesophagus cancer,432943
+2010,Stomach cancer,829226
+2010,Colon and rectum cancers,753888
+2010,Liver cancer,479340
+2010,Pancreas cancer,336237
+2010,"Trachea, bronchus, lung cancers",1504670
+2010,Melanoma and other skin cancers,105465
+2010,Breast cancer,527170
+2010,Cervix uteri cancer,263707
+2010,Corpus uteri cancer,76488
+2010,Ovary cancer,142331
+2010,Prostate cancer,316562
+2010,Testicular cancer,8380
+2010,Kidney cancer,126895
+2010,Bladder cancer,165909
+2010,Brain and nervous system cancers,204024
+2010,Gallbladder and biliary tract cancer,135735
+2010,Larynx cancer,98533
+2010,Thyroid cancer,34091
+2010,Mesothelioma,23074
+2010,"Lymphomas, multiple myeloma",313702
+2010,Leukaemia,280600
+2010,Other malignant neoplasms,450102
+2010,Thalassaemias,11551
+2010,Sickle cell disorders and trait,42311
+2010,Other haemoglobinopathies and haemolytic anaemias,43240
+2010,"Other endocrine, blood and immune disorders",162683
+2010,Depressive disorders,0
+2010,Bipolar disorder,624
+2010,Schizophrenia,3784
+2010,Alcohol use disorders,152070
+2010,Drug use disorders,116927
+2010,Anxiety disorders,66
+2010,Eating disorders,81
+2010,Autism and Asperger syndrome,0
+2010,Childhood behavioural disorders,0
+2010,Idiopathic intellectual disability,1482
+2010,Other mental and behavioural disorders,3
+2010,Alzheimer disease and other dementias,1004009
+2010,Parkinson disease,227642
+2010,Epilepsy,109962
+2010,Multiple sclerosis,19230
+2010,Migraine,20
+2010,Non-migraine headache,0
+2010,Other neurological conditions,138835
+2010,Rheumatic heart disease,301885
+2010,Hypertensive heart disease,871931
+2010,Ischaemic heart disease,7783334
+2010,Stroke,5755699
+2010,"Cardiomyopathy, myocarditis, endocarditis",351145
+2010,Other circulatory diseases,823918
+2010,Chronic obstructive pulmonary disease,2904613
+2010,Asthma,448118
+2010,Other respiratory diseases,364124
+2010,Peptic ulcer disease,226640
+2010,Cirrhosis of the liver,1236555
+2010,Appendicitis,33573
+2010,Gastritis and duodenitis,34376
+2010,Paralytic ileus and intestinal obstruction,186768
+2010,Inflammatory bowel disease,27260
+2010,Gallbladder and biliary diseases,93615
+2010,Pancreatitis,101360
+2010,Other digestive diseases,329319
+2010,Kidney diseases,1070774
+2010,Benign prostatic hyperplasia,4869
+2010,Urolithiasis,7815
+2010,Other urinary diseases,203775
+2010,Infertility,0
+2010,Gynecological diseases,6941
+2010,Rheumatoid arthritis,34314
+2010,Osteoarthritis,4268
+2010,Gout,595
+2010,Back and neck pain,3300
+2010,Other musculoskeletal disorders,76294
+2010,Neural tube defects,87527
+2010,Cleft lip and cleft palate,3911
+2010,Down syndrome,19857
+2010,Congenital heart anomalies,249927
+2010,Other chromosomal anomalies,19345
+2010,Other congenital anomalies,218314
+2010,Oral conditions,1020
+2010,Sudden infant death syndrome,36271
