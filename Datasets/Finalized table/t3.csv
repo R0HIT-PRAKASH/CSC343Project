@@ -44,7 +44,6 @@ Croatia,2019,alc,78
 Cuba,2019,alc,214
 Cyprus,2019,alc,15
 Czechia,2019,alc,147
-Democratic People's Republic of Korea,2019,alc,19760
 Democratic Republic of the Congo,2019,alc,51300
 Denmark,2019,alc,83
 Djibouti,2019,alc,80
@@ -243,7 +242,6 @@ Cuba,2019,all,3643
 Curaçao,2019,all,58
 Cyprus,2019,all,315
 Czechia,2019,all,2624
-Democratic People's Republic of Korea,2019,all,658500
 Democratic Republic of the Congo,2019,all,1387600
 Denmark,2019,all,1452
 Djibouti,2019,all,11458
@@ -449,7 +447,6 @@ Croatia,2019,dia,22
 Cuba,2019,dia,57
 Cyprus,2019,dia,3
 Czechia,2019,dia,38
-Democratic People's Republic of Korea,2019,dia,6800
 Democratic Republic of the Congo,2019,dia,14300
 Denmark,2019,dia,11
 Djibouti,2019,dia,160
@@ -636,7 +633,6 @@ Croatia,2019,hiv,3
 Cuba,2019,hiv,78
 Cyprus,2019,hiv,3
 Czechia,2019,hiv,4
-Democratic People's Republic of Korea,2019,hiv,1100
 Democratic Republic of the Congo,2019,hiv,29000
 Denmark,2019,hiv,7
 Djibouti,2019,hiv,62
@@ -800,7 +796,6 @@ Croatia,2019,smk,105
 Cuba,2019,smk,213
 Cyprus,2019,smk,19
 Czechia,2019,smk,163
-Democratic People's Republic of Korea,2019,smk,24000
 Denmark,2019,smk,51
 Dominican Republic,2019,smk,431
 Egypt,2019,smk,2309
@@ -951,7 +946,1078 @@ Croatia,2019,und,17
 Cuba,2019,und,38
 Cyprus,2019,und,6
 Czechia,2019,und,27
-Democratic People's Republic of Korea,2019,und,68000
+Denmark,2019,und,15
+Djibouti,2019,und,670
+Dominica,2019,und,1
+Dominican Republic,2019,und,770
+Ecuador,2019,und,1200
+Egypt,2019,und,1000
+El Salvador,2019,und,620
+Estonia,2019,und,10
+Eswatini,2019,und,1300
+Ethiopia,2019,und,49000
+Fiji,2019,und,44
+Finland,2019,und,13
+France,2019,und,290
+French Polynesia,2019,und,4
+Gabon,2019,und,2100
+Gambia,2019,und,680
+Georgia,2019,und,440
+Germany,2019,und,250
+Ghana,2019,und,4700
+Greece,2019,und,23
+Guatemala,2019,und,1200
+Guinea,2019,und,6000
+Guinea-Bissau,2019,und,2600
+Guyana,2019,und,93
+Haiti,2019,und,10000
+Honduras,2019,und,670
+Hungary,2019,und,31
+Iceland,2019,und,0
+India,2019,und,639000
+Indonesia,2019,und,131000
+Iran (Islamic Republic of),2019,und,1000
+Iraq,2019,und,6300
+Ireland,2019,und,14
+Israel,2019,und,13
+Italy,2019,und,220
+Jamaica,2019,und,14
+Japan,2019,und,870
+Jordan,2019,und,120
+Kazakhstan,2019,und,660
+Kenya,2019,und,55000
+Kiribati,2019,und,28
+Kuwait,2019,und,52
+Kyrgyzstan,2019,und,950
+Lao People's Democratic Republic,2019,und,3000
+Latvia,2019,und,25
+Lebanon,2019,und,170
+Lesotho,2019,und,3100
+Liberia,2019,und,6900
+Lithuania,2019,und,60
+Luxembourg,2019,und,2
+Madagascar,2019,und,31000
+Malawi,2019,und,7600
+Malaysia,2019,und,1500
+Maldives,2019,und,35
+Mali,2019,und,1300
+Malta,2019,und,3
+Mauritania,2019,und,750
+Mauritius,2019,und,18
+Mexico,2019,und,2200
+Mongolia,2019,und,3100
+Montenegro,2019,und,4
+Morocco,2019,und,2500
+Mozambique,2019,und,42000
+Myanmar,2019,und,33000
+Namibia,2019,und,4500
+Nepal,2019,und,11000
+Netherlands,2019,und,44
+New Caledonia,2019,und,3
+New Zealand,2019,und,18
+Nicaragua,2019,und,760
+Niger,2019,und,5200
+Nigeria,2019,und,100000
+North Macedonia,2019,und,16
+Norway,2019,und,9
+Oman,2019,und,55
+Pakistan,2019,und,176000
+Panama,2019,und,280
+Paraguay,2019,und,620
+Peru,2019,und,6800
+Philippines,2019,und,135000
+Poland,2019,und,300
+Portugal,2019,und,100
+Republic of Korea,2019,und,1600
+Romania,2019,und,670
+Russian Federation,2019,und,3800
+Rwanda,2019,und,3200
+Saint Vincent and the Grenadines,2019,und,0
+Samoa,2019,und,1
+Sao Tome and Principe,2019,und,32
+Saudi Arabia,2019,und,460
+Senegal,2019,und,3800
+Serbia,2019,und,140
+Sierra Leone,2019,und,8300
+Slovakia,2019,und,17
+Slovenia,2019,und,5
+Solomon Islands,2019,und,72
+South Africa,2019,und,43000
+Spain,2019,und,220
+Sri Lanka,2019,und,2200
+Sudan,2019,und,8700
+Suriname,2019,und,26
+Sweden,2019,und,28
+Switzerland,2019,und,24
+Thailand,2019,und,15000
+Timor-Leste,2019,und,2300
+Togo,2019,und,780
+Trinidad and Tobago,2019,und,26
+Tunisia,2019,und,360
+Turkey,2019,und,670
+Turkmenistan,2019,und,280
+Uganda,2019,und,42000
+Ukraine,2019,und,2400
+United Arab Emirates,2019,und,5
+United Kingdom of Great Britain and Northern Ireland,2019,und,280
+United Republic of Tanzania,2019,und,55000
+United States of America,2019,und,510
+Uruguay,2019,und,63
+Uzbekistan,2019,und,2700
+Vanuatu,2019,und,17
+Venezuela (Bolivarian Republic of),2019,und,4100
+Viet Nam,2019,und,29000
+Yemen,2019,und,6400
+Zambia,2019,und,30000
+Zimbabwe,2019,und,15000
+Afghanistan,2019,alc,943
+Albania,2019,alc,119
+Algeria,2019,alc,920
+Andorra,2019,alc,0
+Angola,2019,alc,24500
+Antigua and Barbuda,2019,alc,0
+Argentina,2019,alc,3330
+Armenia,2019,alc,201
+Australia,2019,alc,308
+Austria,2019,alc,230
+Azerbaijan,2019,alc,1439
+Bahamas,2019,alc,13
+Bahrain,2019,alc,14
+Bangladesh,2019,alc,12880
+Barbados,2019,alc,0
+Belarus,2019,alc,1695
+Belgium,2019,alc,316
+Belize,2019,alc,30
+Benin,2019,alc,1590
+Bhutan,2019,alc,104
+Bolivia (Plurinational State of),2019,alc,3130
+Bosnia and Herzegovina,2019,alc,226
+Botswana,2019,alc,1516
+Brazil,2019,alc,18200
+Brunei Darussalam,2019,alc,26
+Bulgaria,2019,alc,399
+Burkina Faso,2019,alc,771
+Burundi,2019,alc,3110
+Cabo Verde,2019,alc,68
+Cambodia,2019,alc,9850
+Cameroon,2019,alc,11900
+Canada,2019,alc,602
+Central African Republic,2019,alc,3780
+Chad,2019,alc,710
+Chile,2019,alc,859
+China,2019,alc,164200
+Colombia,2019,alc,5000
+Comoros,2019,alc,9
+Congo,2019,alc,1772
+Cook Islands,2019,alc,0
+Costa Rica,2019,alc,139
+Côte d'Ivoire,2019,alc,12300
+Croatia,2019,alc,78
+Cuba,2019,alc,214
+Cyprus,2019,alc,15
+Czechia,2019,alc,147
+Democratic Republic of the Congo,2019,alc,51300
+Denmark,2019,alc,83
+Djibouti,2019,alc,80
+Dominica,2019,alc,2
+Dominican Republic,2019,alc,1210
+Ecuador,2019,alc,2130
+Egypt,2019,alc,730
+El Salvador,2019,alc,949
+Equatorial Guinea,2019,alc,601
+Eritrea,2019,alc,261
+Estonia,2019,alc,77
+Eswatini,2019,alc,1084
+Ethiopia,2019,alc,15520
+Fiji,2019,alc,95
+Finland,2019,alc,86
+France,2019,alc,1590
+Gabon,2019,alc,2870
+Gambia,2019,alc,175
+Georgia,2019,alc,600
+Germany,2019,alc,1420
+Ghana,2019,alc,6850
+Greece,2019,alc,122
+Grenada,2019,alc,0
+Guatemala,2019,alc,1050
+Guinea,2019,alc,710
+Guinea-Bissau,2019,alc,315
+Guyana,2019,alc,181
+Haiti,2019,alc,4710
+Honduras,2019,alc,788
+Hungary,2019,alc,391
+Iceland,2019,alc,2
+India,2019,alc,492800
+Indonesia,2019,alc,28000
+Iran (Islamic Republic of),2019,alc,450
+Iraq,2019,alc,275
+Ireland,2019,alc,91
+Israel,2019,alc,60
+Italy,2019,alc,260
+Jamaica,2019,alc,15
+Japan,2019,alc,2520
+Jordan,2019,alc,6
+Kazakhstan,2019,alc,3130
+Kenya,2019,alc,22790
+Kiribati,2019,alc,87
+Kuwait,2019,alc,16
+Kyrgyzstan,2019,alc,1650
+Lao People's Democratic Republic,2019,alc,2340
+Latvia,2019,alc,263
+Lebanon,2019,alc,238
+Lesotho,2019,alc,3120
+Liberia,2019,alc,2850
+Libya,2019,alc,54
+Lithuania,2019,alc,494
+Luxembourg,2019,alc,15
+Madagascar,2019,alc,6650
+Malawi,2019,alc,3550
+Malaysia,2019,alc,4030
+Maldives,2019,alc,20
+Mali,2019,alc,370
+Malta,2019,alc,9
+Mauritania,2019,alc,72
+Mauritius,2019,alc,33
+Mexico,2019,alc,3099
+Micronesia (Federated States of),2019,alc,17
+Mongolia,2019,alc,3970
+Montenegro,2019,alc,23
+Morocco,2019,alc,699
+Mozambique,2019,alc,11680
+Myanmar,2019,alc,12460
+Namibia,2019,alc,2980
+Nauru,2019,alc,3
+Nepal,2019,alc,5590
+Netherlands,2019,alc,58
+New Zealand,2019,alc,58
+Nicaragua,2019,alc,688
+Niger,2019,alc,640
+Nigeria,2019,alc,11170
+Niue,2019,alc,0
+North Macedonia,2019,alc,58
+Norway,2019,alc,47
+Oman,2019,alc,6
+Pakistan,2019,alc,9080
+Palau,2019,alc,0
+Panama,2019,alc,419
+Papua New Guinea,2019,alc,5830
+Paraguay,2019,alc,899
+Peru,2019,alc,12900
+Philippines,2019,alc,126300
+Poland,2019,alc,2820
+Portugal,2019,alc,555
+Qatar,2019,alc,13
+Republic of Korea,2019,alc,14800
+Republic of Moldova,2019,alc,859
+Romania,2019,alc,1670
+Russian Federation,2019,alc,47000
+Rwanda,2019,alc,2112
+Saint Kitts and Nevis,2019,alc,0
+Saint Lucia,2019,alc,0
+Saint Vincent and the Grenadines,2019,alc,0
+Samoa,2019,alc,3
+Sao Tome and Principe,2019,alc,60
+Saudi Arabia,2019,alc,51
+Senegal,2019,alc,620
+Serbia,2019,alc,304
+Seychelles,2019,alc,4
+Sierra Leone,2019,alc,3130
+Singapore,2019,alc,123
+Slovakia,2019,alc,82
+Slovenia,2019,alc,52
+Solomon Islands,2019,alc,78
+Somalia,2019,alc,570
+South Africa,2019,alc,92200
+Spain,2019,alc,296
+Sri Lanka,2019,alc,1923
+Sudan,2019,alc,1569
+Suriname,2019,alc,45
+Sweden,2019,alc,206
+Switzerland,2019,alc,157
+Syrian Arab Republic,2019,alc,77
+Tajikistan,2019,alc,302
+Thailand,2019,alc,24600
+Timor-Leste,2019,alc,488
+Togo,2019,alc,1043
+Tonga,2019,alc,1
+Trinidad and Tobago,2019,alc,69
+Tunisia,2019,alc,106
+Turkey,2019,alc,2700
+Turkmenistan,2019,alc,618
+Tuvalu,2019,alc,5
+Uganda,2019,alc,21100
+Ukraine,2019,alc,8820
+United Arab Emirates,2019,alc,2
+United Kingdom of Great Britain and Northern Ireland,2019,alc,1760
+United Republic of Tanzania,2019,alc,33900
+United States of America,2019,alc,4880
+Uruguay,2019,alc,323
+Uzbekistan,2019,alc,4600
+Vanuatu,2019,alc,21
+Venezuela (Bolivarian Republic of),2019,alc,3340
+Viet Nam,2019,alc,40200
+Yemen,2019,alc,209
+Zambia,2019,alc,12630
+Zimbabwe,2019,alc,7060
+Afghanistan,2019,all,360000
+Albania,2019,all,2360
+Algeria,2019,all,130110
+American Samoa,2019,all,8
+Andorra,2019,all,29
+Angola,2019,all,559000
+Anguilla,2019,all,0
+Antigua and Barbuda,2019,all,0
+Argentina,2019,all,65560
+Armenia,2019,all,3875
+Aruba,2019,all,10
+Australia,2019,all,8622
+Austria,2019,all,2806
+Azerbaijan,2019,all,30036
+Bahamas,2019,all,293
+Bahrain,2019,all,1014
+Bangladesh,2019,all,1803600
+Barbados,2019,all,0
+Belarus,2019,all,13805
+Belgium,2019,all,5111
+Belize,2019,all,513
+Benin,2019,all,32450
+Bermuda,2019,all,10
+Bhutan,2019,all,6326
+Bolivia (Plurinational State of),2019,all,60370
+Bosnia and Herzegovina,2019,all,4488
+Botswana,2019,all,29070
+Brazil,2019,all,479580
+British Virgin Islands,2019,all,5
+Brunei Darussalam,2019,all,1391
+Bulgaria,2019,all,7091
+Burkina Faso,2019,all,47910
+Burundi,2019,all,61150
+Cabo Verde,2019,all,1266
+Cambodia,2019,all,236330
+Cameroon,2019,all,230800
+Canada,2019,all,10461
+Cayman Islands,2019,all,19
+Central African Republic,2019,all,127710
+Chad,2019,all,113810
+Chile,2019,all,16684
+China,2019,all,4165500
+"China, Hong Kong SAR",2019,all,23240
+"China, Macao SAR",2019,all,2090
+Colombia,2019,all,89060
+Comoros,2019,all,1489
+Congo,2019,all,101000
+Cook Islands,2019,all,10
+Costa Rica,2019,all,2543
+Côte d'Ivoire,2019,all,176980
+Croatia,2019,all,1645
+Cuba,2019,all,3643
+Curaçao,2019,all,58
+Cyprus,2019,all,315
+Czechia,2019,all,2624
+Democratic Republic of the Congo,2019,all,1387600
+Denmark,2019,all,1452
+Djibouti,2019,all,11458
+Dominica,2019,all,58
+Dominican Republic,2019,all,22507
+Ecuador,2019,all,39698
+Egypt,2019,all,58720
+El Salvador,2019,all,18816
+Equatorial Guinea,2019,all,12248
+Eritrea,2019,all,15092
+Estonia,2019,all,848
+Eswatini,2019,all,20860
+Ethiopia,2019,all,784500
+Fiji,2019,all,2955
+Finland,2019,all,1295
+France,2019,all,28273
+French Polynesia,2019,all,278
+Gabon,2019,all,56270
+Gambia,2019,all,18498
+Georgia,2019,all,14907
+Germany,2019,all,24470
+Ghana,2019,all,217500
+Greece,2019,all,2252
+Greenland,2019,all,361
+Grenada,2019,all,15
+Guam,2019,all,456
+Guatemala,2019,all,23130
+Guinea,2019,all,111430
+Guinea-Bissau,2019,all,34780
+Guyana,2019,all,3097
+Haiti,2019,all,96150
+Honduras,2019,all,15090
+Hungary,2019,all,3042
+Iceland,2019,all,74
+India,2019,all,13182000
+Indonesia,2019,all,4226000
+Iran (Islamic Republic of),2019,all,53560
+Iraq,2019,all,80490
+Ireland,2019,all,1419
+Israel,2019,all,1242
+Italy,2019,all,21481
+Jamaica,2019,all,469
+Japan,2019,all,83952
+Jordan,2019,all,2776
+Kazakhstan,2019,all,63538
+Kenya,2019,all,702100
+Kiribati,2019,all,2548
+Kuwait,2019,all,4558
+Kyrgyzstan,2019,all,35357
+Lao People's Democratic Republic,2019,all,55380
+Latvia,2019,all,2465
+Lebanon,2019,all,4357
+Lesotho,2019,all,69660
+Liberia,2019,all,76120
+Libya,2019,all,19971
+Lithuania,2019,all,5803
+Luxembourg,2019,all,277
+Madagascar,2019,all,315100
+Malawi,2019,all,135450
+Malaysia,2019,all,145230
+Maldives,2019,all,951
+Mali,2019,all,51190
+Malta,2019,all,297
+Marshall Islands,2019,all,1418
+Mauritania,2019,all,20035
+Mauritius,2019,all,738
+Mexico,2019,all,148260
+Micronesia (Federated States of),2019,all,563
+Monaco,2019,all,0
+Mongolia,2019,all,69450
+Montenegro,2019,all,460
+Montserrat,2019,all,0
+Morocco,2019,all,176300
+Mozambique,2019,all,548400
+Myanmar,2019,all,871200
+Namibia,2019,all,60880
+Nauru,2019,all,95
+Nepal,2019,all,340300
+Netherlands,2019,all,4290
+New Caledonia,2019,all,132
+New Zealand,2019,all,1803
+Nicaragua,2019,all,13943
+Niger,2019,all,98750
+Nigeria,2019,all,2201600
+Niue,2019,all,0
+North Macedonia,2019,all,1238
+Northern Mariana Islands,2019,all,293
+Norway,2019,all,881
+"occupied Palestinian territory, including east Jerusalem",2019,all,131
+Oman,2019,all,2115
+Pakistan,2019,all,2849000
+Palau,2019,all,34
+Panama,2019,all,7853
+Papua New Guinea,2019,all,188570
+Paraguay,2019,all,16376
+Peru,2019,all,191810
+Philippines,2019,all,2996000
+Poland,2019,all,28475
+Portugal,2019,all,9954
+Puerto Rico,2019,all,205
+Qatar,2019,all,4935
+Republic of Korea,2019,all,150378
+Republic of Moldova,2019,all,16162
+Romania,2019,all,63662
+Russian Federation,2019,all,364010
+Rwanda,2019,all,36020
+Saint Kitts and Nevis,2019,all,0
+Saint Lucia,2019,all,34
+Saint Vincent and the Grenadines,2019,all,24
+Samoa,2019,all,103
+San Marino,2019,all,0
+Sao Tome and Principe,2019,all,1234
+Saudi Arabia,2019,all,16908
+Senegal,2019,all,94700
+Serbia,2019,all,6427
+Seychelles,2019,all,79
+Sierra Leone,2019,all,115980
+Singapore,2019,all,11946
+Sint Maarten (Dutch part),2019,all,27
+Slovakia,2019,all,1239
+Slovenia,2019,all,559
+Solomon Islands,2019,all,2225
+Somalia,2019,all,199700
+South Africa,2019,all,1799600
+South Sudan,2019,all,125190
+Spain,2019,all,21598
+Sri Lanka,2019,all,68230
+Sudan,2019,all,143330
+Suriname,2019,all,833
+Sweden,2019,all,2753
+Switzerland,2019,all,2307
+Syrian Arab Republic,2019,all,16134
+Tajikistan,2019,all,38700
+Thailand,2019,all,522400
+Timor-Leste,2019,all,32270
+Togo,2019,all,14988
+Tokelau,2019,all,0
+Tonga,2019,all,57
+Trinidad and Tobago,2019,all,1251
+Tunisia,2019,all,20555
+Turkey,2019,all,64272
+Turkmenistan,2019,all,13206
+Turks and Caicos Islands,2019,all,22
+Tuvalu,2019,all,172
+Uganda,2019,all,440200
+Ukraine,2019,all,169220
+United Arab Emirates,2019,all,494
+United Kingdom of Great Britain and Northern Ireland,2019,all,27017
+United Republic of Tanzania,2019,all,684700
+United States of America,2019,all,48714
+Uruguay,2019,all,6087
+Uzbekistan,2019,all,110570
+Vanuatu,2019,all,623
+Venezuela (Bolivarian Republic of),2019,all,64430
+Viet Nam,2019,all,849900
+Wallis and Futuna Islands,2019,all,5
+Yemen,2019,all,69660
+Zambia,2019,all,297200
+Zimbabwe,2019,all,144510
+Afghanistan,2019,dia,6400
+Albania,2019,dia,31
+Algeria,2019,dia,2800
+Andorra,2019,dia,0
+Angola,2019,dia,7600
+Antigua and Barbuda,2019,dia,0
+Argentina,2019,dia,1120
+Armenia,2019,dia,76
+Australia,2019,dia,95
+Austria,2019,dia,21
+Azerbaijan,2019,dia,640
+Bahamas,2019,dia,5
+Bahrain,2019,dia,21
+Bangladesh,2019,dia,30300
+Barbados,2019,dia,0
+Belarus,2019,dia,198
+Belgium,2019,dia,44
+Belize,2019,dia,11
+Benin,2019,dia,404
+Bhutan,2019,dia,131
+Bolivia (Plurinational State of),2019,dia,840
+Bosnia and Herzegovina,2019,dia,63
+Botswana,2019,dia,432
+Brazil,2019,dia,7300
+Brunei Darussalam,2019,dia,24
+Bulgaria,2019,dia,99
+Burkina Faso,2019,dia,542
+Burundi,2019,dia,452
+Cabo Verde,2019,dia,19
+Cambodia,2019,dia,3020
+Cameroon,2019,dia,2630
+Canada,2019,dia,104
+Central African Republic,2019,dia,1620
+Chad,2019,dia,1360
+Chile,2019,dia,329
+China,2019,dia,69100
+Colombia,2019,dia,1390
+Comoros,2019,dia,19
+Congo,2019,dia,1310
+Cook Islands,2019,dia,0
+Costa Rica,2019,dia,39
+Côte d'Ivoire,2019,dia,2160
+Croatia,2019,dia,22
+Cuba,2019,dia,57
+Cyprus,2019,dia,3
+Czechia,2019,dia,38
+Democratic Republic of the Congo,2019,dia,14300
+Denmark,2019,dia,11
+Djibouti,2019,dia,160
+Dominica,2019,dia,0
+Dominican Republic,2019,dia,391
+Ecuador,2019,dia,572
+Egypt,2019,dia,1740
+El Salvador,2019,dia,319
+Equatorial Guinea,2019,dia,196
+Eritrea,2019,dia,137
+Estonia,2019,dia,10
+Eswatini,2019,dia,337
+Ethiopia,2019,dia,7200
+Fiji,2019,dia,68
+Finland,2019,dia,10
+France,2019,dia,321
+Gabon,2019,dia,940
+Gambia,2019,dia,282
+Georgia,2019,dia,342
+Germany,2019,dia,247
+Ghana,2019,dia,2370
+Greece,2019,dia,28
+Grenada,2019,dia,0
+Guatemala,2019,dia,358
+Guinea,2019,dia,1270
+Guinea-Bissau,2019,dia,403
+Guyana,2019,dia,58
+Haiti,2019,dia,1390
+Honduras,2019,dia,254
+Hungary,2019,dia,44
+Iceland,2019,dia,0
+India,2019,dia,192000
+Indonesia,2019,dia,51000
+Iran (Islamic Republic of),2019,dia,1140
+Iraq,2019,dia,2230
+Ireland,2019,dia,15
+Israel,2019,dia,14
+Italy,2019,dia,245
+Jamaica,2019,dia,5
+Japan,2019,dia,1100
+Jordan,2019,dia,79
+Kazakhstan,2019,dia,1380
+Kenya,2019,dia,7100
+Kiribati,2019,dia,82
+Kuwait,2019,dia,157
+Kyrgyzstan,2019,dia,650
+Lao People's Democratic Republic,2019,dia,740
+Latvia,2019,dia,32
+Lebanon,2019,dia,99
+Lesotho,2019,dia,1040
+Liberia,2019,dia,940
+Libya,2019,dia,530
+Lithuania,2019,dia,86
+Luxembourg,2019,dia,2
+Madagascar,2019,dia,3010
+Malawi,2019,dia,1430
+Malaysia,2019,dia,2980
+Maldives,2019,dia,18
+Mali,2019,dia,670
+Malta,2019,dia,3
+Marshall Islands,2019,dia,28
+Mauritania,2019,dia,311
+Mauritius,2019,dia,15
+Mexico,2019,dia,2990
+Micronesia (Federated States of),2019,dia,16
+Mongolia,2019,dia,1320
+Montenegro,2019,dia,5
+Morocco,2019,dia,4200
+Mozambique,2019,dia,4620
+Myanmar,2019,dia,9500
+Namibia,2019,dia,760
+Nauru,2019,dia,4
+Nepal,2019,dia,6440
+Netherlands,2019,dia,36
+New Zealand,2019,dia,22
+Nicaragua,2019,dia,238
+Niger,2019,dia,970
+Nigeria,2019,dia,21700
+Niue,2019,dia,0
+North Macedonia,2019,dia,14
+Norway,2019,dia,7
+Oman,2019,dia,50
+Pakistan,2019,dia,58000
+Palau,2019,dia,0
+Panama,2019,dia,127
+Papua New Guinea,2019,dia,3760
+Paraguay,2019,dia,237
+Peru,2019,dia,2610
+Philippines,2019,dia,36500
+Poland,2019,dia,430
+Portugal,2019,dia,129
+Qatar,2019,dia,168
+Republic of Korea,2019,dia,2390
+Republic of Moldova,2019,dia,237
+Romania,2019,dia,820
+Russian Federation,2019,dia,5200
+Rwanda,2019,dia,276
+Saint Kitts and Nevis,2019,dia,0
+Saint Lucia,2019,dia,0
+Saint Vincent and the Grenadines,2019,dia,0
+Samoa,2019,dia,3
+Sao Tome and Principe,2019,dia,15
+Saudi Arabia,2019,dia,522
+Senegal,2019,dia,1240
+Serbia,2019,dia,82
+Seychelles,2019,dia,0
+Sierra Leone,2019,dia,1310
+Singapore,2019,dia,183
+Slovakia,2019,dia,12
+Slovenia,2019,dia,6
+Solomon Islands,2019,dia,47
+Somalia,2019,dia,2050
+South Africa,2019,dia,33400
+Spain,2019,dia,279
+Sri Lanka,2019,dia,880
+Sudan,2019,dia,2140
+Suriname,2019,dia,16
+Sweden,2019,dia,23
+Switzerland,2019,dia,16
+Syrian Arab Republic,2019,dia,387
+Tajikistan,2019,dia,680
+Thailand,2019,dia,8100
+Timor-Leste,2019,dia,298
+Togo,2019,dia,192
+Tonga,2019,dia,1
+Trinidad and Tobago,2019,dia,24
+Tunisia,2019,dia,440
+Turkey,2019,dia,1590
+Turkmenistan,2019,dia,283
+Tuvalu,2019,dia,4
+Uganda,2019,dia,3180
+Ukraine,2019,dia,2240
+United Arab Emirates,2019,dia,12
+United Kingdom of Great Britain and Northern Ireland,2019,dia,287
+United Republic of Tanzania,2019,dia,6800
+United States of America,2019,dia,720
+Uruguay,2019,dia,102
+Uzbekistan,2019,dia,1900
+Vanuatu,2019,dia,14
+Venezuela (Bolivarian Republic of),2019,dia,1080
+Viet Nam,2019,dia,8400
+Yemen,2019,dia,1290
+Zambia,2019,dia,3330
+Zimbabwe,2019,dia,1780
+Afghanistan,2019,hiv,660
+Albania,2019,hiv,11
+Algeria,2019,hiv,280
+Angola,2019,hiv,7700
+Argentina,2019,hiv,770
+Armenia,2019,hiv,82
+Australia,2019,hiv,23
+Austria,2019,hiv,13
+Azerbaijan,2019,hiv,91
+Bahamas,2019,hiv,15
+Bahrain,2019,hiv,13
+Bangladesh,2019,hiv,680
+Belarus,2019,hiv,190
+Belgium,2019,hiv,42
+Belize,2019,hiv,19
+Benin,2019,hiv,1100
+Bhutan,2019,hiv,2
+Bolivia (Plurinational State of),2019,hiv,590
+Bosnia and Herzegovina,2019,hiv,1
+Botswana,2019,hiv,2200
+Brazil,2019,hiv,11000
+Brunei Darussalam,2019,hiv,4
+Bulgaria,2019,hiv,14
+Burkina Faso,2019,hiv,780
+Burundi,2019,hiv,980
+Cabo Verde,2019,hiv,40
+Cambodia,2019,hiv,1100
+Cameroon,2019,hiv,12000
+Canada,2019,hiv,92
+Central African Republic,2019,hiv,6200
+Chad,2019,hiv,4000
+Chile,2019,hiv,370
+China,2019,hiv,13000
+Colombia,2019,hiv,2100
+Comoros,2019,hiv,1
+Congo,2019,hiv,5600
+Costa Rica,2019,hiv,45
+Côte d'Ivoire,2019,hiv,5900
+Croatia,2019,hiv,3
+Cuba,2019,hiv,78
+Cyprus,2019,hiv,3
+Czechia,2019,hiv,4
+Democratic Republic of the Congo,2019,hiv,29000
+Denmark,2019,hiv,7
+Djibouti,2019,hiv,62
+Dominican Republic,2019,hiv,1100
+Ecuador,2019,hiv,1100
+Egypt,2019,hiv,120
+El Salvador,2019,hiv,230
+Equatorial Guinea,2019,hiv,560
+Eritrea,2019,hiv,120
+Estonia,2019,hiv,18
+Eswatini,2019,hiv,2100
+Ethiopia,2019,hiv,9600
+Fiji,2019,hiv,40
+Finland,2019,hiv,4
+France,2019,hiv,390
+Gabon,2019,hiv,3500
+Gambia,2019,hiv,640
+Georgia,2019,hiv,50
+Germany,2019,hiv,130
+Ghana,2019,hiv,9300
+Greece,2019,hiv,15
+Guatemala,2019,hiv,550
+Guinea,2019,hiv,5200
+Guinea-Bissau,2019,hiv,2100
+Guyana,2019,hiv,110
+Haiti,2019,hiv,2800
+Honduras,2019,hiv,170
+Hungary,2019,hiv,6
+Iceland,2019,hiv,0
+India,2019,hiv,71000
+Indonesia,2019,hiv,17000
+Iran (Islamic Republic of),2019,hiv,400
+Ireland,2019,hiv,10
+Israel,2019,hiv,9
+Italy,2019,hiv,240
+Jamaica,2019,hiv,12
+Japan,2019,hiv,100
+Jordan,2019,hiv,0
+Kazakhstan,2019,hiv,690
+Kenya,2019,hiv,34000
+Kuwait,2019,hiv,3
+Kyrgyzstan,2019,hiv,150
+Lao People's Democratic Republic,2019,hiv,610
+Latvia,2019,hiv,34
+Lebanon,2019,hiv,7
+Lesotho,2019,hiv,7500
+Liberia,2019,hiv,2100
+Libya,2019,hiv,43
+Lithuania,2019,hiv,28
+Luxembourg,2019,hiv,0
+Madagascar,2019,hiv,730
+Malawi,2019,hiv,12000
+Malaysia,2019,hiv,1700
+Maldives,2019,hiv,0
+Mali,2019,hiv,980
+Malta,2019,hiv,2
+Mauritania,2019,hiv,110
+Mauritius,2019,hiv,37
+Mexico,2019,hiv,3500
+Mongolia,2019,hiv,15
+Montenegro,2019,hiv,0
+Morocco,2019,hiv,430
+Mozambique,2019,hiv,32000
+Myanmar,2019,hiv,13000
+Namibia,2019,hiv,3200
+Nepal,2019,hiv,450
+Netherlands,2019,hiv,28
+New Zealand,2019,hiv,2
+Nicaragua,2019,hiv,160
+Niger,2019,hiv,710
+Nigeria,2019,hiv,45000
+North Macedonia,2019,hiv,2
+Norway,2019,hiv,8
+Oman,2019,hiv,11
+Pakistan,2019,hiv,4800
+Panama,2019,hiv,230
+Papua New Guinea,2019,hiv,1300
+Paraguay,2019,hiv,270
+Peru,2019,hiv,2400
+Philippines,2019,hiv,12000
+Poland,2019,hiv,82
+Portugal,2019,hiv,200
+Qatar,2019,hiv,1
+Republic of Korea,2019,hiv,300
+Republic of Moldova,2019,hiv,330
+Romania,2019,hiv,230
+Russian Federation,2019,hiv,17000
+Rwanda,2019,hiv,1400
+Saudi Arabia,2019,hiv,73
+Senegal,2019,hiv,950
+Serbia,2019,hiv,3
+Sierra Leone,2019,hiv,2900
+Singapore,2019,hiv,44
+Slovakia,2019,hiv,9
+Slovenia,2019,hiv,1
+Somalia,2019,hiv,350
+South Africa,2019,hiv,187000
+Spain,2019,hiv,330
+Sri Lanka,2019,hiv,8
+Sudan,2019,hiv,630
+Suriname,2019,hiv,44
+Sweden,2019,hiv,13
+Switzerland,2019,hiv,22
+Syrian Arab Republic,2019,hiv,2
+Tajikistan,2019,hiv,220
+Thailand,2019,hiv,10000
+Timor-Leste,2019,hiv,55
+Togo,2019,hiv,450
+Trinidad and Tobago,2019,hiv,39
+Tunisia,2019,hiv,49
+Turkey,2019,hiv,150
+Turkmenistan,2019,hiv,600
+Uganda,2019,hiv,33000
+Ukraine,2019,hiv,7800
+United Arab Emirates,2019,hiv,1
+United Kingdom of Great Britain and Northern Ireland,2019,hiv,200
+United Republic of Tanzania,2019,hiv,31000
+United States of America,2019,hiv,430
+Uruguay,2019,hiv,160
+Uzbekistan,2019,hiv,870
+Venezuela (Bolivarian Republic of),2019,hiv,970
+Viet Nam,2019,hiv,5400
+Yemen,2019,hiv,120
+Zambia,2019,hiv,25000
+Zimbabwe,2019,hiv,16000
+Albania,2019,smk,136
+Algeria,2019,smk,3750
+Andorra,2019,smk,0
+Argentina,2019,smk,2630
+Armenia,2019,smk,224
+Australia,2019,smk,247
+Austria,2019,smk,143
+Azerbaijan,2019,smk,1192
+Bahamas,2019,smk,5
+Bahrain,2019,smk,41
+Bangladesh,2019,smk,68800
+Barbados,2019,smk,0
+Belarus,2019,smk,742
+Belgium,2019,smk,238
+Benin,2019,smk,417
+Bosnia and Herzegovina,2019,smk,319
+Botswana,2019,smk,1041
+Brazil,2019,smk,13700
+Brunei Darussalam,2019,smk,44
+Bulgaria,2019,smk,475
+Burkina Faso,2019,smk,1221
+Burundi,2019,smk,1210
+Cambodia,2019,smk,8180
+Cameroon,2019,smk,3727
+Canada,2019,smk,269
+Chad,2019,smk,2145
+Chile,2019,smk,1310
+China,2019,smk,213500
+Colombia,2019,smk,1560
+Comoros,2019,smk,41
+Congo,2019,smk,2528
+Cook Islands,2019,smk,0
+Costa Rica,2019,smk,53
+Côte d'Ivoire,2019,smk,4462
+Croatia,2019,smk,105
+Cuba,2019,smk,213
+Cyprus,2019,smk,19
+Czechia,2019,smk,163
+Denmark,2019,smk,51
+Dominican Republic,2019,smk,431
+Egypt,2019,smk,2309
+El Salvador,2019,smk,449
+Eritrea,2019,smk,161
+Estonia,2019,smk,49
+Eswatini,2019,smk,382
+Ethiopia,2019,smk,5450
+Fiji,2019,smk,111
+Finland,2019,smk,47
+France,2019,smk,1750
+Gambia,2019,smk,613
+Georgia,2019,smk,856
+Germany,2019,smk,1360
+Ghana,2019,smk,1576
+Greece,2019,smk,162
+Guyana,2019,smk,87
+Haiti,2019,smk,1550
+Hungary,2019,smk,174
+Iceland,2019,smk,1
+India,2019,smk,309700
+Indonesia,2019,smk,208100
+Iran (Islamic Republic of),2019,smk,1126
+Iraq,2019,smk,2686
+Ireland,2019,smk,64
+Israel,2019,smk,61
+Italy,2019,smk,990
+Jamaica,2019,smk,6
+Japan,2019,smk,3680
+Kazakhstan,2019,smk,3070
+Kenya,2019,smk,15120
+Kiribati,2019,smk,182
+Kuwait,2019,smk,189
+Kyrgyzstan,2019,smk,1743
+Lao People's Democratic Republic,2019,smk,2820
+Latvia,2019,smk,169
+Lebanon,2019,smk,252
+Lesotho,2019,smk,4007
+Liberia,2019,smk,1068
+Lithuania,2019,smk,310
+Luxembourg,2019,smk,12
+Madagascar,2019,smk,11910
+Malawi,2019,smk,2900
+Malaysia,2019,smk,6656
+Mali,2019,smk,1273
+Malta,2019,smk,14
+Mauritius,2019,smk,31
+Mexico,2019,smk,4280
+Mongolia,2019,smk,3288
+Morocco,2019,smk,5065
+Mozambique,2019,smk,13180
+Myanmar,2019,smk,30200
+Namibia,2019,smk,2370
+Nauru,2019,smk,6
+Nepal,2019,smk,13920
+Netherlands,2019,smk,199
+New Zealand,2019,smk,52
+Niger,2019,smk,1543
+Nigeria,2019,smk,18300
+Norway,2019,smk,29
+Oman,2019,smk,38
+Pakistan,2019,smk,102400
+Palau,2019,smk,0
+Panama,2019,smk,97
+Paraguay,2019,smk,442
+Peru,2019,smk,4060
+Philippines,2019,smk,138000
+Poland,2019,smk,1490
+Portugal,2019,smk,523
+Qatar,2019,smk,151
+Republic of Korea,2019,smk,6880
+Republic of Moldova,2019,smk,867
+Romania,2019,smk,3190
+Russian Federation,2019,smk,20300
+Rwanda,2019,smk,886
+Samoa,2019,smk,4
+Sao Tome and Principe,2019,smk,11
+Saudi Arabia,2019,smk,506
+Senegal,2019,smk,1565
+Serbia,2019,smk,458
+Seychelles,2019,smk,3
+Sierra Leone,2019,smk,4060
+Singapore,2019,smk,416
+Slovakia,2019,smk,58
+Slovenia,2019,smk,22
+Solomon Islands,2019,smk,127
+South Africa,2019,smk,69000
+Spain,2019,smk,1080
+Sri Lanka,2019,smk,2126
+Sweden,2019,smk,88
+Switzerland,2019,smk,106
+Thailand,2019,smk,23280
+Timor-Leste,2019,smk,2050
+Togo,2019,smk,244
+Tonga,2019,smk,2
+Tunisia,2019,smk,792
+Turkey,2019,smk,3650
+Tuvalu,2019,smk,7
+Uganda,2019,smk,6680
+Ukraine,2019,smk,8750
+United Arab Emirates,2019,smk,14
+United Kingdom of Great Britain and Northern Ireland,2019,smk,1000
+United Republic of Tanzania,2019,smk,14940
+United States of America,2019,smk,2060
+Uruguay,2019,smk,259
+Uzbekistan,2019,smk,2463
+Vanuatu,2019,smk,18
+Yemen,2019,smk,2000
+Zambia,2019,smk,8030
+Zimbabwe,2019,smk,4076
+Afghanistan,2019,und,28000
+Albania,2019,und,56
+Algeria,2019,und,2100
+Angola,2019,und,40000
+Argentina,2019,und,1200
+Armenia,2019,und,67
+Australia,2019,und,90
+Austria,2019,und,29
+Azerbaijan,2019,und,310
+Bangladesh,2019,und,88000
+Barbados,2019,und,0
+Belarus,2019,und,140
+Belgium,2019,und,53
+Belize,2019,und,14
+Benin,2019,und,1200
+Bolivia (Plurinational State of),2019,und,3300
+Bosnia and Herzegovina,2019,und,46
+Botswana,2019,und,2100
+Brazil,2019,und,5000
+Brunei Darussalam,2019,und,18
+Bulgaria,2019,und,100
+Burkina Faso,2019,und,2900
+Cabo Verde,2019,und,55
+Cambodia,2019,und,13000
+Cameroon,2019,und,8300
+Canada,2019,und,110
+Central African Republic,2019,und,15000
+Chad,2019,und,10000
+Chile,2019,und,190
+China,2019,und,132000
+"China, Hong Kong SAR",2019,und,240
+"China, Macao SAR",2019,und,82
+Colombia,2019,und,1700
+Congo,2019,und,9400
+Costa Rica,2019,und,48
+Côte d'Ivoire,2019,und,10000
+Croatia,2019,und,17
+Cuba,2019,und,38
+Cyprus,2019,und,6
+Czechia,2019,und,27
 Denmark,2019,und,15
 Djibouti,2019,und,670
 Dominica,2019,und,1
