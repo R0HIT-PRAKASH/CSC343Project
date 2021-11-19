@@ -1,0 +1,89 @@
+---
+title: "Untitled"
+author: "Tanya Thaker"
+date: "16/11/2021"
+output: pdf_document
+---
+
+```{r}
+data1 <- read.csv("TB_burden_countries_2021-09-19.csv")
+data2 <- read.csv("TB_burden_age_sex_2021-09-24.csv")
+```
+
+```{r}
+library(dplyr)
+data1 <- data1 %>% select(country, iso2, iso3, iso_numeric, year, cfr, e_inc_num)
+```
+
+```{r}
+data2 <- data1 %>% mutate(cfr = ifelse(country == data2$country && iso2 == data2$iso2 && iso3 == data2$iso3 && iso_numeric == data2$iso_numeric && year == data2$year, data2$cfr, NA))
+```
+ 
+```{r}
+gdp <- read.csv("API_NY.GDP.PCAP.CD_DS2_en_csv_v2_2916517.csv", skip = 4)
+  #read_excel("JMP-WASH-2021-data-by-country.xlsx", sheet = "Sanitation", skip=1)
+
+gdp <- gdp  %>% mutate("2000" = X2000, "2001" = X2001, "2002" = X2002, "2003" = X2003, "2004" = X2004, "2005" = X2005, "2006" = X2006, "2007" = X2007, "2008" = X2008, "2009" = X2009, "2010" = X2010, "2011" = X2011, "2012" = X2012, "2013" = X2013, "2014" = X2014, "2015" = X2015, "2016" = X2016, "2017" = X2017, "2018" = X2018, "2019" = X2019) %>% select(Country.Name, "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019")
+df1_new<-as.data.frame(t(gdp))
+trial <- rep(gdp$Country.Name, 20) 
+
+x <-  append(rep(2000, 266), rep(2001, 266))
+years <- c(2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019)
+gdp_s <- c(gdp$"2000", gdp$"2001", gdp$"2002", gdp$"2003", gdp$"2004", gdp$"2005", gdp$"2006", gdp$"2007", gdp$"2008", gdp$"2009", gdp$"2010", gdp$"2011", gdp$"2012", gdp$"2013", gdp$"2014", gdp$"2015", gdp$"2016", gdp$"2017", gdp$"2018", gdp$"2019")
+
+for (i in 1:18){
+  x <- append(x, rep(years[i], 266))
+}
+
+df1 <- data.frame("country" = trial, "year" = x,"GDP" = gdp_s)
+write.csv(df1, "gdp.csv")
+```
+
+```{r}
+data1 <- data1 %>% select(country, iso2, iso3, iso_numeric, year, cfr, e_inc_num)
+data1 <- data1 %>% filter(!is.na(cfr)) %>% select(country, year, cfr, e_inc_num)
+write.csv(data1, "t1.2.csv")
+
+```
+
+
+```{r}
+data2 <- data2 %>% select(country, year, risk_factor, best)
+
+df3 <- aggregate(data2$best, by=list(country = data2$country, year=data2$year, risk_factor=data2$risk_factor), FUN=sum)
+df3 <- df3 %>% mutate(totalcase=x) %>% select(country, year, risk_factor, totalcase)
+write.csv(df3, "t3.csv")
+```
+
+```{r}
+data3 <- read.csv("TB_expenditure_utilisation_2021-11-17.csv")
+data3 <- data3 %>% select(country, year,
+rcvd_fld,
+rcvd_lab,
+rcvd_mdrmgt,
+rcvd_orsrvy,
+rcvd_oth,
+rcvd_patsup,
+rcvd_prog,
+rcvd_sld,
+rcvd_staff,
+rcvd_tbhiv)
+```
+```{r}
+data3 <- na.omit(data3)
+write.csv(data3, "t5.csv")
+```
+
+
+```{r}
+data2<- read.csv("TB_burden_age_sex_2021-11-19.csv")
+data2 <- data2 %>% select(country, year, age_group, sex) %>% mutate(ageg = age_group) 
+data2 <- data2 %>% mutate(ageg = ifelse(ageg == "0-14", NA, ageg)) %>% mutate(ageg = ifelse(ageg == "15-24", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "18plus", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "25-34", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "35-44", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "45-54", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "55-64", "15plus", ageg)) %>% mutate(ageg = ifelse(ageg == "65plus", "15plus", ageg))
+```
+```{r}
+data2<- na.omit(data2)
+data2 <- distinct(data2)
+write.csv(data2, "t1.1.csv")
+```
+
+
