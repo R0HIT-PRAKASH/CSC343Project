@@ -17,16 +17,17 @@ create domain HealthSector as varchar(20)
 
 
 
-DROP TABLE IF EXISTS TB_Fatality CASCADE;
+DROP TABLE IF EXISTS TB_Rates CASCADE;
 CREATE TABLE TB_Fatality (
     country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
-    fatalityRate FLOAT NOT NULL,
+    fatalityRate INT NOT NULL,
+    incidenceRate INT NOT NULL,
     primary key(country, year)
 );
 
 
-DROP TABLE IF EXISTS TB_By_Country CASCADE;
+DROP TABLE IF EXISTS TB_By_Demographic CASCADE;
 CREATE TABLE TB_By_Country (
     country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
