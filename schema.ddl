@@ -12,9 +12,8 @@ create domain Sex as varchar(20)
 
 create domain HealthSector as varchar(20)
     not null
-    check (value in ('research', 'laboratory equipments', 
-    'patient support','budget line items', 'treatment types'));
-
+    check (value in ('DrugSusp', 'Lab', 
+    'Research','BudgetLine', 'Patient', 'DrugRes'));
 
 -- Contains the number of TB cases and deaths
 -- in a given country and year
@@ -36,14 +35,15 @@ CREATE TABLE TB_Rates (
 -- country and year
 -- Country - The country the row is describing
 -- Year - The year the row is describing
+-- sex - The sex of the people with TB
 -- ageRange - The ages of the people with TB
 -- tbRate - The number of TB cases that occured
 DROP TABLE IF EXISTS TB_By_Demographic CASCADE;
 CREATE TABLE TB_By_Demographic (
     country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
-    ageRange ageranges,
     sex Sex,
+    ageRange ageranges,
     tbRate FLOAT NOT NULL,
     primary key(country, year, ageRange, sex),
     foreign key (country, year) references TB_Rates
@@ -66,7 +66,6 @@ CREATE TABLE CountryGDP (
 -- Country - the country the row is describing
 -- year - The year the row is describing
 -- GDPPerCap - The GDP per capita of the country in the year
-DROP TABLE IF EXISTS CountryGDP CASCADE;
 DROP TABLE IF EXISTS CountryGDPPC CASCADE;
 CREATE TABLE CountryGDPPC (
     country VARCHAR(100) NOT NULL,

@@ -1,0 +1,279 @@
+psql (10.19 (Ubuntu 10.19-0ubuntu0.18.04.1), server 10.18 (Ubuntu 10.18-0ubuntu0.18.04.1))
+Type "help" for help.
+
+----------- (a) Load schema and data -----------
+
+csc343h-prakas72=> \i schema.ddl
+
+psql:schema.ddl:1: NOTICE:  drop cascades to 10 other objects
+DETAIL:  drop cascades to type projectschema.ageranges
+drop cascades to type projectschema.sex
+drop cascades to type projectschema.healthsector
+drop cascades to table projectschema.tb_rates
+drop cascades to table projectschema.tb_by_demographic
+drop cascades to table projectschema.countrygdp
+drop cascades to table projectschema.countrygdppc
+drop cascades to table projectschema.tbcomorbidity
+drop cascades to table projectschema.diseasecauseddeaths
+drop cascades to table projectschema.healthcarefunding
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE DOMAIN
+CREATE DOMAIN
+CREATE DOMAIN
+psql:schema.ddl:24: NOTICE:  table "tb_rates" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:41: NOTICE:  table "tb_by_demographic" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:56: NOTICE:  table "countrygdp" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:69: NOTICE:  table "countrygdppc" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:86: NOTICE:  table "tbcomorbidity" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:101: NOTICE:  table "diseasecauseddeaths" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:116: NOTICE:  table "healthcarefunding" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+csc343h-prakas72=> \i insert_data.txt
+COPY 428
+COPY 4280
+COPY 324
+COPY 324
+COPY 2129
+COPY 320
+COPY 607
+
+
+----------- (b) Run \d on each table -----------
+
+csc343h-prakas72=> \d tb_rates;
+                     Table "projectschema.tb_rates"
+    Column     |          Type          | Collation | Nullable | Default 
+---------------+------------------------+-----------+----------+---------
+ country       | character varying(100) |           | not null | 
+ year          | integer                |           | not null | 
+ fatalityrate  | integer                |           | not null | 
+ incidencerate | integer                |           | not null | 
+Indexes:
+    "tb_rates_pkey" PRIMARY KEY, btree (country, year)
+Referenced by:
+    TABLE "countrygdp" CONSTRAINT "countrygdp_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+    TABLE "countrygdppc" CONSTRAINT "countrygdppc_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+    TABLE "healthcarefunding" CONSTRAINT "healthcarefunding_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+    TABLE "tb_by_demographic" CONSTRAINT "tb_by_demographic_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+    TABLE "tbcomorbidity" CONSTRAINT "tbcomorbidity_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+csc343h-prakas72=> \d tb_by_demographic;
+              Table "projectschema.tb_by_demographic"
+  Column  |          Type          | Collation | Nullable | Default 
+----------+------------------------+-----------+----------+---------
+ country  | character varying(100) |           | not null | 
+ year     | integer                |           | not null | 
+ sex      | sex                    |           | not null | 
+ agerange | ageranges              |           | not null | 
+ tbrate   | double precision       |           | not null | 
+Indexes:
+    "tb_by_demographic_pkey" PRIMARY KEY, btree (country, year, agerange, sex)
+Foreign-key constraints:
+    "tb_by_demographic_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+csc343h-prakas72=> \d countrygdp;
+                 Table "projectschema.countrygdp"
+ Column  |          Type          | Collation | Nullable | Default 
+---------+------------------------+-----------+----------+---------
+ country | character varying(100) |           | not null | 
+ year    | integer                |           | not null | 
+ gdp     | double precision       |           | not null | 
+Indexes:
+    "countrygdp_pkey" PRIMARY KEY, btree (country, year)
+Foreign-key constraints:
+    "countrygdp_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+csc343h-prakas72=> \d countrygdppc;
+                 Table "projectschema.countrygdppc"
+  Column   |          Type          | Collation | Nullable | Default 
+-----------+------------------------+-----------+----------+---------
+ country   | character varying(100) |           | not null | 
+ year      | integer                |           | not null | 
+ gdppercap | double precision       |           | not null | 
+Indexes:
+    "countrygdppc_pkey" PRIMARY KEY, btree (country, year)
+Foreign-key constraints:
+    "countrygdppc_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+csc343h-prakas72=> \d tbcomorbidity;
+                    Table "projectschema.tbcomorbidity"
+     Column      |          Type          | Collation | Nullable | Default 
+-----------------+------------------------+-----------+----------+---------
+ country         | character varying(100) |           | not null | 
+ year            | integer                |           | not null | 
+ cname           | character varying(250) |           | not null | 
+ comorbidityrate | double precision       |           | not null | 
+Indexes:
+    "tbcomorbidity_pkey" PRIMARY KEY, btree (country, year, cname)
+Foreign-key constraints:
+    "tbcomorbidity_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+csc343h-prakas72=> \d diseasecauseddeaths;
+               Table "projectschema.diseasecauseddeaths"
+   Column    |          Type          | Collation | Nullable | Default 
+-------------+------------------------+-----------+----------+---------
+ year        | integer                |           | not null | 
+ diseasename | character varying(250) |           | not null | 
+ totaldeaths | integer                |           | not null | 
+Indexes:
+    "diseasecauseddeaths_pkey" PRIMARY KEY, btree (year, diseasename)
+
+csc343h-prakas72=> \d healthcarefunding;
+                  Table "projectschema.healthcarefunding"
+      Column      |          Type          | Collation | Nullable | Default 
+------------------+------------------------+-----------+----------+---------
+ country          | character varying(100) |           | not null | 
+ year             | integer                |           | not null | 
+ healthcaresector | healthsector           |           | not null | 
+ amount           | double precision       |           | not null | 
+Indexes:
+    "healthcarefunding_pkey" PRIMARY KEY, btree (country, year, healthcaresector)
+Foreign-key constraints:
+    "healthcarefunding_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
+
+
+
+----------- (c) Run SELECT coung(*) on each table -----------
+
+csc343h-prakas72=> select count(*) from tb_rates;
+ count 
+-------
+   428
+(1 row)
+
+csc343h-prakas72=> select count(*) from tb_by_demographic;
+ count 
+-------
+  4280
+(1 row)
+
+csc343h-prakas72=> select count(*) from countrygdp;
+ count 
+-------
+   324
+(1 row)
+
+csc343h-prakas72=> select count(*) from countrygdppc;
+ count 
+-------
+   324
+(1 row)
+
+csc343h-prakas72=> select count(*) from tbcomorbidity;
+ count 
+-------
+  2129
+(1 row)
+
+csc343h-prakas72=> select count(*) from diseasecauseddeaths;
+ count 
+-------
+   320
+(1 row)
+
+csc343h-prakas72=> select count(*) from healthcarefunding; 
+ count 
+-------
+   607
+(1 row)
+
+
+----------- (d) Show some rows from each table -----------
+
+csc343h-prakas72=> select * from tb_rates where country = 'Canada';
+ country | year | fatalityrate | incidencerate 
+---------+------+--------------+---------------
+ Canada  | 2019 |           93 |          2200
+ Canada  | 2020 |           93 |          2200
+(2 rows)
+
+csc343h-prakas72=> select * from tb_by_demographic where country = 'Canada';
+ country | year | sex | agerange | tbrate 
+---------+------+-----+----------+--------
+ Canada  | 2020 | f   | 0-4      |     30
+ Canada  | 2020 | m   | 0-4      |     27
+ Canada  | 2020 | a   | 15plus   |   2649
+ Canada  | 2020 | f   | 15plus   |   2012
+ Canada  | 2020 | m   | 15plus   |   2729
+ Canada  | 2020 | f   | 5-14     |     28
+ Canada  | 2020 | m   | 5-14     |     47
+ Canada  | 2020 | a   | all      |   2400
+ Canada  | 2020 | f   | all      |    980
+ Canada  | 2020 | m   | all      |   1200
+ Canada  | 2019 | f   | 0-4      |     27
+ Canada  | 2019 | m   | 0-4      |     32
+ Canada  | 2019 | a   | 15plus   |   2470
+ Canada  | 2019 | f   | 15plus   |   1957
+ Canada  | 2019 | m   | 15plus   |   2498
+ Canada  | 2019 | f   | 5-14     |     29
+ Canada  | 2019 | m   | 5-14     |     28
+ Canada  | 2019 | a   | all      |   2302
+ Canada  | 2019 | f   | all      |    960
+ Canada  | 2019 | m   | all      |   1100
+(20 rows)
+
+csc343h-prakas72=> select * from countrygdp where country = 'Canada';
+ country | year |       gdp        
+---------+------+------------------
+ Canada  | 2020 | 1644037286481.26
+ Canada  | 2019 | 1741576393905.98
+(2 rows)
+
+csc343h-prakas72=> select * from countrygdppc where country = 'Canada';
+ country | year |    gdppercap     
+---------+------+------------------
+ Canada  | 2020 |  43258.176319834
+ Canada  | 2019 | 46326.6726375572
+(2 rows)
+
+csc343h-prakas72=> select * from tbcomorbidity where country = 'Canada';
+ country | year | cname | comorbidityrate 
+---------+------+-------+-----------------
+ Canada  | 2019 | alc   |             602
+ Canada  | 2019 | all   |           10461
+ Canada  | 2019 | dia   |             104
+ Canada  | 2019 | hiv   |              92
+ Canada  | 2019 | smk   |             269
+ Canada  | 2019 | und   |             110
+ Canada  | 2020 | alc   |             655
+ Canada  | 2020 | all   |           11103
+ Canada  | 2020 | dia   |             114
+ Canada  | 2020 | hiv   |              80
+ Canada  | 2020 | smk   |             292
+ Canada  | 2020 | und   |             120
+(12 rows)
+
+csc343h-prakas72=> select * from diseasecauseddeaths where diseaseName = 'Leprosy'; 
+ year | diseasename | totaldeaths 
+------+-------------+-------------
+ 2019 | Leprosy     |         253
+ 2015 | Leprosy     |         242
+ 2010 | Leprosy     |         280
+(3 rows)
+
+csc343h-prakas72=> select * from HealthCareFunding where country = 'Argentina';  
+  country  | year | healthcaresector | amount  
+-----------+------+------------------+---------
+ Argentina | 2019 | DrugSusp         | 1443000
+ Argentina | 2019 | Lab              |       0
+ Argentina | 2019 | Research         |       0
+ Argentina | 2019 | BudgetLine       |       0
+ Argentina | 2019 | Patient          |       0
+ Argentina | 2019 | DrugRes          |  432800
+(6 rows)
+
