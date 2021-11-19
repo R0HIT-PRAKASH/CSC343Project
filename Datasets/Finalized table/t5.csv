@@ -1,528 +1,608 @@
-Afghanistan,2019,DrugSusp,1271127
-Angola,2019,DrugSusp,1556857
-Argentina,2019,DrugSusp,1443000
-Bangladesh,2019,DrugSusp,9556788
-Belarus,2019,DrugSusp,97000
-Belize,2019,DrugSusp,8760
-Benin,2019,DrugSusp,132140
-Bhutan,2019,DrugSusp,20985
-Bolivia (Plurinational State of),2019,DrugSusp,1068754
-Botswana,2019,DrugSusp,690000
-Brazil,2019,DrugSusp,5213364
-Bulgaria,2019,DrugSusp,196938
-Burkina Faso,2019,DrugSusp,319232
-Burundi,2019,DrugSusp,245808
-Cabo Verde,2019,DrugSusp,13000
-Cambodia,2019,DrugSusp,1400000
-Cameroon,2019,DrugSusp,477935
-Central African Republic,2019,DrugSusp,489640
-Chad,2019,DrugSusp,559144
-China,2019,DrugSusp,55852113
-Colombia,2019,DrugSusp,600000
-Congo,2019,DrugSusp,336476
-Côte d'Ivoire,2019,DrugSusp,1127313
-Democratic Republic of the Congo,2019,DrugSusp,5304375
-Dominican Republic,2019,DrugSusp,329104
-El Salvador,2019,DrugSusp,115817
-Equatorial Guinea,2019,DrugSusp,45000
-Estonia,2019,DrugSusp,14000
-Eswatini,2019,DrugSusp,83400
-Ethiopia,2019,DrugSusp,3935600
-Gambia,2019,DrugSusp,83540
-Georgia,2019,DrugSusp,65571
-Ghana,2019,DrugSusp,539392
-Guatemala,2019,DrugSusp,1056443
-Guinea,2019,DrugSusp,499710
-Guinea-Bissau,2019,DrugSusp,107730
-Guyana,2019,DrugSusp,227477
-Haiti,2019,DrugSusp,623599
-India,2019,DrugSusp,36055152
-Indonesia,2019,DrugSusp,24710793
-Iraq,2019,DrugSusp,290000
-Jordan,2019,DrugSusp,90800
-Kazakhstan,2019,DrugSusp,1220347
-Kenya,2019,DrugSusp,4398363
-Kyrgyzstan,2019,DrugSusp,393028
-Lao People's Democratic Republic,2019,DrugSusp,349025
-Lebanon,2019,DrugSusp,50424
-Lesotho,2019,DrugSusp,556357
-Madagascar,2019,DrugSusp,1026618
-Malawi,2019,DrugSusp,722918
-Mali,2019,DrugSusp,403959
-Marshall Islands,2019,DrugSusp,23100
-Mexico,2019,DrugSusp,1572350
-Micronesia (Federated States of),2019,DrugSusp,25000
-Mongolia,2019,DrugSusp,540736
-Morocco,2019,DrugSusp,3600000
-Mozambique,2019,DrugSusp,2877570
-Myanmar,2019,DrugSusp,3145428
-Namibia,2019,DrugSusp,676593
-Nepal,2019,DrugSusp,1236588
-Nicaragua,2019,DrugSusp,158660
-Pakistan,2019,DrugSusp,8260230
-Paraguay,2019,DrugSusp,119533
-Peru,2019,DrugSusp,2104468
-Republic of Korea,2019,DrugSusp,304490
-Republic of Moldova,2019,DrugSusp,154785
-Romania,2019,DrugSusp,1038142
-Russian Federation,2019,DrugSusp,3074826
-Rwanda,2019,DrugSusp,211356
-Sao Tome and Principe,2019,DrugSusp,6183
-Senegal,2019,DrugSusp,304132
-Solomon Islands,2019,DrugSusp,36050
-Somalia,2019,DrugSusp,478168
-South Sudan,2019,DrugSusp,596135
-Suriname,2019,DrugSusp,14474
-Syrian Arab Republic,2019,DrugSusp,160860
-Tajikistan,2019,DrugSusp,322704
-Thailand,2019,DrugSusp,9823237
-Timor-Leste,2019,DrugSusp,136414
-Togo,2019,DrugSusp,114304
-Uganda,2019,DrugSusp,2369677
-Ukraine,2019,DrugSusp,0
-Uruguay,2019,DrugSusp,111936
-Venezuela (Bolivarian Republic of),2019,DrugSusp,213860
-Viet Nam,2019,DrugSusp,799878
-Yemen,2019,DrugSusp,430359
-Zambia,2019,DrugSusp,5751096
-Zimbabwe,2019,DrugSusp,1172967
-Afghanistan,2019,Lab,2165197
-Angola,2019,Lab,784599
-Argentina,2019,Lab,0
-Bangladesh,2019,Lab,9242380
-Belarus,2019,Lab,692040
-Belize,2019,Lab,53900
-Benin,2019,Lab,762665
-Bhutan,2019,Lab,149566
-Bolivia (Plurinational State of),2019,Lab,3269144
-Botswana,2019,Lab,80000
-Brazil,2019,Lab,6774730
-Bulgaria,2019,Lab,428792
-Burkina Faso,2019,Lab,1161373
-Burundi,2019,Lab,331306
-Cabo Verde,2019,Lab,11000
-Cambodia,2019,Lab,1603700
-Cameroon,2019,Lab,785954
-Central African Republic,2019,Lab,219619
-Chad,2019,Lab,660238
-China,2019,Lab,10816901
-Colombia,2019,Lab,312500
-Congo,2019,Lab,2184237
-Côte d'Ivoire,2019,Lab,706622
-Democratic Republic of the Congo,2019,Lab,1466023
-Dominican Republic,2019,Lab,1086530
-El Salvador,2019,Lab,419763
-Equatorial Guinea,2019,Lab,5000
-Estonia,2019,Lab,18000
-Eswatini,2019,Lab,942154
-Ethiopia,2019,Lab,6780166
-Gambia,2019,Lab,147210
-Georgia,2019,Lab,3225844
-Ghana,2019,Lab,4846333
-Guatemala,2019,Lab,1439906
-Guinea,2019,Lab,1293514
-Guinea-Bissau,2019,Lab,134517
-Guyana,2019,Lab,63101
-Haiti,2019,Lab,405212
-India,2019,Lab,55733796
-Indonesia,2019,Lab,21039370
-Iraq,2019,Lab,1000000
-Jordan,2019,Lab,150000
-Kazakhstan,2019,Lab,6763194
-Kenya,2019,Lab,9993968
-Kyrgyzstan,2019,Lab,1148568
-Lao People's Democratic Republic,2019,Lab,1571997
-Lebanon,2019,Lab,100000
-Lesotho,2019,Lab,1850229
-Madagascar,2019,Lab,317485
-Malawi,2019,Lab,3355677
-Mali,2019,Lab,47538
-Marshall Islands,2019,Lab,25000
-Mexico,2019,Lab,2456992
-Micronesia (Federated States of),2019,Lab,10000
-Mongolia,2019,Lab,519763
-Morocco,2019,Lab,3400500
-Mozambique,2019,Lab,2215653
-Myanmar,2019,Lab,4111879
-Namibia,2019,Lab,1679039
-Nepal,2019,Lab,2042812
-Nicaragua,2019,Lab,2211612
-Pakistan,2019,Lab,5086662
-Paraguay,2019,Lab,638105
-Peru,2019,Lab,14686795
-Republic of Korea,2019,Lab,1855510
-Republic of Moldova,2019,Lab,1670127
-Romania,2019,Lab,2774479
-Russian Federation,2019,Lab,30417457
-Rwanda,2019,Lab,3020932
-Sao Tome and Principe,2019,Lab,64548
-Senegal,2019,Lab,1001626
-Solomon Islands,2019,Lab,187885
-Somalia,2019,Lab,990813
-South Sudan,2019,Lab,93793
-Suriname,2019,Lab,325601
-Syrian Arab Republic,2019,Lab,277600
-Tajikistan,2019,Lab,1020112
-Thailand,2019,Lab,6367936
-Timor-Leste,2019,Lab,490391
-Togo,2019,Lab,280965
-Uganda,2019,Lab,8815288
-Ukraine,2019,Lab,3535027
-Uruguay,2019,Lab,180449
-Venezuela (Bolivarian Republic of),2019,Lab,80404
-Viet Nam,2019,Lab,6791184
-Yemen,2019,Lab,187682
-Zambia,2019,Lab,1412486
-Zimbabwe,2019,Lab,1762498
-Afghanistan,2019,Research,168000
-Angola,2019,Research,0
-Argentina,2019,Research,0
-Bangladesh,2019,Research,5744739
-Belarus,2019,Research,148873
-Belize,2019,Research,0
-Benin,2019,Research,54427
-Bhutan,2019,Research,0
-Bolivia (Plurinational State of),2019,Research,40973
-Botswana,2019,Research,7500000
-Brazil,2019,Research,1314849
-Bulgaria,2019,Research,0
-Burkina Faso,2019,Research,88500
-Burundi,2019,Research,208042
-Cabo Verde,2019,Research,0
-Cambodia,2019,Research,0
-Cameroon,2019,Research,0
-Central African Republic,2019,Research,10000
-Chad,2019,Research,7000
-China,2019,Research,26287324
-Colombia,2019,Research,228438
-Congo,2019,Research,0
-Côte d'Ivoire,2019,Research,39775
-Democratic Republic of the Congo,2019,Research,692236
-Dominican Republic,2019,Research,25000
-El Salvador,2019,Research,48031
-Equatorial Guinea,2019,Research,0
-Estonia,2019,Research,0
-Eswatini,2019,Research,575830
-Ethiopia,2019,Research,1048225
-Gambia,2019,Research,16915
-Georgia,2019,Research,44797
-Ghana,2019,Research,143105
-Guatemala,2019,Research,0
-Guinea,2019,Research,157800
-Guinea-Bissau,2019,Research,0
-Guyana,2019,Research,8102
-Haiti,2019,Research,53808
-India,2019,Research,5061915
-Indonesia,2019,Research,755279
-Iraq,2019,Research,0
-Jordan,2019,Research,60000
-Kazakhstan,2019,Research,158344
-Kenya,2019,Research,1395856
-Kyrgyzstan,2019,Research,43165
-Lao People's Democratic Republic,2019,Research,95073
-Lebanon,2019,Research,0
-Lesotho,2019,Research,594797
-Madagascar,2019,Research,81099
-Malawi,2019,Research,406071
-Mali,2019,Research,73411
-Marshall Islands,2019,Research,0
-Mexico,2019,Research,1524
-Micronesia (Federated States of),2019,Research,0
-Mongolia,2019,Research,18797
-Morocco,2019,Research,0
-Mozambique,2019,Research,528970
-Myanmar,2019,Research,178972
-Namibia,2019,Research,231463
-Nepal,2019,Research,1934295
-Nicaragua,2019,Research,46700
-Pakistan,2019,Research,35002
-Paraguay,2019,Research,114714
-Peru,2019,Research,23829
-Republic of Korea,2019,Research,180408
-Republic of Moldova,2019,Research,0
-Romania,2019,Research,0
-Russian Federation,2019,Research,120402
-Rwanda,2019,Research,150000
-Sao Tome and Principe,2019,Research,0
-Senegal,2019,Research,31715
-Solomon Islands,2019,Research,94666
-Somalia,2019,Research,0
-South Sudan,2019,Research,0
-Suriname,2019,Research,1387
-Syrian Arab Republic,2019,Research,0
-Tajikistan,2019,Research,0
-Thailand,2019,Research,704063
-Timor-Leste,2019,Research,172879
-Togo,2019,Research,33554
-Uganda,2019,Research,170000
-Ukraine,2019,Research,93016
-Uruguay,2019,Research,146952
-Venezuela (Bolivarian Republic of),2019,Research,0
-Viet Nam,2019,Research,125000
-Yemen,2019,Research,0
-Zambia,2019,Research,300000
-Zimbabwe,2019,Research,122767
-Afghanistan,2019,BudgetLine,4163413
-Angola,2019,BudgetLine,0
-Argentina,2019,BudgetLine,0
-Bangladesh,2019,BudgetLine,3225611
-Belarus,2019,BudgetLine,0
-Belize,2019,BudgetLine,16400
-Benin,2019,BudgetLine,0
-Bhutan,2019,BudgetLine,0
-Bolivia (Plurinational State of),2019,BudgetLine,0
-Botswana,2019,BudgetLine,0
-Brazil,2019,BudgetLine,17000
-Bulgaria,2019,BudgetLine,0
-Burkina Faso,2019,BudgetLine,26078
-Burundi,2019,BudgetLine,9808
-Cabo Verde,2019,BudgetLine,0
-Cambodia,2019,BudgetLine,6064
-Cameroon,2019,BudgetLine,0
-Central African Republic,2019,BudgetLine,42480
-Chad,2019,BudgetLine,27115
-China,2019,BudgetLine,0
-Colombia,2019,BudgetLine,1090666
-Congo,2019,BudgetLine,916509
-Côte d'Ivoire,2019,BudgetLine,432240
-Democratic Republic of the Congo,2019,BudgetLine,1626649
-Dominican Republic,2019,BudgetLine,1450000
-El Salvador,2019,BudgetLine,267755
-Equatorial Guinea,2019,BudgetLine,0
-Estonia,2019,BudgetLine,10000
-Eswatini,2019,BudgetLine,1064326
-Ethiopia,2019,BudgetLine,224896
-Gambia,2019,BudgetLine,232772
-Georgia,2019,BudgetLine,4638985
-Ghana,2019,BudgetLine,400813
-Guatemala,2019,BudgetLine,0
-Guinea,2019,BudgetLine,135000
-Guinea-Bissau,2019,BudgetLine,0
-Guyana,2019,BudgetLine,2942
-Haiti,2019,BudgetLine,14813
-India,2019,BudgetLine,35088111
-Indonesia,2019,BudgetLine,0
-Iraq,2019,BudgetLine,900000
-Jordan,2019,BudgetLine,50000
-Kazakhstan,2019,BudgetLine,18277530
-Kenya,2019,BudgetLine,5681181
-Kyrgyzstan,2019,BudgetLine,2679716
-Lao People's Democratic Republic,2019,BudgetLine,527103
-Lebanon,2019,BudgetLine,0
-Lesotho,2019,BudgetLine,0
-Madagascar,2019,BudgetLine,344034
-Malawi,2019,BudgetLine,2978745
-Mali,2019,BudgetLine,303325
-Marshall Islands,2019,BudgetLine,0
-Mexico,2019,BudgetLine,0
-Micronesia (Federated States of),2019,BudgetLine,0
-Mongolia,2019,BudgetLine,72851
-Morocco,2019,BudgetLine,0
-Mozambique,2019,BudgetLine,1413772
-Myanmar,2019,BudgetLine,6349768
-Namibia,2019,BudgetLine,1300000
-Nepal,2019,BudgetLine,0
-Nicaragua,2019,BudgetLine,0
-Pakistan,2019,BudgetLine,6580128
-Paraguay,2019,BudgetLine,0
-Peru,2019,BudgetLine,0
-Republic of Korea,2019,BudgetLine,1919184
-Republic of Moldova,2019,BudgetLine,212880
-Romania,2019,BudgetLine,1605913
-Russian Federation,2019,BudgetLine,304089894
-Rwanda,2019,BudgetLine,24511
-Sao Tome and Principe,2019,BudgetLine,136124
-Senegal,2019,BudgetLine,104167
-Solomon Islands,2019,BudgetLine,0
-Somalia,2019,BudgetLine,3763612
-South Sudan,2019,BudgetLine,2201956
-Suriname,2019,BudgetLine,102366
-Syrian Arab Republic,2019,BudgetLine,0
-Tajikistan,2019,BudgetLine,4747409
-Thailand,2019,BudgetLine,411524
-Timor-Leste,2019,BudgetLine,254089
-Togo,2019,BudgetLine,29993
-Uganda,2019,BudgetLine,2925315
-Ukraine,2019,BudgetLine,97684450
-Uruguay,2019,BudgetLine,403359
-Venezuela (Bolivarian Republic of),2019,BudgetLine,0
-Viet Nam,2019,BudgetLine,1125484
-Yemen,2019,BudgetLine,0
-Zambia,2019,BudgetLine,410000
-Zimbabwe,2019,BudgetLine,0
-Afghanistan,2019,Patient,390027
-Angola,2019,Patient,221769
-Argentina,2019,Patient,0
-Bangladesh,2019,Patient,834423
-Belarus,2019,Patient,251073
-Belize,2019,Patient,28880
-Benin,2019,Patient,173883
-Bhutan,2019,Patient,4161
-Bolivia (Plurinational State of),2019,Patient,122605
-Botswana,2019,Patient,64610
-Brazil,2019,Patient,0
-Bulgaria,2019,Patient,49916
-Burkina Faso,2019,Patient,180082
-Burundi,2019,Patient,24082
-Cabo Verde,2019,Patient,0
-Cambodia,2019,Patient,150443
-Cameroon,2019,Patient,301679
-Central African Republic,2019,Patient,262500
-Chad,2019,Patient,36569
-China,2019,Patient,0
-Colombia,2019,Patient,48750
-Congo,2019,Patient,5782
-Côte d'Ivoire,2019,Patient,452942
-Democratic Republic of the Congo,2019,Patient,1724964
-Dominican Republic,2019,Patient,198389
-El Salvador,2019,Patient,90098
-Equatorial Guinea,2019,Patient,0
-Estonia,2019,Patient,40000
-Eswatini,2019,Patient,265911
-Ethiopia,2019,Patient,626071
-Gambia,2019,Patient,27355
-Georgia,2019,Patient,434640
-Ghana,2019,Patient,624127
-Guatemala,2019,Patient,139534
-Guinea,2019,Patient,98000
-Guinea-Bissau,2019,Patient,81461
-Guyana,2019,Patient,36006
-Haiti,2019,Patient,496122
-India,2019,Patient,93289514
-Indonesia,2019,Patient,3471106
-Iraq,2019,Patient,90000
-Jordan,2019,Patient,50000
-Kazakhstan,2019,Patient,5474159
-Kenya,2019,Patient,766853
-Kyrgyzstan,2019,Patient,348997
-Lao People's Democratic Republic,2019,Patient,109311
-Lebanon,2019,Patient,29156
-Lesotho,2019,Patient,1691442
-Madagascar,2019,Patient,160119
-Malawi,2019,Patient,135483
-Mali,2019,Patient,12518
-Marshall Islands,2019,Patient,0
-Mexico,2019,Patient,19219
-Micronesia (Federated States of),2019,Patient,0
-Mongolia,2019,Patient,204076
-Morocco,2019,Patient,0
-Mozambique,2019,Patient,233910
-Myanmar,2019,Patient,3286780
-Namibia,2019,Patient,459091
-Nepal,2019,Patient,552241
-Nicaragua,2019,Patient,99107
-Pakistan,2019,Patient,464850
-Paraguay,2019,Patient,314818
-Peru,2019,Patient,15236265
-Republic of Korea,2019,Patient,93878
-Republic of Moldova,2019,Patient,1686750
-Romania,2019,Patient,0
-Russian Federation,2019,Patient,882564
-Rwanda,2019,Patient,263497
-Sao Tome and Principe,2019,Patient,25557
-Senegal,2019,Patient,116225
-Solomon Islands,2019,Patient,0
-Somalia,2019,Patient,292579
-South Sudan,2019,Patient,4500
-Suriname,2019,Patient,37718
-Syrian Arab Republic,2019,Patient,61000
-Tajikistan,2019,Patient,217407
-Thailand,2019,Patient,290009
-Timor-Leste,2019,Patient,220815
-Togo,2019,Patient,22824
-Uganda,2019,Patient,1359484
-Ukraine,2019,Patient,5478933
-Uruguay,2019,Patient,499337
-Venezuela (Bolivarian Republic of),2019,Patient,0
-Viet Nam,2019,Patient,1230019
-Yemen,2019,Patient,21037
-Zambia,2019,Patient,920000
-Zimbabwe,2019,Patient,222000
-Afghanistan,2019,DrugRes,1029396
-Angola,2019,DrugRes,2473378
-Argentina,2019,DrugRes,432800
-Bangladesh,2019,DrugRes,2269802
-Belarus,2019,DrugRes,9860841
-Belize,2019,DrugRes,0
-Benin,2019,DrugRes,46658
-Bhutan,2019,DrugRes,149623
-Bolivia (Plurinational State of),2019,DrugRes,406462
-Botswana,2019,DrugRes,766900
-Brazil,2019,DrugRes,2055159
-Bulgaria,2019,DrugRes,110148
-Burkina Faso,2019,DrugRes,58212
-Burundi,2019,DrugRes,63936
-Cabo Verde,2019,DrugRes,3000
-Cambodia,2019,DrugRes,93270
-Cameroon,2019,DrugRes,276402
-Central African Republic,2019,DrugRes,118008
-Chad,2019,DrugRes,137305
-China,2019,DrugRes,111526915
-Colombia,2019,DrugRes,517500
-Congo,2019,DrugRes,66757
-Côte d'Ivoire,2019,DrugRes,223113
-Democratic Republic of the Congo,2019,DrugRes,2654961
-Dominican Republic,2019,DrugRes,422400
-El Salvador,2019,DrugRes,2507
-Equatorial Guinea,2019,DrugRes,38000
-Estonia,2019,DrugRes,350000
-Eswatini,2019,DrugRes,959879
-Ethiopia,2019,DrugRes,1805875
-Gambia,2019,DrugRes,20990
-Georgia,2019,DrugRes,1287453
-Ghana,2019,DrugRes,253983
-Guatemala,2019,DrugRes,2580
-Guinea,2019,DrugRes,72716
-Guinea-Bissau,2019,DrugRes,74500
-Guyana,2019,DrugRes,51228
-Haiti,2019,DrugRes,197309
-India,2019,DrugRes,45687233
-Indonesia,2019,DrugRes,10009722
-Iraq,2019,DrugRes,436000
-Jordan,2019,DrugRes,50000
-Kazakhstan,2019,DrugRes,16273847
-Kenya,2019,DrugRes,1275733
-Kyrgyzstan,2019,DrugRes,4778738
-Lao People's Democratic Republic,2019,DrugRes,81780
-Lebanon,2019,DrugRes,8715
-Lesotho,2019,DrugRes,1320870
-Madagascar,2019,DrugRes,90941
-Malawi,2019,DrugRes,442295
-Mali,2019,DrugRes,364308
-Marshall Islands,2019,DrugRes,360000
-Mexico,2019,DrugRes,188501
-Micronesia (Federated States of),2019,DrugRes,0
-Mongolia,2019,DrugRes,503730
-Morocco,2019,DrugRes,1500000
-Mozambique,2019,DrugRes,3949400
-Myanmar,2019,DrugRes,1227079
-Namibia,2019,DrugRes,1380361
-Nepal,2019,DrugRes,1133922
-Nicaragua,2019,DrugRes,207958
-Pakistan,2019,DrugRes,11620786
-Paraguay,2019,DrugRes,18408
-Peru,2019,DrugRes,4754461
-Republic of Korea,2019,DrugRes,226122
-Republic of Moldova,2019,DrugRes,1266634
-Romania,2019,DrugRes,682312
-Russian Federation,2019,DrugRes,87185969
-Rwanda,2019,DrugRes,123400
-Sao Tome and Principe,2019,DrugRes,6549
-Senegal,2019,DrugRes,207435
-Solomon Islands,2019,DrugRes,4690
-Somalia,2019,DrugRes,700408
-South Sudan,2019,DrugRes,204716
-Suriname,2019,DrugRes,0
-Syrian Arab Republic,2019,DrugRes,33000
-Tajikistan,2019,DrugRes,2317780
-Thailand,2019,DrugRes,5581323
-Timor-Leste,2019,DrugRes,31132
-Togo,2019,DrugRes,5355
-Uganda,2019,DrugRes,859530
-Ukraine,2019,DrugRes,20211491
-Uruguay,2019,DrugRes,7200
-Venezuela (Bolivarian Republic of),2019,DrugRes,27404
-Viet Nam,2019,DrugRes,3134052
-Yemen,2019,DrugRes,178820
-Zambia,2019,DrugRes,2911000
-Zimbabwe,2019,DrugRes,866960
+"","country","year","healthsector","amount"
+"1","Afghanistan",2019,"DrugSusp",1271127
+"6","Angola",2019,"DrugSusp",1556857
+"9","Argentina",2019,"DrugSusp",1443000
+"10","Armenia",2019,"DrugSusp",68750
+"14","Azerbaijan",2019,"DrugSusp",261320
+"17","Bangladesh",2019,"DrugSusp",9556788
+"19","Belarus",2019,"DrugSusp",97000
+"21","Belize",2019,"DrugSusp",8760
+"22","Benin",2019,"DrugSusp",132140
+"24","Bhutan",2019,"DrugSusp",20985
+"25","Bolivia (Plurinational State of)",2019,"DrugSusp",1068754
+"26","Bosnia and Herzegovina",2019,"DrugSusp",41056
+"27","Botswana",2019,"DrugSusp",690000
+"28","Brazil",2019,"DrugSusp",5213364
+"31","Bulgaria",2019,"DrugSusp",196938
+"32","Burkina Faso",2019,"DrugSusp",319232
+"33","Burundi",2019,"DrugSusp",245808
+"34","Cabo Verde",2019,"DrugSusp",13000
+"35","Cambodia",2019,"DrugSusp",1400000
+"36","Cameroon",2019,"DrugSusp",477935
+"39","Central African Republic",2019,"DrugSusp",489640
+"40","Chad",2019,"DrugSusp",559144
+"42","China",2019,"DrugSusp",55852113
+"45","Colombia",2019,"DrugSusp",600000
+"47","Congo",2019,"DrugSusp",336476
+"50","Côte d'Ivoire",2019,"DrugSusp",1127313
+"56","Democratic Republic of the Congo",2019,"DrugSusp",5304375
+"60","Dominican Republic",2019,"DrugSusp",329104
+"61","Ecuador",2019,"DrugSusp",595000
+"63","El Salvador",2019,"DrugSusp",115817
+"64","Equatorial Guinea",2019,"DrugSusp",45000
+"65","Eritrea",2019,"DrugSusp",97584
+"66","Estonia",2019,"DrugSusp",14000
+"67","Eswatini",2019,"DrugSusp",83400
+"68","Ethiopia",2019,"DrugSusp",3935600
+"69","Fiji",2019,"DrugSusp",10000
+"73","Gabon",2019,"DrugSusp",562291
+"74","Gambia",2019,"DrugSusp",83540
+"75","Georgia",2019,"DrugSusp",65571
+"77","Ghana",2019,"DrugSusp",539392
+"82","Guatemala",2019,"DrugSusp",1056443
+"83","Guinea",2019,"DrugSusp",499710
+"84","Guinea-Bissau",2019,"DrugSusp",107730
+"85","Guyana",2019,"DrugSusp",227477
+"86","Haiti",2019,"DrugSusp",623599
+"87","Honduras",2019,"DrugSusp",73710
+"90","India",2019,"DrugSusp",36055152
+"91","Indonesia",2019,"DrugSusp",24710793
+"92","Iran (Islamic Republic of)",2019,"DrugSusp",1078056
+"93","Iraq",2019,"DrugSusp",290000
+"99","Jordan",2019,"DrugSusp",90800
+"100","Kazakhstan",2019,"DrugSusp",1220347
+"101","Kenya",2019,"DrugSusp",4398363
+"104","Kyrgyzstan",2019,"DrugSusp",393028
+"105","Lao People's Democratic Republic",2019,"DrugSusp",349025
+"106","Latvia",2019,"DrugSusp",130078
+"107","Lebanon",2019,"DrugSusp",50424
+"108","Lesotho",2019,"DrugSusp",556357
+"113","Madagascar",2019,"DrugSusp",1026618
+"114","Malawi",2019,"DrugSusp",722918
+"115","Malaysia",2019,"DrugSusp",1808590
+"117","Mali",2019,"DrugSusp",403959
+"119","Marshall Islands",2019,"DrugSusp",23100
+"120","Mauritania",2019,"DrugSusp",91667
+"122","Mexico",2019,"DrugSusp",1572350
+"123","Micronesia (Federated States of)",2019,"DrugSusp",25000
+"125","Mongolia",2019,"DrugSusp",540736
+"128","Morocco",2019,"DrugSusp",3600000
+"129","Mozambique",2019,"DrugSusp",2877570
+"130","Myanmar",2019,"DrugSusp",3145428
+"131","Namibia",2019,"DrugSusp",676593
+"133","Nepal",2019,"DrugSusp",1236588
+"137","Nicaragua",2019,"DrugSusp",158660
+"146","Pakistan",2019,"DrugSusp",8260230
+"148","Panama",2019,"DrugSusp",22485
+"150","Paraguay",2019,"DrugSusp",119533
+"151","Peru",2019,"DrugSusp",2104468
+"152","Philippines",2019,"DrugSusp",10261245
+"157","Republic of Korea",2019,"DrugSusp",304490
+"158","Republic of Moldova",2019,"DrugSusp",154785
+"159","Romania",2019,"DrugSusp",1038142
+"160","Russian Federation",2019,"DrugSusp",3074826
+"161","Rwanda",2019,"DrugSusp",211356
+"167","Sao Tome and Principe",2019,"DrugSusp",6183
+"169","Senegal",2019,"DrugSusp",304132
+"172","Sierra Leone",2019,"DrugSusp",1003716
+"177","Solomon Islands",2019,"DrugSusp",36050
+"178","Somalia",2019,"DrugSusp",478168
+"180","South Sudan",2019,"DrugSusp",596135
+"182","Sri Lanka",2019,"DrugSusp",421952
+"183","Sudan",2019,"DrugSusp",1937293
+"184","Suriname",2019,"DrugSusp",14474
+"187","Syrian Arab Republic",2019,"DrugSusp",160860
+"188","Tajikistan",2019,"DrugSusp",322704
+"189","Thailand",2019,"DrugSusp",9823237
+"190","Timor-Leste",2019,"DrugSusp",136414
+"191","Togo",2019,"DrugSusp",114304
+"200","Uganda",2019,"DrugSusp",2369677
+"201","Ukraine",2019,"DrugSusp",0
+"204","United Republic of Tanzania",2019,"DrugSusp",3584547
+"206","Uruguay",2019,"DrugSusp",111936
+"209","Venezuela (Bolivarian Republic of)",2019,"DrugSusp",213860
+"210","Viet Nam",2019,"DrugSusp",799878
+"212","Yemen",2019,"DrugSusp",430359
+"213","Zambia",2019,"DrugSusp",5751096
+"214","Zimbabwe",2019,"DrugSusp",1172967
+"215","Afghanistan",2019,"Lab",2165197
+"220","Angola",2019,"Lab",784599
+"223","Argentina",2019,"Lab",0
+"224","Armenia",2019,"Lab",171472
+"228","Azerbaijan",2019,"Lab",642024
+"231","Bangladesh",2019,"Lab",9242380
+"233","Belarus",2019,"Lab",692040
+"235","Belize",2019,"Lab",53900
+"236","Benin",2019,"Lab",762665
+"238","Bhutan",2019,"Lab",149566
+"239","Bolivia (Plurinational State of)",2019,"Lab",3269144
+"241","Botswana",2019,"Lab",80000
+"242","Brazil",2019,"Lab",6774730
+"245","Bulgaria",2019,"Lab",428792
+"246","Burkina Faso",2019,"Lab",1161373
+"247","Burundi",2019,"Lab",331306
+"248","Cabo Verde",2019,"Lab",11000
+"249","Cambodia",2019,"Lab",1603700
+"250","Cameroon",2019,"Lab",785954
+"253","Central African Republic",2019,"Lab",219619
+"254","Chad",2019,"Lab",660238
+"256","China",2019,"Lab",10816901
+"259","Colombia",2019,"Lab",312500
+"261","Congo",2019,"Lab",2184237
+"264","Côte d'Ivoire",2019,"Lab",706622
+"270","Democratic Republic of the Congo",2019,"Lab",1466023
+"274","Dominican Republic",2019,"Lab",1086530
+"277","El Salvador",2019,"Lab",419763
+"278","Equatorial Guinea",2019,"Lab",5000
+"279","Eritrea",2019,"Lab",573626
+"280","Estonia",2019,"Lab",18000
+"281","Eswatini",2019,"Lab",942154
+"282","Ethiopia",2019,"Lab",6780166
+"283","Fiji",2019,"Lab",25000
+"287","Gabon",2019,"Lab",60576
+"288","Gambia",2019,"Lab",147210
+"289","Georgia",2019,"Lab",3225844
+"291","Ghana",2019,"Lab",4846333
+"296","Guatemala",2019,"Lab",1439906
+"297","Guinea",2019,"Lab",1293514
+"298","Guinea-Bissau",2019,"Lab",134517
+"299","Guyana",2019,"Lab",63101
+"300","Haiti",2019,"Lab",405212
+"301","Honduras",2019,"Lab",1621452
+"304","India",2019,"Lab",55733796
+"305","Indonesia",2019,"Lab",21039370
+"307","Iraq",2019,"Lab",1000000
+"313","Jordan",2019,"Lab",150000
+"314","Kazakhstan",2019,"Lab",6763194
+"315","Kenya",2019,"Lab",9993968
+"318","Kyrgyzstan",2019,"Lab",1148568
+"319","Lao People's Democratic Republic",2019,"Lab",1571997
+"321","Lebanon",2019,"Lab",100000
+"322","Lesotho",2019,"Lab",1850229
+"327","Madagascar",2019,"Lab",317485
+"328","Malawi",2019,"Lab",3355677
+"329","Malaysia",2019,"Lab",800000
+"331","Mali",2019,"Lab",47538
+"333","Marshall Islands",2019,"Lab",25000
+"334","Mauritania",2019,"Lab",444537
+"336","Mexico",2019,"Lab",2456992
+"337","Micronesia (Federated States of)",2019,"Lab",10000
+"339","Mongolia",2019,"Lab",519763
+"342","Morocco",2019,"Lab",3400500
+"343","Mozambique",2019,"Lab",2215653
+"344","Myanmar",2019,"Lab",4111879
+"345","Namibia",2019,"Lab",1679039
+"347","Nepal",2019,"Lab",2042812
+"351","Nicaragua",2019,"Lab",2211612
+"352","Niger",2019,"Lab",18860
+"360","Pakistan",2019,"Lab",5086662
+"364","Paraguay",2019,"Lab",638105
+"365","Peru",2019,"Lab",14686795
+"366","Philippines",2019,"Lab",9224858
+"371","Republic of Korea",2019,"Lab",1855510
+"372","Republic of Moldova",2019,"Lab",1670127
+"373","Romania",2019,"Lab",2774479
+"374","Russian Federation",2019,"Lab",30417457
+"375","Rwanda",2019,"Lab",3020932
+"381","Sao Tome and Principe",2019,"Lab",64548
+"383","Senegal",2019,"Lab",1001626
+"386","Sierra Leone",2019,"Lab",300000
+"391","Solomon Islands",2019,"Lab",187885
+"392","Somalia",2019,"Lab",990813
+"394","South Sudan",2019,"Lab",93793
+"396","Sri Lanka",2019,"Lab",927130
+"397","Sudan",2019,"Lab",1962491
+"398","Suriname",2019,"Lab",325601
+"401","Syrian Arab Republic",2019,"Lab",277600
+"402","Tajikistan",2019,"Lab",1020112
+"403","Thailand",2019,"Lab",6367936
+"404","Timor-Leste",2019,"Lab",490391
+"405","Togo",2019,"Lab",280965
+"414","Uganda",2019,"Lab",8815288
+"415","Ukraine",2019,"Lab",3535027
+"418","United Republic of Tanzania",2019,"Lab",339808
+"420","Uruguay",2019,"Lab",180449
+"423","Venezuela (Bolivarian Republic of)",2019,"Lab",80404
+"424","Viet Nam",2019,"Lab",6791184
+"426","Yemen",2019,"Lab",187682
+"427","Zambia",2019,"Lab",1412486
+"428","Zimbabwe",2019,"Lab",1762498
+"429","Afghanistan",2019,"Research",168000
+"434","Angola",2019,"Research",0
+"437","Argentina",2019,"Research",0
+"442","Azerbaijan",2019,"Research",2941
+"445","Bangladesh",2019,"Research",5744739
+"447","Belarus",2019,"Research",148873
+"449","Belize",2019,"Research",0
+"450","Benin",2019,"Research",54427
+"452","Bhutan",2019,"Research",0
+"453","Bolivia (Plurinational State of)",2019,"Research",40973
+"455","Botswana",2019,"Research",7500000
+"456","Brazil",2019,"Research",1314849
+"459","Bulgaria",2019,"Research",0
+"460","Burkina Faso",2019,"Research",88500
+"461","Burundi",2019,"Research",208042
+"462","Cabo Verde",2019,"Research",0
+"463","Cambodia",2019,"Research",0
+"464","Cameroon",2019,"Research",0
+"467","Central African Republic",2019,"Research",10000
+"468","Chad",2019,"Research",7000
+"470","China",2019,"Research",26287324
+"473","Colombia",2019,"Research",228438
+"475","Congo",2019,"Research",0
+"478","Côte d'Ivoire",2019,"Research",39775
+"484","Democratic Republic of the Congo",2019,"Research",692236
+"488","Dominican Republic",2019,"Research",25000
+"491","El Salvador",2019,"Research",48031
+"492","Equatorial Guinea",2019,"Research",0
+"493","Eritrea",2019,"Research",10000
+"494","Estonia",2019,"Research",0
+"495","Eswatini",2019,"Research",575830
+"496","Ethiopia",2019,"Research",1048225
+"497","Fiji",2019,"Research",0
+"501","Gabon",2019,"Research",14581
+"502","Gambia",2019,"Research",16915
+"503","Georgia",2019,"Research",44797
+"505","Ghana",2019,"Research",143105
+"510","Guatemala",2019,"Research",0
+"511","Guinea",2019,"Research",157800
+"512","Guinea-Bissau",2019,"Research",0
+"513","Guyana",2019,"Research",8102
+"514","Haiti",2019,"Research",53808
+"518","India",2019,"Research",5061915
+"519","Indonesia",2019,"Research",755279
+"521","Iraq",2019,"Research",0
+"527","Jordan",2019,"Research",60000
+"528","Kazakhstan",2019,"Research",158344
+"529","Kenya",2019,"Research",1395856
+"532","Kyrgyzstan",2019,"Research",43165
+"533","Lao People's Democratic Republic",2019,"Research",95073
+"535","Lebanon",2019,"Research",0
+"536","Lesotho",2019,"Research",594797
+"541","Madagascar",2019,"Research",81099
+"542","Malawi",2019,"Research",406071
+"545","Mali",2019,"Research",73411
+"547","Marshall Islands",2019,"Research",0
+"548","Mauritania",2019,"Research",31712
+"550","Mexico",2019,"Research",1524
+"551","Micronesia (Federated States of)",2019,"Research",0
+"553","Mongolia",2019,"Research",18797
+"556","Morocco",2019,"Research",0
+"557","Mozambique",2019,"Research",528970
+"558","Myanmar",2019,"Research",178972
+"559","Namibia",2019,"Research",231463
+"561","Nepal",2019,"Research",1934295
+"565","Nicaragua",2019,"Research",46700
+"566","Niger",2019,"Research",12952
+"574","Pakistan",2019,"Research",35002
+"576","Panama",2019,"Research",117274
+"578","Paraguay",2019,"Research",114714
+"579","Peru",2019,"Research",23829
+"585","Republic of Korea",2019,"Research",180408
+"586","Republic of Moldova",2019,"Research",0
+"587","Romania",2019,"Research",0
+"588","Russian Federation",2019,"Research",120402
+"589","Rwanda",2019,"Research",150000
+"595","Sao Tome and Principe",2019,"Research",0
+"597","Senegal",2019,"Research",31715
+"605","Solomon Islands",2019,"Research",94666
+"606","Somalia",2019,"Research",0
+"608","South Sudan",2019,"Research",0
+"610","Sri Lanka",2019,"Research",28200
+"612","Suriname",2019,"Research",1387
+"615","Syrian Arab Republic",2019,"Research",0
+"616","Tajikistan",2019,"Research",0
+"617","Thailand",2019,"Research",704063
+"618","Timor-Leste",2019,"Research",172879
+"619","Togo",2019,"Research",33554
+"628","Uganda",2019,"Research",170000
+"629","Ukraine",2019,"Research",93016
+"632","United Republic of Tanzania",2019,"Research",150000
+"634","Uruguay",2019,"Research",146952
+"637","Venezuela (Bolivarian Republic of)",2019,"Research",0
+"638","Viet Nam",2019,"Research",125000
+"640","Yemen",2019,"Research",0
+"641","Zambia",2019,"Research",300000
+"642","Zimbabwe",2019,"Research",122767
+"643","Afghanistan",2019,"BudgetLine",4163413
+"648","Angola",2019,"BudgetLine",0
+"651","Argentina",2019,"BudgetLine",0
+"652","Armenia",2019,"BudgetLine",3354483
+"659","Bangladesh",2019,"BudgetLine",3225611
+"661","Belarus",2019,"BudgetLine",0
+"663","Belize",2019,"BudgetLine",16400
+"664","Benin",2019,"BudgetLine",0
+"666","Bhutan",2019,"BudgetLine",0
+"667","Bolivia (Plurinational State of)",2019,"BudgetLine",0
+"669","Botswana",2019,"BudgetLine",0
+"670","Brazil",2019,"BudgetLine",17000
+"673","Bulgaria",2019,"BudgetLine",0
+"674","Burkina Faso",2019,"BudgetLine",26078
+"675","Burundi",2019,"BudgetLine",9808
+"676","Cabo Verde",2019,"BudgetLine",0
+"677","Cambodia",2019,"BudgetLine",6064
+"678","Cameroon",2019,"BudgetLine",0
+"681","Central African Republic",2019,"BudgetLine",42480
+"682","Chad",2019,"BudgetLine",27115
+"684","China",2019,"BudgetLine",0
+"687","Colombia",2019,"BudgetLine",1090666
+"689","Congo",2019,"BudgetLine",916509
+"692","Côte d'Ivoire",2019,"BudgetLine",432240
+"698","Democratic Republic of the Congo",2019,"BudgetLine",1626649
+"702","Dominican Republic",2019,"BudgetLine",1450000
+"705","El Salvador",2019,"BudgetLine",267755
+"706","Equatorial Guinea",2019,"BudgetLine",0
+"708","Estonia",2019,"BudgetLine",10000
+"709","Eswatini",2019,"BudgetLine",1064326
+"710","Ethiopia",2019,"BudgetLine",224896
+"716","Gambia",2019,"BudgetLine",232772
+"717","Georgia",2019,"BudgetLine",4638985
+"719","Ghana",2019,"BudgetLine",400813
+"724","Guatemala",2019,"BudgetLine",0
+"725","Guinea",2019,"BudgetLine",135000
+"726","Guinea-Bissau",2019,"BudgetLine",0
+"727","Guyana",2019,"BudgetLine",2942
+"728","Haiti",2019,"BudgetLine",14813
+"729","Honduras",2019,"BudgetLine",113171
+"732","India",2019,"BudgetLine",35088111
+"733","Indonesia",2019,"BudgetLine",0
+"735","Iraq",2019,"BudgetLine",900000
+"741","Jordan",2019,"BudgetLine",50000
+"742","Kazakhstan",2019,"BudgetLine",18277530
+"743","Kenya",2019,"BudgetLine",5681181
+"746","Kyrgyzstan",2019,"BudgetLine",2679716
+"747","Lao People's Democratic Republic",2019,"BudgetLine",527103
+"749","Lebanon",2019,"BudgetLine",0
+"750","Lesotho",2019,"BudgetLine",0
+"755","Madagascar",2019,"BudgetLine",344034
+"756","Malawi",2019,"BudgetLine",2978745
+"759","Mali",2019,"BudgetLine",303325
+"761","Marshall Islands",2019,"BudgetLine",0
+"764","Mexico",2019,"BudgetLine",0
+"765","Micronesia (Federated States of)",2019,"BudgetLine",0
+"767","Mongolia",2019,"BudgetLine",72851
+"770","Morocco",2019,"BudgetLine",0
+"771","Mozambique",2019,"BudgetLine",1413772
+"772","Myanmar",2019,"BudgetLine",6349768
+"773","Namibia",2019,"BudgetLine",1300000
+"775","Nepal",2019,"BudgetLine",0
+"779","Nicaragua",2019,"BudgetLine",0
+"788","Pakistan",2019,"BudgetLine",6580128
+"790","Panama",2019,"BudgetLine",5112
+"792","Paraguay",2019,"BudgetLine",0
+"793","Peru",2019,"BudgetLine",0
+"794","Philippines",2019,"BudgetLine",1458451
+"799","Republic of Korea",2019,"BudgetLine",1919184
+"800","Republic of Moldova",2019,"BudgetLine",212880
+"801","Romania",2019,"BudgetLine",1605913
+"802","Russian Federation",2019,"BudgetLine",304089894
+"803","Rwanda",2019,"BudgetLine",24511
+"809","Sao Tome and Principe",2019,"BudgetLine",136124
+"811","Senegal",2019,"BudgetLine",104167
+"814","Sierra Leone",2019,"BudgetLine",807340
+"819","Solomon Islands",2019,"BudgetLine",0
+"820","Somalia",2019,"BudgetLine",3763612
+"822","South Sudan",2019,"BudgetLine",2201956
+"824","Sri Lanka",2019,"BudgetLine",125442
+"825","Sudan",2019,"BudgetLine",3482512
+"826","Suriname",2019,"BudgetLine",102366
+"829","Syrian Arab Republic",2019,"BudgetLine",0
+"830","Tajikistan",2019,"BudgetLine",4747409
+"831","Thailand",2019,"BudgetLine",411524
+"832","Timor-Leste",2019,"BudgetLine",254089
+"833","Togo",2019,"BudgetLine",29993
+"842","Uganda",2019,"BudgetLine",2925315
+"843","Ukraine",2019,"BudgetLine",97684450
+"848","Uruguay",2019,"BudgetLine",403359
+"850","Vanuatu",2019,"BudgetLine",15261164
+"851","Venezuela (Bolivarian Republic of)",2019,"BudgetLine",0
+"852","Viet Nam",2019,"BudgetLine",1125484
+"854","Yemen",2019,"BudgetLine",0
+"855","Zambia",2019,"BudgetLine",410000
+"856","Zimbabwe",2019,"BudgetLine",0
+"857","Afghanistan",2019,"Patient",390027
+"862","Angola",2019,"Patient",221769
+"865","Argentina",2019,"Patient",0
+"866","Armenia",2019,"Patient",216208
+"870","Azerbaijan",2019,"Patient",50049
+"873","Bangladesh",2019,"Patient",834423
+"875","Belarus",2019,"Patient",251073
+"877","Belize",2019,"Patient",28880
+"878","Benin",2019,"Patient",173883
+"880","Bhutan",2019,"Patient",4161
+"881","Bolivia (Plurinational State of)",2019,"Patient",122605
+"883","Botswana",2019,"Patient",64610
+"884","Brazil",2019,"Patient",0
+"887","Bulgaria",2019,"Patient",49916
+"888","Burkina Faso",2019,"Patient",180082
+"889","Burundi",2019,"Patient",24082
+"890","Cabo Verde",2019,"Patient",0
+"891","Cambodia",2019,"Patient",150443
+"892","Cameroon",2019,"Patient",301679
+"895","Central African Republic",2019,"Patient",262500
+"896","Chad",2019,"Patient",36569
+"898","China",2019,"Patient",0
+"901","Colombia",2019,"Patient",48750
+"903","Congo",2019,"Patient",5782
+"906","Côte d'Ivoire",2019,"Patient",452942
+"912","Democratic Republic of the Congo",2019,"Patient",1724964
+"916","Dominican Republic",2019,"Patient",198389
+"919","El Salvador",2019,"Patient",90098
+"920","Equatorial Guinea",2019,"Patient",0
+"921","Eritrea",2019,"Patient",87000
+"922","Estonia",2019,"Patient",40000
+"923","Eswatini",2019,"Patient",265911
+"924","Ethiopia",2019,"Patient",626071
+"925","Fiji",2019,"Patient",0
+"929","Gabon",2019,"Patient",4459
+"930","Gambia",2019,"Patient",27355
+"931","Georgia",2019,"Patient",434640
+"933","Ghana",2019,"Patient",624127
+"938","Guatemala",2019,"Patient",139534
+"939","Guinea",2019,"Patient",98000
+"940","Guinea-Bissau",2019,"Patient",81461
+"941","Guyana",2019,"Patient",36006
+"942","Haiti",2019,"Patient",496122
+"943","Honduras",2019,"Patient",270808
+"946","India",2019,"Patient",93289514
+"947","Indonesia",2019,"Patient",3471106
+"949","Iraq",2019,"Patient",90000
+"955","Jordan",2019,"Patient",50000
+"956","Kazakhstan",2019,"Patient",5474159
+"957","Kenya",2019,"Patient",766853
+"960","Kyrgyzstan",2019,"Patient",348997
+"961","Lao People's Democratic Republic",2019,"Patient",109311
+"963","Lebanon",2019,"Patient",29156
+"964","Lesotho",2019,"Patient",1691442
+"969","Madagascar",2019,"Patient",160119
+"970","Malawi",2019,"Patient",135483
+"971","Malaysia",2019,"Patient",125000
+"973","Mali",2019,"Patient",12518
+"975","Marshall Islands",2019,"Patient",0
+"976","Mauritania",2019,"Patient",55372
+"978","Mexico",2019,"Patient",19219
+"979","Micronesia (Federated States of)",2019,"Patient",0
+"981","Mongolia",2019,"Patient",204076
+"984","Morocco",2019,"Patient",0
+"985","Mozambique",2019,"Patient",233910
+"986","Myanmar",2019,"Patient",3286780
+"987","Namibia",2019,"Patient",459091
+"989","Nepal",2019,"Patient",552241
+"993","Nicaragua",2019,"Patient",99107
+"994","Niger",2019,"Patient",33002
+"1002","Pakistan",2019,"Patient",464850
+"1006","Paraguay",2019,"Patient",314818
+"1007","Peru",2019,"Patient",15236265
+"1008","Philippines",2019,"Patient",2559987
+"1013","Republic of Korea",2019,"Patient",93878
+"1014","Republic of Moldova",2019,"Patient",1686750
+"1015","Romania",2019,"Patient",0
+"1016","Russian Federation",2019,"Patient",882564
+"1017","Rwanda",2019,"Patient",263497
+"1023","Sao Tome and Principe",2019,"Patient",25557
+"1025","Senegal",2019,"Patient",116225
+"1028","Sierra Leone",2019,"Patient",100000
+"1033","Solomon Islands",2019,"Patient",0
+"1034","Somalia",2019,"Patient",292579
+"1036","South Sudan",2019,"Patient",4500
+"1040","Suriname",2019,"Patient",37718
+"1043","Syrian Arab Republic",2019,"Patient",61000
+"1044","Tajikistan",2019,"Patient",217407
+"1045","Thailand",2019,"Patient",290009
+"1046","Timor-Leste",2019,"Patient",220815
+"1047","Togo",2019,"Patient",22824
+"1056","Uganda",2019,"Patient",1359484
+"1057","Ukraine",2019,"Patient",5478933
+"1060","United Republic of Tanzania",2019,"Patient",688696
+"1062","Uruguay",2019,"Patient",499337
+"1065","Venezuela (Bolivarian Republic of)",2019,"Patient",0
+"1066","Viet Nam",2019,"Patient",1230019
+"1068","Yemen",2019,"Patient",21037
+"1069","Zambia",2019,"Patient",920000
+"1070","Zimbabwe",2019,"Patient",222000
+"1071","Afghanistan",2019,"DrugRes",1029396
+"1076","Angola",2019,"DrugRes",2473378
+"1079","Argentina",2019,"DrugRes",432800
+"1080","Armenia",2019,"DrugRes",679779
+"1084","Azerbaijan",2019,"DrugRes",3358802
+"1087","Bangladesh",2019,"DrugRes",2269802
+"1089","Belarus",2019,"DrugRes",9860841
+"1091","Belize",2019,"DrugRes",0
+"1092","Benin",2019,"DrugRes",46658
+"1094","Bhutan",2019,"DrugRes",149623
+"1095","Bolivia (Plurinational State of)",2019,"DrugRes",406462
+"1097","Botswana",2019,"DrugRes",766900
+"1098","Brazil",2019,"DrugRes",2055159
+"1101","Bulgaria",2019,"DrugRes",110148
+"1102","Burkina Faso",2019,"DrugRes",58212
+"1103","Burundi",2019,"DrugRes",63936
+"1104","Cabo Verde",2019,"DrugRes",3000
+"1105","Cambodia",2019,"DrugRes",93270
+"1106","Cameroon",2019,"DrugRes",276402
+"1109","Central African Republic",2019,"DrugRes",118008
+"1110","Chad",2019,"DrugRes",137305
+"1112","China",2019,"DrugRes",111526915
+"1115","Colombia",2019,"DrugRes",517500
+"1117","Congo",2019,"DrugRes",66757
+"1120","Côte d'Ivoire",2019,"DrugRes",223113
+"1126","Democratic Republic of the Congo",2019,"DrugRes",2654961
+"1130","Dominican Republic",2019,"DrugRes",422400
+"1131","Ecuador",2019,"DrugRes",214530
+"1133","El Salvador",2019,"DrugRes",2507
+"1134","Equatorial Guinea",2019,"DrugRes",38000
+"1135","Eritrea",2019,"DrugRes",137482
+"1136","Estonia",2019,"DrugRes",350000
+"1137","Eswatini",2019,"DrugRes",959879
+"1138","Ethiopia",2019,"DrugRes",1805875
+"1139","Fiji",2019,"DrugRes",12000
+"1143","Gabon",2019,"DrugRes",25782
+"1144","Gambia",2019,"DrugRes",20990
+"1145","Georgia",2019,"DrugRes",1287453
+"1147","Ghana",2019,"DrugRes",253983
+"1152","Guatemala",2019,"DrugRes",2580
+"1153","Guinea",2019,"DrugRes",72716
+"1154","Guinea-Bissau",2019,"DrugRes",74500
+"1155","Guyana",2019,"DrugRes",51228
+"1156","Haiti",2019,"DrugRes",197309
+"1157","Honduras",2019,"DrugRes",75850
+"1160","India",2019,"DrugRes",45687233
+"1161","Indonesia",2019,"DrugRes",10009722
+"1162","Iran (Islamic Republic of)",2019,"DrugRes",141525
+"1163","Iraq",2019,"DrugRes",436000
+"1169","Jordan",2019,"DrugRes",50000
+"1170","Kazakhstan",2019,"DrugRes",16273847
+"1171","Kenya",2019,"DrugRes",1275733
+"1174","Kyrgyzstan",2019,"DrugRes",4778738
+"1175","Lao People's Democratic Republic",2019,"DrugRes",81780
+"1176","Latvia",2019,"DrugRes",2086427
+"1177","Lebanon",2019,"DrugRes",8715
+"1178","Lesotho",2019,"DrugRes",1320870
+"1183","Madagascar",2019,"DrugRes",90941
+"1184","Malawi",2019,"DrugRes",442295
+"1185","Malaysia",2019,"DrugRes",152000
+"1187","Mali",2019,"DrugRes",364308
+"1189","Marshall Islands",2019,"DrugRes",360000
+"1190","Mauritania",2019,"DrugRes",53889
+"1192","Mexico",2019,"DrugRes",188501
+"1193","Micronesia (Federated States of)",2019,"DrugRes",0
+"1195","Mongolia",2019,"DrugRes",503730
+"1198","Morocco",2019,"DrugRes",1500000
+"1199","Mozambique",2019,"DrugRes",3949400
+"1200","Myanmar",2019,"DrugRes",1227079
+"1201","Namibia",2019,"DrugRes",1380361
+"1203","Nepal",2019,"DrugRes",1133922
+"1207","Nicaragua",2019,"DrugRes",207958
+"1208","Niger",2019,"DrugRes",18190
+"1216","Pakistan",2019,"DrugRes",11620786
+"1218","Panama",2019,"DrugRes",95796
+"1220","Paraguay",2019,"DrugRes",18408
+"1221","Peru",2019,"DrugRes",4754461
+"1222","Philippines",2019,"DrugRes",5264160
+"1227","Republic of Korea",2019,"DrugRes",226122
+"1228","Republic of Moldova",2019,"DrugRes",1266634
+"1229","Romania",2019,"DrugRes",682312
+"1230","Russian Federation",2019,"DrugRes",87185969
+"1231","Rwanda",2019,"DrugRes",123400
+"1237","Sao Tome and Principe",2019,"DrugRes",6549
+"1239","Senegal",2019,"DrugRes",207435
+"1242","Sierra Leone",2019,"DrugRes",579148
+"1247","Solomon Islands",2019,"DrugRes",4690
+"1248","Somalia",2019,"DrugRes",700408
+"1250","South Sudan",2019,"DrugRes",204716
+"1252","Sri Lanka",2019,"DrugRes",170497
+"1253","Sudan",2019,"DrugRes",1124467
+"1254","Suriname",2019,"DrugRes",0
+"1257","Syrian Arab Republic",2019,"DrugRes",33000
+"1258","Tajikistan",2019,"DrugRes",2317780
+"1259","Thailand",2019,"DrugRes",5581323
+"1260","Timor-Leste",2019,"DrugRes",31132
+"1261","Togo",2019,"DrugRes",5355
+"1270","Uganda",2019,"DrugRes",859530
+"1271","Ukraine",2019,"DrugRes",20211491
+"1274","United Republic of Tanzania",2019,"DrugRes",545374
+"1276","Uruguay",2019,"DrugRes",7200
+"1279","Venezuela (Bolivarian Republic of)",2019,"DrugRes",27404
+"1280","Viet Nam",2019,"DrugRes",3134052
+"1282","Yemen",2019,"DrugRes",178820
+"1283","Zambia",2019,"DrugRes",2911000
+"1284","Zimbabwe",2019,"DrugRes",866960
