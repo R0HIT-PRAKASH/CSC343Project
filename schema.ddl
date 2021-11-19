@@ -4,7 +4,7 @@ set search_path to projectschema;
 
 create domain ageranges as varchar(20)
     not null
-    check (value in ('0-4', '5-14', '15plus'));
+    check (value in ('0-4', '5-14', '15plus', all));
 
 create domain Sex as varchar(20)
     not null
@@ -17,24 +17,25 @@ create domain HealthSector as varchar(20)
 
 
 
-DROP TABLE IF EXISTS TB_Fatality CASCADE;
-CREATE TABLE TB_Fatality (
+DROP TABLE IF EXISTS TB_Rates CASCADE;
+CREATE TABLE TB_Rates (
     country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
-    fatalityRate FLOAT NOT NULL,
+    fatalityRate INT NOT NULL,
+    incidenceRate INT NOT NULL,
     primary key(country, year)
 );
 
 
-DROP TABLE IF EXISTS TB_By_Country CASCADE;
-CREATE TABLE TB_By_Country (
+DROP TABLE IF EXISTS TB_By_Demographic CASCADE;
+CREATE TABLE TB_By_Demographic (
     country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
     ageRange ageranges,
     sex Sex,
     tbRate FLOAT NOT NULL,
     primary key(country, year, ageRange, sex),
-    foreign key (country, year) references TB_Fatality
+    foreign key (country, year) references TB_Rates
 );
 
 
@@ -44,7 +45,7 @@ CREATE TABLE CountryGDP (
     year INT NOT NULL,
     GDP FLOAT NOT NULL,
     primary key(country, year),
-    foreign key (country, year) references TB_Fatality(country, year)
+    foreign key (country, year) references TB_Rates(country, year)
 );
 
 DROP TABLE IF EXISTS CountryGDPPC CASCADE;
@@ -53,7 +54,7 @@ CREATE TABLE CountryGDPPC (
     year INT NOT NULL,
     GDPPerCap FLOAT NOT NULL,
     primary key(country, year),
-    foreign key (country, year) references TB_Fatality(country, year)
+    foreign key (country, year) references TB_Rates(country, year)
 );
 
 DROP TABLE IF EXISTS TBComorbidity CASCADE;
@@ -63,7 +64,7 @@ CREATE TABLE TBComorbidity (
     cName VARCHAR(250) NOT NULL,
     comorbidityRate FLOAT NOT NULL,
     primary key(country, year, cName),
-    foreign key (country, year) references TB_Fatality(country, year)
+    foreign key (country, year) references TB_Rates(country, year)
 );
 
 DROP TABLE IF EXISTS DiseaseCausedDeaths CASCADE;
@@ -81,5 +82,5 @@ CREATE TABLE HealthCareFunding (
     healthcareSector HealthSector,
     amount FLOAT NOT NULL,
     primary key(country, year, healthcareSector),
-    foreign key (country, year) references TB_Fatality(country, year)
+    foreign key (country, year) references TB_Rates(country, year)
 );
