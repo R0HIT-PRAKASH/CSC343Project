@@ -1,0 +1,7 @@
+\COPY TB_Rates from t1.2.csv with csv;
+\COPY TB_By_Demographic from t1.1.csv with csv;
+\COPY CountryGDP from t2.1.csv with csv;
+\COPY CountryGDPPC from t2.2.csv with csv;
+\COPY TBComorbidity from t3.csv with csv;
+\COPY DiseaseCausedDeaths from t4.csv with csv;
+\COPY HealthCareFunding from t5.csv with csv;

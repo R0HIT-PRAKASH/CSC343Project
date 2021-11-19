@@ -4,7 +4,7 @@ set search_path to projectschema;
 
 create domain ageranges as varchar(20)
     not null
-    check (value in ('0-4', '5-14', '15plus', all));
+    check (value in ('0-4', '5-14', '15plus', 'all'));
 
 create domain Sex as varchar(20)
     not null
@@ -16,7 +16,12 @@ create domain HealthSector as varchar(20)
     'patient support','budget line items', 'treatment types'));
 
 
-
+-- Contains the number of TB cases and deaths
+-- in a given country and year
+-- Country - The country the row is describing
+-- Year - The year the row is describing
+-- fatalityRate - The number of TB caused deaths that occured
+-- incidenceRate - The number of TB cases that occured
 DROP TABLE IF EXISTS TB_Rates CASCADE;
 CREATE TABLE TB_Rates (
     country VARCHAR(100) NOT NULL,
@@ -26,7 +31,13 @@ CREATE TABLE TB_Rates (
     primary key(country, year)
 );
 
-
+-- Contains the number of TB cases based on
+-- different population demographics in a given 
+-- country and year
+-- Country - The country the row is describing
+-- Year - The year the row is describing
+-- ageRange - The ages of the people with TB
+-- tbRate - The number of TB cases that occured
 DROP TABLE IF EXISTS TB_By_Demographic CASCADE;
 CREATE TABLE TB_By_Demographic (
     country VARCHAR(100) NOT NULL,
@@ -38,7 +49,10 @@ CREATE TABLE TB_By_Demographic (
     foreign key (country, year) references TB_Rates
 );
 
-
+-- The GDP of a country in a given year
+-- Country - the country the row is describing
+-- year - The year the row is describing
+-- GDP - The GDP of the country in the year
 DROP TABLE IF EXISTS CountryGDP CASCADE;
 CREATE TABLE CountryGDP (
     country VARCHAR(100) NOT NULL,
@@ -48,6 +62,11 @@ CREATE TABLE CountryGDP (
     foreign key (country, year) references TB_Rates(country, year)
 );
 
+-- The GDP per capita of a country in a given year
+-- Country - the country the row is describing
+-- year - The year the row is describing
+-- GDPPerCap - The GDP per capita of the country in the year
+DROP TABLE IF EXISTS CountryGDP CASCADE;
 DROP TABLE IF EXISTS CountryGDPPC CASCADE;
 CREATE TABLE CountryGDPPC (
     country VARCHAR(100) NOT NULL,
@@ -57,6 +76,14 @@ CREATE TABLE CountryGDPPC (
     foreign key (country, year) references TB_Rates(country, year)
 );
 
+
+-- The number of TB cases whose patients had 
+-- complicating illnesses
+-- Country - the country the row is describing
+-- year - The year the row is describing
+-- cName - The name of the comorbidity
+-- comorbidityRate - The number of TB cases that occured 
+-- in people with cName comorbidity
 DROP TABLE IF EXISTS TBComorbidity CASCADE;
 CREATE TABLE TBComorbidity (
     country VARCHAR(100) NOT NULL,
@@ -67,6 +94,11 @@ CREATE TABLE TBComorbidity (
     foreign key (country, year) references TB_Rates(country, year)
 );
 
+-- Number of deaths caused by illnesses in a given year
+-- Year - the year this row is describing
+-- diseaseName - The name of the disease 
+-- totalDeaths - The number of deaths caused
+-- by diseaseName
 DROP TABLE IF EXISTS DiseaseCausedDeaths CASCADE;
 CREATE TABLE DiseaseCausedDeaths (
     year INT NOT NULL,
@@ -75,6 +107,13 @@ CREATE TABLE DiseaseCausedDeaths (
     primary key(year, diseaseName)
 );
 
+-- The total funds allocated to different healthcare sectors
+-- in a given country and year
+-- country - The country the row is describing
+-- year - the year the row is describing
+-- healthcareSector - the name of the healthcareSector 
+-- amount - The total dollar amount allocated to 
+-- healthcareSector
 DROP TABLE IF EXISTS HealthCareFunding CASCADE;
 CREATE TABLE HealthCareFunding (
     country VARCHAR(100) NOT NULL,
