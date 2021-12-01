@@ -100,10 +100,12 @@ CREATE TABLE TBComorbidity (
 -- by diseaseName
 DROP TABLE IF EXISTS DiseaseCausedDeaths CASCADE;
 CREATE TABLE DiseaseCausedDeaths (
+    country INT NOT NULL,
     year INT NOT NULL,
     diseaseName VARCHAR(250) NOT NULL,
     totalDeaths INT NOT NULL,
-    primary key(year, diseaseName)
+    primary key(country, year, diseaseName)
+    
 );
 
 -- The total funds allocated to different healthcare sectors
