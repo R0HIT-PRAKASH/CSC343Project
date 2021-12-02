@@ -49,9 +49,8 @@ COPY 4280
 COPY 324
 COPY 324
 COPY 2129
-COPY 320
-COPY 607
-
+COPY 13808
+COPY 2375
 
 ----------- (b) Run \d on each table -----------
 
@@ -125,13 +124,16 @@ Foreign-key constraints:
 
 csc343h-prakas72=> \d diseasecauseddeaths;
                Table "projectschema.diseasecauseddeaths"
-   Column    |          Type          | Collation | Nullable | Default 
--------------+------------------------+-----------+----------+---------
- year        | integer                |           | not null | 
- diseasename | character varying(250) |           | not null | 
- totaldeaths | integer                |           | not null | 
+    Column    |          Type          | Collation | Nullable | Default 
+--------------+------------------------+-----------+----------+---------
+ country      | character varying(100) |           | not null | 
+ year         | integer                |           | not null | 
+ diseasename  | character varying(250) |           | not null | 
+ deathper100k | double precision       |           | not null | 
 Indexes:
-    "diseasecauseddeaths_pkey" PRIMARY KEY, btree (year, diseasename)
+    "diseasecauseddeaths_pkey" PRIMARY KEY, btree (country, year, diseasename)
+Foreign-key constraints:
+    "diseasecauseddeaths_country_fkey" FOREIGN KEY (country, year) REFERENCES tb_rates(country, year)
 
 csc343h-prakas72=> \d healthcarefunding;
                   Table "projectschema.healthcarefunding"
@@ -148,7 +150,7 @@ Foreign-key constraints:
 
 
 
------------ (c) Run SELECT coung(*) on each table -----------
+----------- (c) Run SELECT count(*) on each table -----------
 
 csc343h-prakas72=> select count(*) from tb_rates;
  count 
@@ -183,13 +185,13 @@ csc343h-prakas72=> select count(*) from tbcomorbidity;
 csc343h-prakas72=> select count(*) from diseasecauseddeaths;
  count 
 -------
-   320
+   13808
 (1 row)
 
 csc343h-prakas72=> select count(*) from healthcarefunding; 
  count 
 -------
-   607
+   2375
 (1 row)
 
 
@@ -259,21 +261,53 @@ csc343h-prakas72=> select * from tbcomorbidity where country = 'Canada';
 (12 rows)
 
 csc343h-prakas72=> select * from diseasecauseddeaths where diseaseName = 'Leprosy'; 
- year | diseasename | totaldeaths 
-------+-------------+-------------
- 2019 | Leprosy     |         253
- 2015 | Leprosy     |         242
- 2010 | Leprosy     |         280
+   country   | year | diseasename | deathper100k 
+-------------+------+-------------+--------------
+ Argentina   | 2019 | Leprosy     |            0
+ Brazil      | 2019 | Leprosy     |          0.1
+ Colombia    | 2019 | Leprosy     |            0
+ Cuba        | 2019 | Leprosy     |            0
+ France      | 2019 | Leprosy     |            0
+ Guyana      | 2019 | Leprosy     |          0.1
+ Israel      | 2019 | Leprosy     |            0
+ Italy       | 2019 | Leprosy     |            0
+ Japan       | 2019 | Leprosy     |            0
+ Mexico      | 2019 | Leprosy     |            0
+ Nicaragua   | 2019 | Leprosy     |            0
+ Paraguay    | 2019 | Leprosy     |          0.2
+ Philippines | 2019 | Leprosy     |            0
+ Portugal    | 2019 | Leprosy     |            0
+ Spain       | 2019 | Leprosy     |            0
+ Uruguay     | 2019 | Leprosy     |            0
 (3 rows)
 
 csc343h-prakas72=> select * from HealthCareFunding where country = 'Argentina';  
   country  | year | healthcaresector | amount  
 -----------+------+------------------+---------
+ Argentina | 2020 | DrugSusp         | 1105000
+ Argentina | 2020 | Lab              |  272888
+ Argentina | 2020 | Research         |       0
+ Argentina | 2020 | BudgetLine       |       0
+ Argentina | 2020 | Patient          |       0
+ Argentina | 2020 | DrugRes          |  357270
  Argentina | 2019 | DrugSusp         | 1443000
  Argentina | 2019 | Lab              |       0
  Argentina | 2019 | Research         |       0
  Argentina | 2019 | BudgetLine       |       0
  Argentina | 2019 | Patient          |       0
  Argentina | 2019 | DrugRes          |  432800
+ Argentina | 2018 | DrugSusp         | 1481792
+ Argentina | 2018 | Lab              |       0
+ Argentina | 2018 | Research         |       0
+ Argentina | 2018 | BudgetLine       |       0
+ Argentina | 2018 | Patient          |       0
+ Argentina | 2018 | DrugRes          |  307361
+ Argentina | 2017 | DrugSusp         | 2815619
+ Argentina | 2017 | Lab              |       0
+ Argentina | 2017 | Research         |       0
+ Argentina | 2017 | BudgetLine       |       0
+ Argentina | 2017 | Patient          |       0
+ Argentina | 2017 | DrugRes          |  460560
+
 (6 rows)
 

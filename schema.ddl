@@ -132,5 +132,5 @@ CREATE TABLE HealthCareFunding (
     year INT NOT NULL,
     healthcareSector HealthSector,
     amount FLOAT NOT NULL,
-    primary key(country, year, healthcareSector),
+    primary key(country, year, healthcareSector)
 );
