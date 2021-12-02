@@ -1,3 +1,578 @@
+Afghanistan,2020,DrugSusp,2674973
+Angola,2020,DrugSusp,3138519
+Argentina,2020,DrugSusp,1105000
+Armenia,2020,DrugSusp,69030
+Azerbaijan,2020,DrugSusp,302708
+Bangladesh,2020,DrugSusp,9976639
+Belarus,2020,DrugSusp,67425
+Belize,2020,DrugSusp,5913
+Benin,2020,DrugSusp,135404
+Bhutan,2020,DrugSusp,38199
+Bolivia (Plurinational State of),2020,DrugSusp,1065123
+Bosnia and Herzegovina,2020,DrugSusp,51720
+Botswana,2020,DrugSusp,278520
+Brazil,2020,DrugSusp,9228289
+Bulgaria,2020,DrugSusp,248082
+Burkina Faso,2020,DrugSusp,111333
+Burundi,2020,DrugSusp,275780
+Cabo Verde,2020,DrugSusp,12600
+Cambodia,2020,DrugSusp,1700000
+Cameroon,2020,DrugSusp,883333
+Central African Republic,2020,DrugSusp,547198
+China,2020,DrugSusp,58436438
+Colombia,2020,DrugSusp,377460
+Congo,2020,DrugSusp,336476
+Côte d'Ivoire,2020,DrugSusp,1717721
+Democratic Republic of the Congo,2020,DrugSusp,9096525
+Dominican Republic,2020,DrugSusp,281600
+Ecuador,2020,DrugSusp,231950
+El Salvador,2020,DrugSusp,43087
+Equatorial Guinea,2020,DrugSusp,80000
+Eritrea,2020,DrugSusp,164359
+Eswatini,2020,DrugSusp,200000
+Ethiopia,2020,DrugSusp,4473573
+Fiji,2020,DrugSusp,10000
+Gabon,2020,DrugSusp,94
+Georgia,2020,DrugSusp,61096
+Ghana,2020,DrugSusp,718264
+Guatemala,2020,DrugSusp,1053863
+Guinea,2020,DrugSusp,539750
+Guinea-Bissau,2020,DrugSusp,89621
+Guyana,2020,DrugSusp,152375
+Haiti,2020,DrugSusp,401587
+Honduras,2020,DrugSusp,162382
+India,2020,DrugSusp,52136456
+Indonesia,2020,DrugSusp,18785735
+Iran (Islamic Republic of),2020,DrugSusp,1078056
+Iraq,2020,DrugSusp,290000
+Jordan,2020,DrugSusp,100000
+Kazakhstan,2020,DrugSusp,1165669
+Kenya,2020,DrugSusp,3792120
+Kyrgyzstan,2020,DrugSusp,380000
+Lao People's Democratic Republic,2020,DrugSusp,245420
+Lebanon,2020,DrugSusp,43853
+Lesotho,2020,DrugSusp,504430
+Madagascar,2020,DrugSusp,2121656
+Malawi,2020,DrugSusp,553039
+Malaysia,2020,DrugSusp,1655080
+Mali,2020,DrugSusp,485744
+Mauritania,2020,DrugSusp,91667
+Mexico,2020,DrugSusp,2229434
+Micronesia (Federated States of),2020,DrugSusp,25000
+Mongolia,2020,DrugSusp,500000
+Morocco,2020,DrugSusp,3968901
+Mozambique,2020,DrugSusp,2912790
+Myanmar,2020,DrugSusp,4093844
+Namibia,2020,DrugSusp,642395
+Nepal,2020,DrugSusp,1003976
+Niger,2020,DrugSusp,469106
+Pakistan,2020,DrugSusp,7476967
+Papua New Guinea,2020,DrugSusp,1185369
+Paraguay,2020,DrugSusp,121166
+Peru,2020,DrugSusp,1934512
+Philippines,2020,DrugSusp,17041092
+Republic of Moldova,2020,DrugSusp,115006
+Russian Federation,2020,DrugSusp,3654253
+Rwanda,2020,DrugSusp,191916
+Sao Tome and Principe,2020,DrugSusp,26880
+Senegal,2020,DrugSusp,240518
+Sierra Leone,2020,DrugSusp,1082592
+Solomon Islands,2020,DrugSusp,29400
+Somalia,2020,DrugSusp,360991
+South Sudan,2020,DrugSusp,1705704
+Sri Lanka,2020,DrugSusp,636533
+Sudan,2020,DrugSusp,780117
+Suriname,2020,DrugSusp,14611
+Syrian Arab Republic,2020,DrugSusp,222000
+Tajikistan,2020,DrugSusp,369348
+Thailand,2020,DrugSusp,5860380
+Timor-Leste,2020,DrugSusp,83539
+Togo,2020,DrugSusp,46140
+Tunisia,2020,DrugSusp,300000
+Turkmenistan,2020,DrugSusp,302760
+Uganda,2020,DrugSusp,3563982
+Ukraine,2020,DrugSusp,267255
+United Republic of Tanzania,2020,DrugSusp,2986811
+Vanuatu,2020,DrugSusp,17929
+Venezuela (Bolivarian Republic of),2020,DrugSusp,379182
+Viet Nam,2020,DrugSusp,7858208
+Yemen,2020,DrugSusp,430359
+Zambia,2020,DrugSusp,5751096
+Zimbabwe,2020,DrugSusp,262202
+Afghanistan,2020,Lab,1540184
+Angola,2020,Lab,0
+Argentina,2020,Lab,272888
+Armenia,2020,Lab,291415
+Azerbaijan,2020,Lab,916664
+Bangladesh,2020,Lab,15993552
+Belarus,2020,Lab,2513787
+Belize,2020,Lab,53900
+Benin,2020,Lab,1244975
+Bhutan,2020,Lab,374194
+Bolivia (Plurinational State of),2020,Lab,541083
+Botswana,2020,Lab,1000000
+Brazil,2020,Lab,4087862
+Bulgaria,2020,Lab,82982
+Burkina Faso,2020,Lab,212110
+Burundi,2020,Lab,331306
+Cabo Verde,2020,Lab,11000
+Cambodia,2020,Lab,3140000
+Cameroon,2020,Lab,2464204
+Central African Republic,2020,Lab,445894
+China,2020,Lab,16750000
+Colombia,2020,Lab,312500
+Congo,2020,Lab,2184237
+Côte d'Ivoire,2020,Lab,934207
+Democratic Republic of the Congo,2020,Lab,1373643
+Dominican Republic,2020,Lab,1500000
+Ecuador,2020,Lab,0
+El Salvador,2020,Lab,873092
+Equatorial Guinea,2020,Lab,20000
+Eritrea,2020,Lab,560545
+Eswatini,2020,Lab,963752
+Ethiopia,2020,Lab,6185031
+Fiji,2020,Lab,25000
+Gabon,2020,Lab,5365
+Georgia,2020,Lab,1402700
+Ghana,2020,Lab,2513303
+Guatemala,2020,Lab,1247398
+Guinea,2020,Lab,2305360
+Guinea-Bissau,2020,Lab,65740
+Guyana,2020,Lab,27285
+Haiti,2020,Lab,1327404
+Honduras,2020,Lab,6000
+India,2020,Lab,53748665
+Indonesia,2020,Lab,41509092
+Iraq,2020,Lab,1000000
+Jordan,2020,Lab,70000
+Kazakhstan,2020,Lab,4848438
+Kenya,2020,Lab,3444220
+Kyrgyzstan,2020,Lab,1492880
+Lao People's Democratic Republic,2020,Lab,1316991
+Lebanon,2020,Lab,25770
+Lesotho,2020,Lab,2786571
+Madagascar,2020,Lab,537894
+Malawi,2020,Lab,3303893
+Malaysia,2020,Lab,1000000
+Mali,2020,Lab,136536
+Mauritania,2020,Lab,444537
+Mexico,2020,Lab,5207185
+Micronesia (Federated States of),2020,Lab,22490
+Mongolia,2020,Lab,387930
+Morocco,2020,Lab,2598642
+Mozambique,2020,Lab,10385626
+Myanmar,2020,Lab,7482736
+Namibia,2020,Lab,1294276
+Nepal,2020,Lab,3137876
+Niger,2020,Lab,699817
+Pakistan,2020,Lab,8869765
+Papua New Guinea,2020,Lab,1872705
+Paraguay,2020,Lab,326414
+Peru,2020,Lab,6895953
+Philippines,2020,Lab,14473577
+Republic of Moldova,2020,Lab,1341752
+Russian Federation,2020,Lab,28560381
+Rwanda,2020,Lab,3018332
+Sao Tome and Principe,2020,Lab,95772
+Senegal,2020,Lab,813424
+Sierra Leone,2020,Lab,200000
+Solomon Islands,2020,Lab,174507
+Somalia,2020,Lab,1233137
+South Sudan,2020,Lab,830515
+Sri Lanka,2020,Lab,459741
+Sudan,2020,Lab,1440319
+Suriname,2020,Lab,241375
+Syrian Arab Republic,2020,Lab,277600
+Tajikistan,2020,Lab,2299555
+Thailand,2020,Lab,7467536
+Timor-Leste,2020,Lab,515157
+Togo,2020,Lab,64568
+Tunisia,2020,Lab,185000
+Turkmenistan,2020,Lab,926241
+Uganda,2020,Lab,1571381
+Ukraine,2020,Lab,8002329
+United Republic of Tanzania,2020,Lab,3144204
+Vanuatu,2020,Lab,3668
+Venezuela (Bolivarian Republic of),2020,Lab,679258
+Viet Nam,2020,Lab,15492176
+Yemen,2020,Lab,184875
+Zambia,2020,Lab,1400000
+Zimbabwe,2020,Lab,701889
+Afghanistan,2020,Research,0
+Angola,2020,Research,0
+Argentina,2020,Research,0
+Armenia,2020,Research,4587
+Bangladesh,2020,Research,367600
+Belarus,2020,Research,224634
+Belize,2020,Research,0
+Benin,2020,Research,20042
+Bhutan,2020,Research,18500
+Bolivia (Plurinational State of),2020,Research,56486
+Botswana,2020,Research,200000
+Brazil,2020,Research,1947673
+Bulgaria,2020,Research,0
+Burkina Faso,2020,Research,69996
+Burundi,2020,Research,12500
+Cambodia,2020,Research,60000
+Cameroon,2020,Research,68758
+Central African Republic,2020,Research,45000
+China,2020,Research,19039088
+Colombia,2020,Research,228438
+Congo,2020,Research,0
+Côte d'Ivoire,2020,Research,39154
+Democratic Republic of the Congo,2020,Research,128154
+Dominican Republic,2020,Research,100000
+Ecuador,2020,Research,0
+El Salvador,2020,Research,14632
+Equatorial Guinea,2020,Research,6000
+Eritrea,2020,Research,15000
+Eswatini,2020,Research,23877
+Ethiopia,2020,Research,163643
+Fiji,2020,Research,0
+Gabon,2020,Research,9887
+Georgia,2020,Research,5400
+Ghana,2020,Research,72271
+Guinea,2020,Research,58232
+Guinea-Bissau,2020,Research,0
+Guyana,2020,Research,15239
+Haiti,2020,Research,53808
+Honduras,2020,Research,71913
+India,2020,Research,1488264
+Indonesia,2020,Research,1068885
+Iraq,2020,Research,0
+Jordan,2020,Research,50000
+Kazakhstan,2020,Research,208736
+Kenya,2020,Research,1273595
+Kyrgyzstan,2020,Research,67879
+Lao People's Democratic Republic,2020,Research,0
+Lebanon,2020,Research,0
+Lesotho,2020,Research,538208
+Madagascar,2020,Research,219924
+Malawi,2020,Research,189051
+Mali,2020,Research,40882
+Mauritania,2020,Research,31712
+Mexico,2020,Research,109932
+Micronesia (Federated States of),2020,Research,0
+Mongolia,2020,Research,190000
+Morocco,2020,Research,0
+Mozambique,2020,Research,956329
+Myanmar,2020,Research,416415
+Namibia,2020,Research,10238
+Nepal,2020,Research,144713
+Pakistan,2020,Research,164893
+Papua New Guinea,2020,Research,55000
+Paraguay,2020,Research,17488
+Peru,2020,Research,14666
+Republic of Moldova,2020,Research,141965
+Russian Federation,2020,Research,108424
+Rwanda,2020,Research,150000
+Sao Tome and Principe,2020,Research,6963
+Senegal,2020,Research,50000
+Sierra Leone,2020,Research,300000
+Solomon Islands,2020,Research,94666
+Somalia,2020,Research,0
+South Sudan,2020,Research,0
+Sri Lanka,2020,Research,114264
+Sudan,2020,Research,15000
+Suriname,2020,Research,20000
+Syrian Arab Republic,2020,Research,0
+Tajikistan,2020,Research,0
+Thailand,2020,Research,585313
+Timor-Leste,2020,Research,610
+Togo,2020,Research,25771
+Tunisia,2020,Research,0
+Uganda,2020,Research,400000
+Ukraine,2020,Research,231020
+United Republic of Tanzania,2020,Research,798333
+Venezuela (Bolivarian Republic of),2020,Research,0
+Viet Nam,2020,Research,453761
+Yemen,2020,Research,0
+Zambia,2020,Research,300000
+Zimbabwe,2020,Research,25906
+Afghanistan,2020,BudgetLine,2833819
+Angola,2020,BudgetLine,0
+Argentina,2020,BudgetLine,0
+Armenia,2020,BudgetLine,1987127
+Azerbaijan,2020,BudgetLine,147721
+Bangladesh,2020,BudgetLine,25561847
+Belarus,2020,BudgetLine,0
+Belize,2020,BudgetLine,0
+Benin,2020,BudgetLine,283521
+Bhutan,2020,BudgetLine,50000
+Bolivia (Plurinational State of),2020,BudgetLine,0
+Botswana,2020,BudgetLine,50000
+Brazil,2020,BudgetLine,17000
+Bulgaria,2020,BudgetLine,0
+Burkina Faso,2020,BudgetLine,0
+Burundi,2020,BudgetLine,9808
+Cambodia,2020,BudgetLine,4643392
+Cameroon,2020,BudgetLine,840016
+Central African Republic,2020,BudgetLine,18000
+China,2020,BudgetLine,0
+Colombia,2020,BudgetLine,100000
+Congo,2020,BudgetLine,94912
+Côte d'Ivoire,2020,BudgetLine,560130
+Dominican Republic,2020,BudgetLine,448900
+Ecuador,2020,BudgetLine,0
+El Salvador,2020,BudgetLine,158152
+Equatorial Guinea,2020,BudgetLine,0
+Eswatini,2020,BudgetLine,301018
+Ethiopia,2020,BudgetLine,235162
+Gabon,2020,BudgetLine,15996
+Georgia,2020,BudgetLine,4680838
+Ghana,2020,BudgetLine,966575
+Guinea,2020,BudgetLine,18000
+Guinea-Bissau,2020,BudgetLine,0
+Guyana,2020,BudgetLine,0
+Haiti,2020,BudgetLine,1287001
+Honduras,2020,BudgetLine,486110
+India,2020,BudgetLine,11952688
+Indonesia,2020,BudgetLine,0
+Iraq,2020,BudgetLine,900000
+Jordan,2020,BudgetLine,50000
+Kazakhstan,2020,BudgetLine,2344420
+Kenya,2020,BudgetLine,648559
+Kyrgyzstan,2020,BudgetLine,10001908
+Lao People's Democratic Republic,2020,BudgetLine,265167
+Lebanon,2020,BudgetLine,0
+Lesotho,2020,BudgetLine,12895
+Madagascar,2020,BudgetLine,486132
+Malawi,2020,BudgetLine,1157401
+Mali,2020,BudgetLine,310715
+Mexico,2020,BudgetLine,511461
+Micronesia (Federated States of),2020,BudgetLine,0
+Morocco,2020,BudgetLine,0
+Mozambique,2020,BudgetLine,0
+Myanmar,2020,BudgetLine,2993843
+Namibia,2020,BudgetLine,19205
+Nepal,2020,BudgetLine,0
+Pakistan,2020,BudgetLine,8150348
+Papua New Guinea,2020,BudgetLine,3000000
+Paraguay,2020,BudgetLine,439113
+Peru,2020,BudgetLine,376235
+Philippines,2020,BudgetLine,708322
+Republic of Moldova,2020,BudgetLine,0
+Russian Federation,2020,BudgetLine,277256196
+Rwanda,2020,BudgetLine,1378129
+Sao Tome and Principe,2020,BudgetLine,0
+Senegal,2020,BudgetLine,2235908
+Sierra Leone,2020,BudgetLine,500000
+Solomon Islands,2020,BudgetLine,0
+Somalia,2020,BudgetLine,0
+South Sudan,2020,BudgetLine,6858332
+Sri Lanka,2020,BudgetLine,367671
+Sudan,2020,BudgetLine,1584007
+Suriname,2020,BudgetLine,100000
+Syrian Arab Republic,2020,BudgetLine,0
+Tajikistan,2020,BudgetLine,6888608
+Thailand,2020,BudgetLine,454361
+Timor-Leste,2020,BudgetLine,720376
+Tunisia,2020,BudgetLine,0
+Turkmenistan,2020,BudgetLine,1938101
+Uganda,2020,BudgetLine,2715859
+Ukraine,2020,BudgetLine,7114615
+United Republic of Tanzania,2020,BudgetLine,1000080
+Vanuatu,2020,BudgetLine,17931
+Venezuela (Bolivarian Republic of),2020,BudgetLine,0
+Viet Nam,2020,BudgetLine,2797556
+Yemen,2020,BudgetLine,0
+Zambia,2020,BudgetLine,410000
+Zimbabwe,2020,BudgetLine,0
+Afghanistan,2020,Patient,328205
+Angola,2020,Patient,0
+Argentina,2020,Patient,0
+Armenia,2020,Patient,146991
+Azerbaijan,2020,Patient,65496
+Bangladesh,2020,Patient,899387
+Belarus,2020,Patient,262575
+Belize,2020,Patient,0
+Benin,2020,Patient,254448
+Bhutan,2020,Patient,0
+Bolivia (Plurinational State of),2020,Patient,122025
+Botswana,2020,Patient,70000
+Brazil,2020,Patient,0
+Bulgaria,2020,Patient,26233
+Burkina Faso,2020,Patient,202422
+Burundi,2020,Patient,24082
+Cambodia,2020,Patient,210199
+Cameroon,2020,Patient,72448
+Central African Republic,2020,Patient,5430
+China,2020,Patient,0
+Colombia,2020,Patient,228438
+Congo,2020,Patient,5782
+Côte d'Ivoire,2020,Patient,460630
+Democratic Republic of the Congo,2020,Patient,2002296
+Dominican Republic,2020,Patient,550000
+Ecuador,2020,Patient,0
+El Salvador,2020,Patient,81994
+Equatorial Guinea,2020,Patient,0
+Eritrea,2020,Patient,72000
+Eswatini,2020,Patient,559233
+Ethiopia,2020,Patient,729313
+Fiji,2020,Patient,0
+Gabon,2020,Patient,0
+Georgia,2020,Patient,258898
+Ghana,2020,Patient,973767
+Guatemala,2020,Patient,137650
+Guinea,2020,Patient,58600
+Guinea-Bissau,2020,Patient,76417
+Guyana,2020,Patient,86182
+Haiti,2020,Patient,297225
+Honduras,2020,Patient,228861
+India,2020,Patient,75123448
+Indonesia,2020,Patient,4226759
+Iraq,2020,Patient,90000
+Jordan,2020,Patient,50000
+Kazakhstan,2020,Patient,4024997
+Kenya,2020,Patient,703965
+Kiribati,2020,Patient,2520
+Kyrgyzstan,2020,Patient,500155
+Lao People's Democratic Republic,2020,Patient,115186
+Lebanon,2020,Patient,5485
+Lesotho,2020,Patient,575900
+Madagascar,2020,Patient,170036
+Malawi,2020,Patient,189007
+Malaysia,2020,Patient,140000
+Mali,2020,Patient,43559
+Mauritania,2020,Patient,55372
+Mexico,2020,Patient,24341
+Mongolia,2020,Patient,720
+Morocco,2020,Patient,0
+Mozambique,2020,Patient,946157
+Myanmar,2020,Patient,3326042
+Namibia,2020,Patient,240129
+Nepal,2020,Patient,573899
+Niger,2020,Patient,175285
+Pakistan,2020,Patient,342874
+Papua New Guinea,2020,Patient,100000
+Paraguay,2020,Patient,292715
+Peru,2020,Patient,17466170
+Philippines,2020,Patient,2127597
+Republic of Moldova,2020,Patient,742035
+Russian Federation,2020,Patient,1279506
+Rwanda,2020,Patient,263497
+Sao Tome and Principe,2020,Patient,16809
+Senegal,2020,Patient,191829
+Sierra Leone,2020,Patient,400000
+Solomon Islands,2020,Patient,0
+Somalia,2020,Patient,0
+South Sudan,2020,Patient,43911
+Sudan,2020,Patient,13381
+Suriname,2020,Patient,38122
+Syrian Arab Republic,2020,Patient,61000
+Tajikistan,2020,Patient,56719
+Thailand,2020,Patient,224709
+Timor-Leste,2020,Patient,32734
+Togo,2020,Patient,22868
+Tunisia,2020,Patient,0
+Turkmenistan,2020,Patient,215981
+Uganda,2020,Patient,1506561
+Ukraine,2020,Patient,11500811
+United Republic of Tanzania,2020,Patient,700000
+Venezuela (Bolivarian Republic of),2020,Patient,172044
+Viet Nam,2020,Patient,1931450
+Yemen,2020,Patient,21037
+Zambia,2020,Patient,428571
+Zimbabwe,2020,Patient,71200
+Afghanistan,2020,DrugRes,2604180
+Angola,2020,DrugRes,2850023
+Argentina,2020,DrugRes,357270
+Armenia,2020,DrugRes,400964
+Azerbaijan,2020,DrugRes,1785268
+Bangladesh,2020,DrugRes,2471773
+Belarus,2020,DrugRes,11111002
+Belize,2020,DrugRes,6579
+Benin,2020,DrugRes,38589
+Bhutan,2020,DrugRes,124672
+Bolivia (Plurinational State of),2020,DrugRes,512951
+Botswana,2020,DrugRes,147000
+Brazil,2020,DrugRes,1977198
+Bulgaria,2020,DrugRes,122303
+Burkina Faso,2020,DrugRes,153143
+Burundi,2020,DrugRes,150644
+Cabo Verde,2020,DrugRes,3000
+Cambodia,2020,DrugRes,78856
+Cameroon,2020,DrugRes,99540
+Central African Republic,2020,DrugRes,88022
+China,2020,DrugRes,254853742
+Colombia,2020,DrugRes,173850
+Congo,2020,DrugRes,78814
+Côte d'Ivoire,2020,DrugRes,535363
+Democratic Republic of the Congo,2020,DrugRes,3181961
+Dominican Republic,2020,DrugRes,487305
+Ecuador,2020,DrugRes,273643
+El Salvador,2020,DrugRes,9311
+Equatorial Guinea,2020,DrugRes,40000
+Eritrea,2020,DrugRes,136500
+Eswatini,2020,DrugRes,800000
+Ethiopia,2020,DrugRes,908485
+Fiji,2020,DrugRes,24000
+Gabon,2020,DrugRes,209836
+Georgia,2020,DrugRes,902972
+Ghana,2020,DrugRes,602961
+Guatemala,2020,DrugRes,23500
+Guinea,2020,DrugRes,72716
+Guinea-Bissau,2020,DrugRes,83985
+Guyana,2020,DrugRes,18487
+Haiti,2020,DrugRes,293732
+Honduras,2020,DrugRes,132029
+India,2020,DrugRes,77165968
+Indonesia,2020,DrugRes,13462660
+Iran (Islamic Republic of),2020,DrugRes,69000
+Iraq,2020,DrugRes,436000
+Jordan,2020,DrugRes,6000
+Kazakhstan,2020,DrugRes,10970766
+Kenya,2020,DrugRes,1391028
+Kyrgyzstan,2020,DrugRes,4402580
+Lao People's Democratic Republic,2020,DrugRes,65291
+Lebanon,2020,DrugRes,30500
+Lesotho,2020,DrugRes,1080304
+Madagascar,2020,DrugRes,55341
+Malawi,2020,DrugRes,450000
+Malaysia,2020,DrugRes,224000
+Mali,2020,DrugRes,247104
+Mauritania,2020,DrugRes,53889
+Mexico,2020,DrugRes,216809
+Micronesia (Federated States of),2020,DrugRes,0
+Mongolia,2020,DrugRes,364785
+Morocco,2020,DrugRes,1320916
+Mozambique,2020,DrugRes,3967628
+Myanmar,2020,DrugRes,1969584
+Namibia,2020,DrugRes,1736968
+Nepal,2020,DrugRes,420934
+Niger,2020,DrugRes,229141
+Pakistan,2020,DrugRes,5788067
+Papua New Guinea,2020,DrugRes,338675
+Paraguay,2020,DrugRes,28267
+Peru,2020,DrugRes,4647235
+Philippines,2020,DrugRes,6098769
+Republic of Moldova,2020,DrugRes,1301779
+Russian Federation,2020,DrugRes,78750604
+Rwanda,2020,DrugRes,49360
+Sao Tome and Principe,2020,DrugRes,20889
+Senegal,2020,DrugRes,310690
+Sierra Leone,2020,DrugRes,713130
+Solomon Islands,2020,DrugRes,4690
+Somalia,2020,DrugRes,265262
+South Sudan,2020,DrugRes,192828
+Sri Lanka,2020,DrugRes,54450
+Sudan,2020,DrugRes,622595
+Suriname,2020,DrugRes,0
+Syrian Arab Republic,2020,DrugRes,122000
+Tajikistan,2020,DrugRes,1468043
+Thailand,2020,DrugRes,4644193
+Timor-Leste,2020,DrugRes,16776
+Togo,2020,DrugRes,24888
+Tunisia,2020,DrugRes,55000
+Turkmenistan,2020,DrugRes,869735
+Uganda,2020,DrugRes,750000
+Ukraine,2020,DrugRes,19989158
+United Republic of Tanzania,2020,DrugRes,1084055
+Venezuela (Bolivarian Republic of),2020,DrugRes,67382
+Viet Nam,2020,DrugRes,5806841
+Yemen,2020,DrugRes,178820
+Zambia,2020,DrugRes,2911000
+Zimbabwe,2020,DrugRes,133455
 Afghanistan,2019,DrugSusp,1271127
 Angola,2019,DrugSusp,1556857
 Argentina,2019,DrugSusp,1443000
@@ -605,3 +1180,1196 @@ Viet Nam,2019,DrugRes,3134052
 Yemen,2019,DrugRes,178820
 Zambia,2019,DrugRes,2911000
 Zimbabwe,2019,DrugRes,866960
+Afghanistan,2018,DrugSusp,2828527
+Angola,2018,DrugSusp,25271483
+Argentina,2018,DrugSusp,1481792
+Armenia,2018,DrugSusp,25883
+Azerbaijan,2018,DrugSusp,436318
+Bangladesh,2018,DrugSusp,6446937
+Belarus,2018,DrugSusp,106150
+Belize,2018,DrugSusp,8640
+Benin,2018,DrugSusp,241521
+Bhutan,2018,DrugSusp,57413
+Bolivia (Plurinational State of),2018,DrugSusp,657369
+Bosnia and Herzegovina,2018,DrugSusp,161978
+Botswana,2018,DrugSusp,1307800
+Brazil,2018,DrugSusp,3181599
+Bulgaria,2018,DrugSusp,168233
+Burkina Faso,2018,DrugSusp,399103
+Cabo Verde,2018,DrugSusp,13000
+Cambodia,2018,DrugSusp,1400000
+Cameroon,2018,DrugSusp,1159091
+Central African Republic,2018,DrugSusp,914472
+Chad,2018,DrugSusp,654019
+China,2018,DrugSusp,51586567
+Colombia,2018,DrugSusp,351000
+Congo,2018,DrugSusp,139536
+Côte d'Ivoire,2018,DrugSusp,571945
+Democratic Republic of the Congo,2018,DrugSusp,5150522
+Djibouti,2018,DrugSusp,67100
+Dominican Republic,2018,DrugSusp,235228
+Ecuador,2018,DrugSusp,225172
+El Salvador,2018,DrugSusp,201146
+Equatorial Guinea,2018,DrugSusp,57000
+Eritrea,2018,DrugSusp,81356
+Estonia,2018,DrugSusp,14000
+Eswatini,2018,DrugSusp,1097092
+Ethiopia,2018,DrugSusp,1669754
+Fiji,2018,DrugSusp,27230
+Gabon,2018,DrugSusp,501689
+Georgia,2018,DrugSusp,31366
+Ghana,2018,DrugSusp,219095
+Guatemala,2018,DrugSusp,399158
+Guinea,2018,DrugSusp,434280
+Guinea-Bissau,2018,DrugSusp,71320
+Guyana,2018,DrugSusp,493177
+Haiti,2018,DrugSusp,561557
+India,2018,DrugSusp,29530797
+Indonesia,2018,DrugSusp,23587573
+Iran (Islamic Republic of),2018,DrugSusp,754138
+Iraq,2018,DrugSusp,290000
+Jamaica,2018,DrugSusp,22184
+Jordan,2018,DrugSusp,63700
+Kazakhstan,2018,DrugSusp,1235506
+Kenya,2018,DrugSusp,2160461
+Kiribati,2018,DrugSusp,33347
+Kyrgyzstan,2018,DrugSusp,0
+Lao People's Democratic Republic,2018,DrugSusp,160137
+Latvia,2018,DrugSusp,130078
+Lebanon,2018,DrugSusp,31035
+Lesotho,2018,DrugSusp,859650
+Liberia,2018,DrugSusp,195600
+Madagascar,2018,DrugSusp,1072341
+Malawi,2018,DrugSusp,674481
+Malaysia,2018,DrugSusp,1808590
+Mali,2018,DrugSusp,672980
+Marshall Islands,2018,DrugSusp,150000
+Mauritania,2018,DrugSusp,85000
+Mexico,2018,DrugSusp,1799553
+Mongolia,2018,DrugSusp,500000
+Morocco,2018,DrugSusp,1947169
+Mozambique,2018,DrugSusp,3009407
+Myanmar,2018,DrugSusp,2623289
+Namibia,2018,DrugSusp,534034
+Nepal,2018,DrugSusp,933482
+Nicaragua,2018,DrugSusp,84952
+Nigeria,2018,DrugSusp,2058379
+Pakistan,2018,DrugSusp,13575077
+Paraguay,2018,DrugSusp,100602
+Peru,2018,DrugSusp,1002727
+Philippines,2018,DrugSusp,10806000
+Republic of Korea,2018,DrugSusp,435000
+Republic of Moldova,2018,DrugSusp,154785
+Romania,2018,DrugSusp,1210000
+Russian Federation,2018,DrugSusp,9846612
+Rwanda,2018,DrugSusp,166140
+Sao Tome and Principe,2018,DrugSusp,6183
+Senegal,2018,DrugSusp,519080
+Serbia,2018,DrugSusp,74458
+Sierra Leone,2018,DrugSusp,712896
+Solomon Islands,2018,DrugSusp,31188
+Somalia,2018,DrugSusp,624525
+South Sudan,2018,DrugSusp,595470
+Sri Lanka,2018,DrugSusp,285207
+Sudan,2018,DrugSusp,641798
+Suriname,2018,DrugSusp,15000
+Syrian Arab Republic,2018,DrugSusp,232133
+Tajikistan,2018,DrugSusp,241912
+Thailand,2018,DrugSusp,9735680
+Timor-Leste,2018,DrugSusp,119870
+Togo,2018,DrugSusp,27447
+Tunisia,2018,DrugSusp,233850
+Uganda,2018,DrugSusp,1790436
+Ukraine,2018,DrugSusp,0
+United Republic of Tanzania,2018,DrugSusp,3831478
+Uruguay,2018,DrugSusp,42524
+Vanuatu,2018,DrugSusp,5490
+Venezuela (Bolivarian Republic of),2018,DrugSusp,326658
+Viet Nam,2018,DrugSusp,5517467
+Yemen,2018,DrugSusp,385712
+Zambia,2018,DrugSusp,6302024
+Zimbabwe,2018,DrugSusp,1773922
+Afghanistan,2018,Lab,1471438
+Angola,2018,Lab,550000
+Argentina,2018,Lab,0
+Armenia,2018,Lab,2031383
+Azerbaijan,2018,Lab,914655
+Bangladesh,2018,Lab,15593760
+Belarus,2018,Lab,1841652
+Belize,2018,Lab,42545
+Benin,2018,Lab,535708
+Bhutan,2018,Lab,163497
+Bolivia (Plurinational State of),2018,Lab,2797906
+Bosnia and Herzegovina,2018,Lab,349839
+Botswana,2018,Lab,2187200
+Brazil,2018,Lab,7142388
+Bulgaria,2018,Lab,432654
+Burkina Faso,2018,Lab,380274
+Cabo Verde,2018,Lab,11000
+Cambodia,2018,Lab,1318665
+Cameroon,2018,Lab,1272727
+Central African Republic,2018,Lab,209160
+Chad,2018,Lab,134850
+China,2018,Lab,8776119
+Colombia,2018,Lab,84000
+Congo,2018,Lab,82853
+Côte d'Ivoire,2018,Lab,718382
+Democratic Republic of the Congo,2018,Lab,2749494
+Djibouti,2018,Lab,4369
+Dominican Republic,2018,Lab,481437
+Ecuador,2018,Lab,92243
+El Salvador,2018,Lab,834641
+Equatorial Guinea,2018,Lab,101000
+Eritrea,2018,Lab,489533
+Estonia,2018,Lab,18000
+Eswatini,2018,Lab,1962385
+Ethiopia,2018,Lab,8864518
+Gabon,2018,Lab,224869
+Georgia,2018,Lab,2520952
+Ghana,2018,Lab,4369678
+Guatemala,2018,Lab,949664
+Guinea,2018,Lab,1293514
+Guinea-Bissau,2018,Lab,34007
+Guyana,2018,Lab,15290
+Haiti,2018,Lab,666079
+Honduras,2018,Lab,213627
+India,2018,Lab,48003093
+Indonesia,2018,Lab,33485627
+Iraq,2018,Lab,1000000
+Jordan,2018,Lab,140000
+Kazakhstan,2018,Lab,2372849
+Kenya,2018,Lab,1439814
+Kiribati,2018,Lab,40698
+Kyrgyzstan,2018,Lab,1258373
+Lao People's Democratic Republic,2018,Lab,889214
+Lebanon,2018,Lab,71800
+Lesotho,2018,Lab,999645
+Liberia,2018,Lab,49532
+Madagascar,2018,Lab,198941
+Malawi,2018,Lab,3717675
+Malaysia,2018,Lab,650000
+Mali,2018,Lab,886224
+Mauritania,2018,Lab,22000
+Mexico,2018,Lab,3931889
+Mongolia,2018,Lab,441194
+Morocco,2018,Lab,543185
+Mozambique,2018,Lab,4468044
+Myanmar,2018,Lab,2377517
+Namibia,2018,Lab,1925384
+Nepal,2018,Lab,5504846
+Nicaragua,2018,Lab,869070
+Niger,2018,Lab,6422560
+Nigeria,2018,Lab,11612162
+Pakistan,2018,Lab,18019918
+Paraguay,2018,Lab,924854
+Peru,2018,Lab,22183045
+Philippines,2018,Lab,23937747
+Republic of Korea,2018,Lab,11004000
+Republic of Moldova,2018,Lab,1207313
+Romania,2018,Lab,2973639
+Russian Federation,2018,Lab,29023816
+Rwanda,2018,Lab,1891025
+Sao Tome and Principe,2018,Lab,64548
+Senegal,2018,Lab,1005303
+Serbia,2018,Lab,2087324
+Sierra Leone,2018,Lab,2618874
+Solomon Islands,2018,Lab,129270
+Somalia,2018,Lab,150240
+South Sudan,2018,Lab,221546
+Sri Lanka,2018,Lab,1921057
+Sudan,2018,Lab,747933
+Suriname,2018,Lab,343402
+Syrian Arab Republic,2018,Lab,378851
+Tajikistan,2018,Lab,4627167
+Thailand,2018,Lab,2936396
+Timor-Leste,2018,Lab,713
+Togo,2018,Lab,125325
+Tunisia,2018,Lab,300000
+Uganda,2018,Lab,4909627
+Ukraine,2018,Lab,6581087
+United Republic of Tanzania,2018,Lab,4971080
+Uruguay,2018,Lab,165869
+Vanuatu,2018,Lab,2000
+Venezuela (Bolivarian Republic of),2018,Lab,33223
+Viet Nam,2018,Lab,6221600
+Yemen,2018,Lab,236483
+Zambia,2018,Lab,1212486
+Zimbabwe,2018,Lab,2582279
+Afghanistan,2018,Research,60000
+Angola,2018,Research,0
+Argentina,2018,Research,0
+Armenia,2018,Research,0
+Azerbaijan,2018,Research,2941
+Bangladesh,2018,Research,384422
+Belarus,2018,Research,149230
+Belize,2018,Research,65232
+Benin,2018,Research,55303
+Bhutan,2018,Research,0
+Bolivia (Plurinational State of),2018,Research,0
+Botswana,2018,Research,0
+Brazil,2018,Research,806852
+Bulgaria,2018,Research,29184
+Burkina Faso,2018,Research,88542
+Cabo Verde,2018,Research,0
+Cambodia,2018,Research,0
+Central African Republic,2018,Research,17224
+Chad,2018,Research,0
+China,2018,Research,30224531
+Colombia,2018,Research,10000
+Congo,2018,Research,0
+Côte d'Ivoire,2018,Research,0
+Democratic Republic of the Congo,2018,Research,371535
+Djibouti,2018,Research,0
+Dominican Republic,2018,Research,540000
+El Salvador,2018,Research,108400
+Eritrea,2018,Research,15000
+Estonia,2018,Research,0
+Eswatini,2018,Research,1961971
+Ethiopia,2018,Research,849378
+Fiji,2018,Research,5000
+Gabon,2018,Research,11222
+Georgia,2018,Research,661960
+Ghana,2018,Research,10000
+Guatemala,2018,Research,0
+Guinea,2018,Research,157800
+Guinea-Bissau,2018,Research,0
+Guyana,2018,Research,37622
+Honduras,2018,Research,169011
+India,2018,Research,5933673
+Indonesia,2018,Research,1632432
+Iraq,2018,Research,0
+Jordan,2018,Research,0
+Kazakhstan,2018,Research,0
+Kenya,2018,Research,86174
+Kyrgyzstan,2018,Research,0
+Lao People's Democratic Republic,2018,Research,20000
+Lebanon,2018,Research,400000
+Lesotho,2018,Research,145677
+Madagascar,2018,Research,197663
+Malawi,2018,Research,356986
+Mali,2018,Research,29408
+Mauritania,2018,Research,0
+Mexico,2018,Research,16637
+Mongolia,2018,Research,15451
+Morocco,2018,Research,0
+Mozambique,2018,Research,1462672
+Myanmar,2018,Research,459783
+Namibia,2018,Research,570588
+Nepal,2018,Research,1746043
+Nicaragua,2018,Research,86907
+Nigeria,2018,Research,0
+Pakistan,2018,Research,93724
+Paraguay,2018,Research,50323
+Peru,2018,Research,0
+Philippines,2018,Research,358835
+Republic of Korea,2018,Research,83000
+Republic of Moldova,2018,Research,0
+Romania,2018,Research,151580
+Russian Federation,2018,Research,98459
+Rwanda,2018,Research,8250
+Sao Tome and Principe,2018,Research,0
+Senegal,2018,Research,44253
+Serbia,2018,Research,0
+Sierra Leone,2018,Research,0
+Solomon Islands,2018,Research,8000
+South Sudan,2018,Research,0
+Sri Lanka,2018,Research,0
+Sudan,2018,Research,1500
+Suriname,2018,Research,0
+Syrian Arab Republic,2018,Research,0
+Tajikistan,2018,Research,30074
+Thailand,2018,Research,1500000
+Timor-Leste,2018,Research,123245
+Togo,2018,Research,8222
+Tunisia,2018,Research,0
+Uganda,2018,Research,50000
+Ukraine,2018,Research,121783
+United Republic of Tanzania,2018,Research,471025
+Uruguay,2018,Research,135078
+Vanuatu,2018,Research,0
+Venezuela (Bolivarian Republic of),2018,Research,0
+Viet Nam,2018,Research,1209595
+Yemen,2018,Research,0
+Zambia,2018,Research,700000
+Zimbabwe,2018,Research,247194
+Angola,2018,BudgetLine,0
+Argentina,2018,BudgetLine,0
+Armenia,2018,BudgetLine,1758046
+Azerbaijan,2018,BudgetLine,112212
+Bangladesh,2018,BudgetLine,2018533
+Belarus,2018,BudgetLine,1476759
+Belize,2018,BudgetLine,4221
+Benin,2018,BudgetLine,0
+Bhutan,2018,BudgetLine,0
+Bolivia (Plurinational State of),2018,BudgetLine,1703654
+Bosnia and Herzegovina,2018,BudgetLine,11429
+Botswana,2018,BudgetLine,120000
+Brazil,2018,BudgetLine,12000
+Bulgaria,2018,BudgetLine,584888
+Burkina Faso,2018,BudgetLine,0
+Burundi,2018,BudgetLine,695829
+Cabo Verde,2018,BudgetLine,0
+Cambodia,2018,BudgetLine,5774
+Central African Republic,2018,BudgetLine,40800
+Chad,2018,BudgetLine,0
+China,2018,BudgetLine,0
+Congo,2018,BudgetLine,0
+Côte d'Ivoire,2018,BudgetLine,248031
+Democratic Republic of the Congo,2018,BudgetLine,2411910
+Djibouti,2018,BudgetLine,406877
+Dominican Republic,2018,BudgetLine,780000
+El Salvador,2018,BudgetLine,1089928
+Eritrea,2018,BudgetLine,95452
+Estonia,2018,BudgetLine,10000
+Ethiopia,2018,BudgetLine,515979
+Gabon,2018,BudgetLine,0
+Georgia,2018,BudgetLine,4755563
+Ghana,2018,BudgetLine,964250
+Guatemala,2018,BudgetLine,0
+Guinea,2018,BudgetLine,135000
+Guinea-Bissau,2018,BudgetLine,0
+Guyana,2018,BudgetLine,6709
+Honduras,2018,BudgetLine,597607
+India,2018,BudgetLine,93245346
+Indonesia,2018,BudgetLine,0
+Iraq,2018,BudgetLine,900000
+Jordan,2018,BudgetLine,50000
+Kazakhstan,2018,BudgetLine,17942318
+Kenya,2018,BudgetLine,3469397
+Kiribati,2018,BudgetLine,63492
+Kyrgyzstan,2018,BudgetLine,6078320
+Lao People's Democratic Republic,2018,BudgetLine,336079
+Lebanon,2018,BudgetLine,0
+Liberia,2018,BudgetLine,319000
+Madagascar,2018,BudgetLine,737264
+Malawi,2018,BudgetLine,3029544
+Mali,2018,BudgetLine,154417
+Marshall Islands,2018,BudgetLine,787499
+Mauritania,2018,BudgetLine,397456
+Mexico,2018,BudgetLine,101873
+Mongolia,2018,BudgetLine,1137860
+Morocco,2018,BudgetLine,0
+Mozambique,2018,BudgetLine,1711501
+Myanmar,2018,BudgetLine,16294496
+Nepal,2018,BudgetLine,0
+Nicaragua,2018,BudgetLine,0
+Nigeria,2018,BudgetLine,11453981
+Pakistan,2018,BudgetLine,11431539
+Paraguay,2018,BudgetLine,80462
+Peru,2018,BudgetLine,0
+Philippines,2018,BudgetLine,3552181
+Republic of Korea,2018,BudgetLine,496000
+Republic of Moldova,2018,BudgetLine,271932
+Romania,2018,BudgetLine,424662
+Russian Federation,2018,BudgetLine,305381792
+Rwanda,2018,BudgetLine,11711
+Sao Tome and Principe,2018,BudgetLine,136124
+Senegal,2018,BudgetLine,993420
+Serbia,2018,BudgetLine,30091
+Sierra Leone,2018,BudgetLine,1479797
+Solomon Islands,2018,BudgetLine,0
+Somalia,2018,BudgetLine,244238
+South Sudan,2018,BudgetLine,955555
+Sri Lanka,2018,BudgetLine,5681
+Sudan,2018,BudgetLine,1424131
+Suriname,2018,BudgetLine,113000
+Syrian Arab Republic,2018,BudgetLine,0
+Tajikistan,2018,BudgetLine,1208459
+Thailand,2018,BudgetLine,373934
+Timor-Leste,2018,BudgetLine,1775519
+Togo,2018,BudgetLine,145880
+Tunisia,2018,BudgetLine,0
+Turkmenistan,2018,BudgetLine,2631246
+Uganda,2018,BudgetLine,3710918
+Ukraine,2018,BudgetLine,13693965
+Uruguay,2018,BudgetLine,370768
+Vanuatu,2018,BudgetLine,0
+Venezuela (Bolivarian Republic of),2018,BudgetLine,0
+Viet Nam,2018,BudgetLine,153467
+Yemen,2018,BudgetLine,0
+Zambia,2018,BudgetLine,410000
+Zimbabwe,2018,BudgetLine,614996
+Afghanistan,2018,Patient,430132
+Angola,2018,Patient,0
+Argentina,2018,Patient,0
+Armenia,2018,Patient,204184
+Bangladesh,2018,Patient,681532
+Belarus,2018,Patient,321153
+Belize,2018,Patient,34949
+Benin,2018,Patient,228735
+Bhutan,2018,Patient,4161
+Bolivia (Plurinational State of),2018,Patient,275475
+Bosnia and Herzegovina,2018,Patient,8777
+Botswana,2018,Patient,316931
+Bulgaria,2018,Patient,242864
+Burkina Faso,2018,Patient,88714
+Cabo Verde,2018,Patient,0
+Cambodia,2018,Patient,162953
+Cameroon,2018,Patient,90389
+Central African Republic,2018,Patient,250000
+Chad,2018,Patient,403238
+China,2018,Patient,0
+Congo,2018,Patient,11493
+Côte d'Ivoire,2018,Patient,350952
+Democratic Republic of the Congo,2018,Patient,344427
+Djibouti,2018,Patient,0
+Dominican Republic,2018,Patient,1050000
+El Salvador,2018,Patient,74994
+Eritrea,2018,Patient,56625
+Estonia,2018,Patient,40763
+Eswatini,2018,Patient,182532
+Ethiopia,2018,Patient,1032116
+Fiji,2018,Patient,2000
+Gabon,2018,Patient,472318
+Georgia,2018,Patient,616953
+Ghana,2018,Patient,117189
+Guatemala,2018,Patient,161458
+Guinea,2018,Patient,98000
+Guinea-Bissau,2018,Patient,56450
+Guyana,2018,Patient,20984
+Haiti,2018,Patient,66301
+Honduras,2018,Patient,150883
+India,2018,Patient,32698172
+Indonesia,2018,Patient,3210417
+Iraq,2018,Patient,90000
+Jordan,2018,Patient,15000
+Kazakhstan,2018,Patient,4627868
+Kenya,2018,Patient,35153
+Kiribati,2018,Patient,695
+Kyrgyzstan,2018,Patient,216272
+Lao People's Democratic Republic,2018,Patient,145686
+Lebanon,2018,Patient,289361
+Lesotho,2018,Patient,323902
+Madagascar,2018,Patient,170735
+Malawi,2018,Patient,153212
+Malaysia,2018,Patient,125000
+Mali,2018,Patient,70827
+Mauritania,2018,Patient,0
+Mexico,2018,Patient,32904
+Mongolia,2018,Patient,43108
+Morocco,2018,Patient,36960
+Mozambique,2018,Patient,375000
+Myanmar,2018,Patient,2703306
+Namibia,2018,Patient,448930
+Nepal,2018,Patient,621148
+Nicaragua,2018,Patient,86907
+Nigeria,2018,Patient,3164133
+Pakistan,2018,Patient,1702239
+Paraguay,2018,Patient,232081
+Peru,2018,Patient,19612352
+Philippines,2018,Patient,3175753
+Republic of Korea,2018,Patient,5391000
+Republic of Moldova,2018,Patient,1999995
+Romania,2018,Patient,81005
+Russian Federation,2018,Patient,786687
+Rwanda,2018,Patient,84784
+Sao Tome and Principe,2018,Patient,25557
+Senegal,2018,Patient,171505
+Serbia,2018,Patient,4320
+Sierra Leone,2018,Patient,0
+Solomon Islands,2018,Patient,61932
+Somalia,2018,Patient,270759
+South Sudan,2018,Patient,7852
+Sri Lanka,2018,Patient,0
+Sudan,2018,Patient,150370
+Suriname,2018,Patient,53320
+Syrian Arab Republic,2018,Patient,272115
+Tajikistan,2018,Patient,760336
+Thailand,2018,Patient,324393
+Timor-Leste,2018,Patient,39938
+Togo,2018,Patient,23891
+Tunisia,2018,Patient,0
+Uganda,2018,Patient,1168550
+Ukraine,2018,Patient,6162605
+United Republic of Tanzania,2018,Patient,186007
+Uruguay,2018,Patient,458992
+Vanuatu,2018,Patient,0
+Venezuela (Bolivarian Republic of),2018,Patient,0
+Viet Nam,2018,Patient,1260266
+Yemen,2018,Patient,63000
+Zambia,2018,Patient,920000
+Zimbabwe,2018,Patient,178800
+Afghanistan,2018,DrugRes,453231
+Angola,2018,DrugRes,2432452
+Argentina,2018,DrugRes,307361
+Armenia,2018,DrugRes,19575
+Azerbaijan,2018,DrugRes,1817978
+Bangladesh,2018,DrugRes,1060564
+Belarus,2018,DrugRes,7818987
+Belize,2018,DrugRes,6320
+Benin,2018,DrugRes,27406
+Bhutan,2018,DrugRes,93624
+Bolivia (Plurinational State of),2018,DrugRes,219962
+Botswana,2018,DrugRes,1052374
+Brazil,2018,DrugRes,3185568
+Bulgaria,2018,DrugRes,35306
+Burkina Faso,2018,DrugRes,89577
+Cabo Verde,2018,DrugRes,9662
+Cambodia,2018,DrugRes,109870
+Cameroon,2018,DrugRes,61818
+Central African Republic,2018,DrugRes,278631
+Chad,2018,DrugRes,33357
+China,2018,DrugRes,67431111
+Colombia,2018,DrugRes,490000
+Congo,2018,DrugRes,84600
+Côte d'Ivoire,2018,DrugRes,481110
+Democratic Republic of the Congo,2018,DrugRes,831538
+Djibouti,2018,DrugRes,84520
+Dominican Republic,2018,DrugRes,251626
+Ecuador,2018,DrugRes,212696
+El Salvador,2018,DrugRes,25332
+Equatorial Guinea,2018,DrugRes,61000
+Eritrea,2018,DrugRes,54992
+Estonia,2018,DrugRes,350000
+Eswatini,2018,DrugRes,2136470
+Ethiopia,2018,DrugRes,2222556
+Fiji,2018,DrugRes,700
+Gabon,2018,DrugRes,235480
+Georgia,2018,DrugRes,619118
+Ghana,2018,DrugRes,678338
+Guatemala,2018,DrugRes,153258
+Guinea,2018,DrugRes,64457
+Guinea-Bissau,2018,DrugRes,62845
+Guyana,2018,DrugRes,29446
+Haiti,2018,DrugRes,105780
+India,2018,DrugRes,97451630
+Indonesia,2018,DrugRes,3822766
+Iran (Islamic Republic of),2018,DrugRes,62118
+Iraq,2018,DrugRes,300000
+Jordan,2018,DrugRes,10750
+Kazakhstan,2018,DrugRes,22047675
+Kenya,2018,DrugRes,1014794
+Kiribati,2018,DrugRes,11266
+Kyrgyzstan,2018,DrugRes,3679638
+Lao People's Democratic Republic,2018,DrugRes,75000
+Lebanon,2018,DrugRes,71700
+Lesotho,2018,DrugRes,648304
+Liberia,2018,DrugRes,72133
+Madagascar,2018,DrugRes,15705
+Malawi,2018,DrugRes,398285
+Malaysia,2018,DrugRes,274000
+Mali,2018,DrugRes,109080
+Marshall Islands,2018,DrugRes,180000
+Mauritania,2018,DrugRes,25000
+Mexico,2018,DrugRes,321288
+Mongolia,2018,DrugRes,542131
+Morocco,2018,DrugRes,486200
+Mozambique,2018,DrugRes,2238200
+Myanmar,2018,DrugRes,954286
+Namibia,2018,DrugRes,1129087
+Nepal,2018,DrugRes,1024993
+Nicaragua,2018,DrugRes,285924
+Nigeria,2018,DrugRes,4880764
+Pakistan,2018,DrugRes,3521108
+Paraguay,2018,DrugRes,19413
+Peru,2018,DrugRes,4010908
+Philippines,2018,DrugRes,13604541
+Republic of Korea,2018,DrugRes,1131000
+Republic of Moldova,2018,DrugRes,2226971
+Romania,2018,DrugRes,1747678
+Russian Federation,2018,DrugRes,88829336
+Rwanda,2018,DrugRes,121122
+Sao Tome and Principe,2018,DrugRes,6549
+Senegal,2018,DrugRes,72160
+Serbia,2018,DrugRes,26078
+Sierra Leone,2018,DrugRes,199680
+Solomon Islands,2018,DrugRes,4411
+Somalia,2018,DrugRes,419003
+South Sudan,2018,DrugRes,6692
+Sri Lanka,2018,DrugRes,37583
+Sudan,2018,DrugRes,251203
+Suriname,2018,DrugRes,0
+Syrian Arab Republic,2018,DrugRes,32729
+Tajikistan,2018,DrugRes,1656240
+Thailand,2018,DrugRes,4758184
+Timor-Leste,2018,DrugRes,27413
+Togo,2018,DrugRes,20690
+Tunisia,2018,DrugRes,46200
+Uganda,2018,DrugRes,572165
+Ukraine,2018,DrugRes,22613875
+United Republic of Tanzania,2018,DrugRes,1073061
+Uruguay,2018,DrugRes,16886
+Vanuatu,2018,DrugRes,0
+Venezuela (Bolivarian Republic of),2018,DrugRes,30295
+Viet Nam,2018,DrugRes,4105214
+Yemen,2018,DrugRes,110896
+Zambia,2018,DrugRes,3096280
+Zimbabwe,2018,DrugRes,1828181
+Afghanistan,2017,DrugSusp,3073211
+Algeria,2017,DrugSusp,774520
+Angola,2017,DrugSusp,26507663
+Argentina,2017,DrugSusp,2815619
+Armenia,2017,DrugSusp,0
+Bangladesh,2017,DrugSusp,9832809
+Belarus,2017,DrugSusp,127000
+Belize,2017,DrugSusp,8202
+Benin,2017,DrugSusp,78646
+Bhutan,2017,DrugSusp,45000
+Bolivia (Plurinational State of),2017,DrugSusp,603955
+Botswana,2017,DrugSusp,1500000
+Brazil,2017,DrugSusp,4695383
+Bulgaria,2017,DrugSusp,169460
+Burkina Faso,2017,DrugSusp,680464
+Cabo Verde,2017,DrugSusp,15000
+Cambodia,2017,DrugSusp,1400000
+Cameroon,2017,DrugSusp,1768545
+Central African Republic,2017,DrugSusp,245475
+Chad,2017,DrugSusp,1232100
+China,2017,DrugSusp,39702072
+Colombia,2017,DrugSusp,351000
+Congo,2017,DrugSusp,98579
+Côte d'Ivoire,2017,DrugSusp,121758
+Democratic Republic of the Congo,2017,DrugSusp,5092778
+Djibouti,2017,DrugSusp,306602
+Dominican Republic,2017,DrugSusp,248795
+Egypt,2017,DrugSusp,162416
+El Salvador,2017,DrugSusp,98939
+Eritrea,2017,DrugSusp,157354
+Estonia,2017,DrugSusp,16200
+Eswatini,2017,DrugSusp,1727730
+Ethiopia,2017,DrugSusp,3339508
+Georgia,2017,DrugSusp,793
+Ghana,2017,DrugSusp,1195036
+Guatemala,2017,DrugSusp,436604
+Guinea,2017,DrugSusp,566722
+Guinea-Bissau,2017,DrugSusp,131651
+Guyana,2017,DrugSusp,170740
+Haiti,2017,DrugSusp,206925
+Honduras,2017,DrugSusp,41882
+India,2017,DrugSusp,64255214
+Indonesia,2017,DrugSusp,14894065
+Iraq,2017,DrugSusp,290000
+Jordan,2017,DrugSusp,200000
+Kazakhstan,2017,DrugSusp,850000
+Kenya,2017,DrugSusp,1874136
+Kiribati,2017,DrugSusp,36000
+Kyrgyzstan,2017,DrugSusp,1012269
+Lao People's Democratic Republic,2017,DrugSusp,0
+Latvia,2017,DrugSusp,158406
+Lebanon,2017,DrugSusp,17696
+Lesotho,2017,DrugSusp,658000
+Malawi,2017,DrugSusp,1190436
+Malaysia,2017,DrugSusp,1900000
+Mali,2017,DrugSusp,989886
+Mauritania,2017,DrugSusp,91667
+Mexico,2017,DrugSusp,2381884
+Micronesia (Federated States of),2017,DrugSusp,25000
+Mongolia,2017,DrugSusp,305049
+Morocco,2017,DrugSusp,3850000
+Mozambique,2017,DrugSusp,2387952
+Myanmar,2017,DrugSusp,2640500
+Namibia,2017,DrugSusp,534034
+Nepal,2017,DrugSusp,1780488
+Nigeria,2017,DrugSusp,12577465
+Pakistan,2017,DrugSusp,13755425
+Panama,2017,DrugSusp,1301432
+Papua New Guinea,2017,DrugSusp,1051910
+Paraguay,2017,DrugSusp,127541
+Peru,2017,DrugSusp,1650000
+Philippines,2017,DrugSusp,8405068
+Republic of Korea,2017,DrugSusp,1197000
+Republic of Moldova,2017,DrugSusp,138968
+Romania,2017,DrugSusp,1380000
+Russian Federation,2017,DrugSusp,11276013
+Rwanda,2017,DrugSusp,181630
+Sao Tome and Principe,2017,DrugSusp,8000
+Serbia,2017,DrugSusp,78529
+Sierra Leone,2017,DrugSusp,473750
+Solomon Islands,2017,DrugSusp,18900
+Somalia,2017,DrugSusp,715072
+South Sudan,2017,DrugSusp,1688953
+Sri Lanka,2017,DrugSusp,285106
+Sudan,2017,DrugSusp,1680854
+Suriname,2017,DrugSusp,10000
+Tajikistan,2017,DrugSusp,276276
+Thailand,2017,DrugSusp,7154677
+Timor-Leste,2017,DrugSusp,158869
+Togo,2017,DrugSusp,197601
+Tunisia,2017,DrugSusp,233850
+Uganda,2017,DrugSusp,2146686
+Ukraine,2017,DrugSusp,44980
+United Republic of Tanzania,2017,DrugSusp,1561170
+Uruguay,2017,DrugSusp,39389
+Uzbekistan,2017,DrugSusp,838949
+Vanuatu,2017,DrugSusp,7293
+Viet Nam,2017,DrugSusp,7331422
+Yemen,2017,DrugSusp,0
+Zambia,2017,DrugSusp,2551707
+Zimbabwe,2017,DrugSusp,1501184
+Afghanistan,2017,Lab,2463321
+Angola,2017,Lab,550000
+Argentina,2017,Lab,0
+Armenia,2017,Lab,149511
+Bangladesh,2017,Lab,4218465
+Belarus,2017,Lab,1273722
+Belize,2017,Lab,103300
+Benin,2017,Lab,1236714
+Bhutan,2017,Lab,81380
+Bolivia (Plurinational State of),2017,Lab,361611
+Bosnia and Herzegovina,2017,Lab,3196979
+Botswana,2017,Lab,3282818
+Brazil,2017,Lab,5880252
+Bulgaria,2017,Lab,127769
+Cabo Verde,2017,Lab,11880
+Cambodia,2017,Lab,2598687
+Cameroon,2017,Lab,339858
+Central African Republic,2017,Lab,209160
+Chad,2017,Lab,114892
+China,2017,Lab,8534017
+Colombia,2017,Lab,84000
+Congo,2017,Lab,90738
+Côte d'Ivoire,2017,Lab,3077097
+Democratic Republic of the Congo,2017,Lab,2957757
+Djibouti,2017,Lab,545080
+Dominican Republic,2017,Lab,176496
+Egypt,2017,Lab,0
+El Salvador,2017,Lab,358367
+Estonia,2017,Lab,17994
+Eswatini,2017,Lab,1109255
+Ethiopia,2017,Lab,13747691
+Georgia,2017,Lab,1734483
+Ghana,2017,Lab,7742489
+Guatemala,2017,Lab,366003
+Guinea,2017,Lab,700000
+Guinea-Bissau,2017,Lab,129953
+Guyana,2017,Lab,59816
+Haiti,2017,Lab,744465
+Honduras,2017,Lab,499966
+India,2017,Lab,75474873
+Indonesia,2017,Lab,18359644
+Iraq,2017,Lab,1000000
+Jordan,2017,Lab,69000
+Kazakhstan,2017,Lab,2601703
+Kenya,2017,Lab,1451654
+Kiribati,2017,Lab,26000
+Kyrgyzstan,2017,Lab,1559795
+Lao People's Democratic Republic,2017,Lab,622228
+Lebanon,2017,Lab,197447
+Lesotho,2017,Lab,6666
+Malawi,2017,Lab,7898233
+Malaysia,2017,Lab,650000
+Mali,2017,Lab,873672
+Mauritania,2017,Lab,444537
+Mexico,2017,Lab,3381345
+Micronesia (Federated States of),2017,Lab,135262
+Mongolia,2017,Lab,648650
+Morocco,2017,Lab,582000
+Mozambique,2017,Lab,5783830
+Myanmar,2017,Lab,4796360
+Nepal,2017,Lab,767228
+Nigeria,2017,Lab,19716562
+Pakistan,2017,Lab,27609166
+Panama,2017,Lab,57755
+Papua New Guinea,2017,Lab,200000
+Paraguay,2017,Lab,1058822
+Peru,2017,Lab,30981658
+Philippines,2017,Lab,9727792
+Republic of Korea,2017,Lab,11490000
+Republic of Moldova,2017,Lab,1753189
+Romania,2017,Lab,3727440
+Russian Federation,2017,Lab,26329894
+Rwanda,2017,Lab,2218988
+Sao Tome and Principe,2017,Lab,230682
+Serbia,2017,Lab,2201451
+Sierra Leone,2017,Lab,352359
+Solomon Islands,2017,Lab,50176
+Somalia,2017,Lab,2344503
+South Sudan,2017,Lab,2355028
+Sri Lanka,2017,Lab,902174
+Sudan,2017,Lab,2620168
+Suriname,2017,Lab,70937
+Syrian Arab Republic,2017,Lab,44000
+Tajikistan,2017,Lab,4150681
+Thailand,2017,Lab,2051275
+Timor-Leste,2017,Lab,355200
+Togo,2017,Lab,1124295
+Tunisia,2017,Lab,220000
+Uganda,2017,Lab,707000
+Ukraine,2017,Lab,8808902
+United Republic of Tanzania,2017,Lab,1831880
+Uruguay,2017,Lab,153639
+Uzbekistan,2017,Lab,2400546
+Vanuatu,2017,Lab,20000
+Venezuela (Bolivarian Republic of),2017,Lab,0
+Viet Nam,2017,Lab,984393
+Yemen,2017,Lab,4048
+Zambia,2017,Lab,1228589
+Zimbabwe,2017,Lab,2298314
+Afghanistan,2017,Research,839482
+Angola,2017,Research,0
+Argentina,2017,Research,0
+Armenia,2017,Research,0
+Bangladesh,2017,Research,112213
+Belarus,2017,Research,202802
+Belize,2017,Research,77750
+Benin,2017,Research,22782
+Bhutan,2017,Research,10000
+Bolivia (Plurinational State of),2017,Research,8696
+Bosnia and Herzegovina,2017,Research,0
+Botswana,2017,Research,5200000
+Brazil,2017,Research,593726
+Bulgaria,2017,Research,2459
+Burkina Faso,2017,Research,10000
+Cabo Verde,2017,Research,3500
+Cambodia,2017,Research,0
+Cameroon,2017,Research,54722
+China,2017,Research,11527023
+Colombia,2017,Research,10000
+Congo,2017,Research,0
+Côte d'Ivoire,2017,Research,168158
+Democratic Republic of the Congo,2017,Research,78554
+Djibouti,2017,Research,10124
+Dominican Republic,2017,Research,70000
+Egypt,2017,Research,0
+El Salvador,2017,Research,27695
+Estonia,2017,Research,0
+Eswatini,2017,Research,2331961
+Ethiopia,2017,Research,815026
+Georgia,2017,Research,2524180
+Ghana,2017,Research,10000
+Guatemala,2017,Research,0
+Guinea,2017,Research,79800
+Guinea-Bissau,2017,Research,17410
+Guyana,2017,Research,3828
+Haiti,2017,Research,150000
+Honduras,2017,Research,236207
+India,2017,Research,6067504
+Indonesia,2017,Research,1484485
+Iraq,2017,Research,0
+Jordan,2017,Research,2000
+Kazakhstan,2017,Research,260170
+Kenya,2017,Research,839093
+Kiribati,2017,Research,20
+Kyrgyzstan,2017,Research,12488
+Lao People's Democratic Republic,2017,Research,0
+Lebanon,2017,Research,5760
+Lesotho,2017,Research,2281220
+Malawi,2017,Research,156350
+Mali,2017,Research,41167
+Mauritania,2017,Research,31712
+Mexico,2017,Research,2957
+Micronesia (Federated States of),2017,Research,0
+Mongolia,2017,Research,40070
+Morocco,2017,Research,23800
+Mozambique,2017,Research,0
+Myanmar,2017,Research,521549
+Namibia,2017,Research,5507000
+Nepal,2017,Research,1046571
+Nigeria,2017,Research,580900
+Pakistan,2017,Research,668003
+Panama,2017,Research,0
+Papua New Guinea,2017,Research,200000
+Paraguay,2017,Research,24632
+Peru,2017,Research,0
+Philippines,2017,Research,644000
+Republic of Korea,2017,Research,122000
+Republic of Moldova,2017,Research,108242
+Romania,2017,Research,545609
+Russian Federation,2017,Research,130355
+Rwanda,2017,Research,8250
+Sao Tome and Principe,2017,Research,13448
+Serbia,2017,Research,1200
+Solomon Islands,2017,Research,12680
+Somalia,2017,Research,59112
+Sri Lanka,2017,Research,96993
+Sudan,2017,Research,45000
+Suriname,2017,Research,5000
+Tajikistan,2017,Research,64399
+Thailand,2017,Research,176732
+Timor-Leste,2017,Research,0
+Togo,2017,Research,63066
+Tunisia,2017,Research,0
+Uganda,2017,Research,122300
+Ukraine,2017,Research,2142
+United Republic of Tanzania,2017,Research,707250
+Uruguay,2017,Research,125119
+Uzbekistan,2017,Research,0
+Vanuatu,2017,Research,20000
+Venezuela (Bolivarian Republic of),2017,Research,0
+Viet Nam,2017,Research,1734239
+Yemen,2017,Research,0
+Zambia,2017,Research,520000
+Afghanistan,2017,BudgetLine,1805071
+Angola,2017,BudgetLine,810863
+Argentina,2017,BudgetLine,0
+Armenia,2017,BudgetLine,655051
+Bangladesh,2017,BudgetLine,7068187
+Belarus,2017,BudgetLine,520116
+Benin,2017,BudgetLine,0
+Bolivia (Plurinational State of),2017,BudgetLine,410291
+Bosnia and Herzegovina,2017,BudgetLine,5520
+Bulgaria,2017,BudgetLine,409733
+Burkina Faso,2017,BudgetLine,0
+Cambodia,2017,BudgetLine,5775
+Cameroon,2017,BudgetLine,1031080
+Congo,2017,BudgetLine,0
+Côte d'Ivoire,2017,BudgetLine,1596231
+Democratic Republic of the Congo,2017,BudgetLine,1310586
+Djibouti,2017,BudgetLine,54100
+Dominican Republic,2017,BudgetLine,600000
+Egypt,2017,BudgetLine,0
+El Salvador,2017,BudgetLine,592949
+Eritrea,2017,BudgetLine,1324472
+Estonia,2017,BudgetLine,12000
+Eswatini,2017,BudgetLine,0
+Ethiopia,2017,BudgetLine,2487073
+Georgia,2017,BudgetLine,4921068
+Ghana,2017,BudgetLine,711457
+Guatemala,2017,BudgetLine,0
+Guinea,2017,BudgetLine,288000
+Guinea-Bissau,2017,BudgetLine,5000
+Guyana,2017,BudgetLine,0
+Haiti,2017,BudgetLine,606811
+Honduras,2017,BudgetLine,226793
+India,2017,BudgetLine,29467517
+Indonesia,2017,BudgetLine,1731265
+Iraq,2017,BudgetLine,1000000
+Jordan,2017,BudgetLine,10000
+Kenya,2017,BudgetLine,5208470
+Kiribati,2017,BudgetLine,47740
+Kyrgyzstan,2017,BudgetLine,4066709
+Lao People's Democratic Republic,2017,BudgetLine,224863
+Lebanon,2017,BudgetLine,0
+Lesotho,2017,BudgetLine,1000000
+Malawi,2017,BudgetLine,9773901
+Mali,2017,BudgetLine,172610
+Mexico,2017,BudgetLine,82750
+Micronesia (Federated States of),2017,BudgetLine,0
+Mongolia,2017,BudgetLine,187380
+Morocco,2017,BudgetLine,1562000
+Mozambique,2017,BudgetLine,0
+Myanmar,2017,BudgetLine,19953806
+Nepal,2017,BudgetLine,0
+Nigeria,2017,BudgetLine,30145948
+Pakistan,2017,BudgetLine,6227544
+Panama,2017,BudgetLine,0
+Papua New Guinea,2017,BudgetLine,0
+Paraguay,2017,BudgetLine,0
+Peru,2017,BudgetLine,0
+Philippines,2017,BudgetLine,18817389
+Republic of Korea,2017,BudgetLine,517000
+Republic of Moldova,2017,BudgetLine,1135024
+Romania,2017,BudgetLine,1317994
+Russian Federation,2017,BudgetLine,361729048
+Rwanda,2017,BudgetLine,518066
+Sao Tome and Principe,2017,BudgetLine,12300
+Serbia,2017,BudgetLine,31736
+Sierra Leone,2017,BudgetLine,100000
+Solomon Islands,2017,BudgetLine,0
+Somalia,2017,BudgetLine,5560000
+South Sudan,2017,BudgetLine,4333363
+Sri Lanka,2017,BudgetLine,0
+Sudan,2017,BudgetLine,772522
+Suriname,2017,BudgetLine,52000
+Tajikistan,2017,BudgetLine,2784254
+Thailand,2017,BudgetLine,1590385
+Timor-Leste,2017,BudgetLine,0
+Togo,2017,BudgetLine,1009797
+Tunisia,2017,BudgetLine,0
+Uganda,2017,BudgetLine,1000000
+Ukraine,2017,BudgetLine,6410984
+Uruguay,2017,BudgetLine,343431
+Uzbekistan,2017,BudgetLine,0
+Vanuatu,2017,BudgetLine,0
+Venezuela (Bolivarian Republic of),2017,BudgetLine,12000
+Viet Nam,2017,BudgetLine,4503818
+Yemen,2017,BudgetLine,13619
+Zambia,2017,BudgetLine,310000
+Afghanistan,2017,Patient,38000
+Angola,2017,Patient,0
+Argentina,2017,Patient,0
+Armenia,2017,Patient,184685
+Bangladesh,2017,Patient,2703373
+Belarus,2017,Patient,334641
+Belize,2017,Patient,60489
+Benin,2017,Patient,230853
+Bhutan,2017,Patient,0
+Bolivia (Plurinational State of),2017,Patient,229994
+Bosnia and Herzegovina,2017,Patient,11300
+Bulgaria,2017,Patient,142556
+Burkina Faso,2017,Patient,142633
+Cabo Verde,2017,Patient,0
+Cambodia,2017,Patient,693565
+Cameroon,2017,Patient,345291
+Central African Republic,2017,Patient,250000
+Chad,2017,Patient,38961
+Colombia,2017,Patient,0
+Congo,2017,Patient,0
+Côte d'Ivoire,2017,Patient,339634
+Democratic Republic of the Congo,2017,Patient,731117
+Djibouti,2017,Patient,85703
+Dominican Republic,2017,Patient,550000
+Egypt,2017,Patient,0
+El Salvador,2017,Patient,70446
+Eritrea,2017,Patient,93600
+Estonia,2017,Patient,48500
+Eswatini,2017,Patient,88408
+Ethiopia,2017,Patient,1297667
+Georgia,2017,Patient,777244
+Ghana,2017,Patient,1897256
+Guatemala,2017,Patient,135411
+Guinea,2017,Patient,95299
+Guinea-Bissau,2017,Patient,136312
+Guyana,2017,Patient,34541
+Haiti,2017,Patient,180650
+Honduras,2017,Patient,220334
+India,2017,Patient,11787968
+Indonesia,2017,Patient,6337251
+Iraq,2017,Patient,50000
+Jordan,2017,Patient,20000
+Kazakhstan,2017,Patient,2601703
+Kenya,2017,Patient,22799
+Kiribati,2017,Patient,0
+Kyrgyzstan,2017,Patient,802495
+Lao People's Democratic Republic,2017,Patient,238341
+Lebanon,2017,Patient,22785
+Lesotho,2017,Patient,450000
+Malawi,2017,Patient,198696
+Malaysia,2017,Patient,80575
+Mali,2017,Patient,51107
+Mauritania,2017,Patient,55372
+Mexico,2017,Patient,46798
+Micronesia (Federated States of),2017,Patient,0
+Mongolia,2017,Patient,41580
+Morocco,2017,Patient,20000
+Mozambique,2017,Patient,0
+Myanmar,2017,Patient,2607005
+Namibia,2017,Patient,5250000
+Nepal,2017,Patient,347176
+Nigeria,2017,Patient,3339672
+Pakistan,2017,Patient,2145160
+Panama,2017,Patient,0
+Papua New Guinea,2017,Patient,500000
+Paraguay,2017,Patient,284518
+Peru,2017,Patient,19894547
+Republic of Korea,2017,Patient,5421000
+Republic of Moldova,2017,Patient,1292015
+Romania,2017,Patient,622784
+Russian Federation,2017,Patient,1176378
+Rwanda,2017,Patient,127611
+Sao Tome and Principe,2017,Patient,15841
+Serbia,2017,Patient,4629
+Sierra Leone,2017,Patient,50000
+Solomon Islands,2017,Patient,50400
+Somalia,2017,Patient,545580
+Sri Lanka,2017,Patient,0
+Sudan,2017,Patient,189000
+Suriname,2017,Patient,30036
+Tajikistan,2017,Patient,1197192
+Thailand,2017,Patient,203759
+Timor-Leste,2017,Patient,42300
+Togo,2017,Patient,231531
+Tunisia,2017,Patient,0
+Uganda,2017,Patient,3829040
+Ukraine,2017,Patient,2836724
+United Republic of Tanzania,2017,Patient,223939
+Uruguay,2017,Patient,425150
+Uzbekistan,2017,Patient,508390
+Vanuatu,2017,Patient,0
+Venezuela (Bolivarian Republic of),2017,Patient,0
+Viet Nam,2017,Patient,2115246
+Yemen,2017,Patient,0
+Zambia,2017,Patient,2182905
+Zimbabwe,2017,Patient,163440
+Afghanistan,2017,DrugRes,417694
+Algeria,2017,DrugRes,36300
+Angola,2017,DrugRes,0
+Argentina,2017,DrugRes,460560
+Armenia,2017,DrugRes,425182
+Bangladesh,2017,DrugRes,701716
+Belarus,2017,DrugRes,8426229
+Belize,2017,DrugRes,3508
+Benin,2017,DrugRes,8405
+Bhutan,2017,DrugRes,58000
+Bolivia (Plurinational State of),2017,DrugRes,144251
+Bosnia and Herzegovina,2017,DrugRes,0
+Botswana,2017,DrugRes,1170000
+Brazil,2017,DrugRes,2826465
+Bulgaria,2017,DrugRes,0
+Burkina Faso,2017,DrugRes,2550
+Cabo Verde,2017,DrugRes,8000
+Cambodia,2017,DrugRes,130612
+Cameroon,2017,DrugRes,776292
+Central African Republic,2017,DrugRes,172000
+China,2017,DrugRes,9296020
+Colombia,2017,DrugRes,490000
+Congo,2017,DrugRes,86123
+Côte d'Ivoire,2017,DrugRes,464305
+Democratic Republic of the Congo,2017,DrugRes,2065204
+Djibouti,2017,DrugRes,95702
+Dominican Republic,2017,DrugRes,503085
+Egypt,2017,DrugRes,72432
+El Salvador,2017,DrugRes,18647
+Eritrea,2017,DrugRes,100846
+Estonia,2017,DrugRes,482240
+Eswatini,2017,DrugRes,4349880
+Ethiopia,2017,DrugRes,207648
+Georgia,2017,DrugRes,1924458
+Ghana,2017,DrugRes,262087
+Guatemala,2017,DrugRes,95690
+Guinea,2017,DrugRes,492733
+Guinea-Bissau,2017,DrugRes,110500
+Guyana,2017,DrugRes,29446
+Haiti,2017,DrugRes,91926
+Honduras,2017,DrugRes,226011
+India,2017,DrugRes,84798101
+Indonesia,2017,DrugRes,1542280
+Iraq,2017,DrugRes,400000
+Jordan,2017,DrugRes,45000
+Kazakhstan,2017,DrugRes,26605500
+Kenya,2017,DrugRes,925900
+Kiribati,2017,DrugRes,0
+Kyrgyzstan,2017,DrugRes,4760336
+Lao People's Democratic Republic,2017,DrugRes,0
+Latvia,2017,DrugRes,2027421
+Lebanon,2017,DrugRes,15540
+Lesotho,2017,DrugRes,792000
+Madagascar,2017,DrugRes,61469
+Malawi,2017,DrugRes,366784
+Malaysia,2017,DrugRes,194000
+Mali,2017,DrugRes,148005
+Mauritania,2017,DrugRes,53889
+Mexico,2017,DrugRes,243007
+Micronesia (Federated States of),2017,DrugRes,0
+Mongolia,2017,DrugRes,567500
+Morocco,2017,DrugRes,1128800
+Mozambique,2017,DrugRes,2869740
+Myanmar,2017,DrugRes,2932600
+Namibia,2017,DrugRes,2713380
+Nepal,2017,DrugRes,130772
+Nigeria,2017,DrugRes,2943991
+Pakistan,2017,DrugRes,6116228
+Panama,2017,DrugRes,471668
+Papua New Guinea,2017,DrugRes,880128
+Paraguay,2017,DrugRes,46354
+Peru,2017,DrugRes,2100000
+Philippines,2017,DrugRes,6947276
+Republic of Korea,2017,DrugRes,1138000
+Republic of Moldova,2017,DrugRes,2066744
+Romania,2017,DrugRes,1310950
+Russian Federation,2017,DrugRes,87096227
+Rwanda,2017,DrugRes,178779
+Sao Tome and Principe,2017,DrugRes,19530
+Serbia,2017,DrugRes,52155
+Sierra Leone,2017,DrugRes,103424
+Solomon Islands,2017,DrugRes,16163
+Somalia,2017,DrugRes,307423
+South Sudan,2017,DrugRes,30660
+Sri Lanka,2017,DrugRes,18358
+Sudan,2017,DrugRes,563553
+Suriname,2017,DrugRes,0
+Tajikistan,2017,DrugRes,1439278
+Thailand,2017,DrugRes,3524818
+Timor-Leste,2017,DrugRes,42076
+Togo,2017,DrugRes,0
+Tunisia,2017,DrugRes,46200
+Uganda,2017,DrugRes,1814500
+Ukraine,2017,DrugRes,18174822
+United Republic of Tanzania,2017,DrugRes,0
+Uruguay,2017,DrugRes,15641
+Uzbekistan,2017,DrugRes,6435353
+Vanuatu,2017,DrugRes,0
+Viet Nam,2017,DrugRes,1797973
+Yemen,2017,DrugRes,129000
+Zambia,2017,DrugRes,1455500
+Zimbabwe,2017,DrugRes,1038240
