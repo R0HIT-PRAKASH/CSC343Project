@@ -1,3 +1,14 @@
+-- Made a change to the DiseaseCausedDeaths table 
+-- by adding data that included the death rate per country
+-- rather than just comparing over the total global population
+-- for a given year. This gives more useful information 
+-- (while retaining the same information as before) 
+-- and adds more depth to our answers for our questions. 
+-- Removed a foreign key from HealthCareFunding because
+-- we were restricting the data for no reason.
+-- We could look at data without directly comparing to 
+-- TB related values. 
+
 drop schema if exists projectschema cascade;
 create schema projectschema;
 set search_path to projectschema;
@@ -96,16 +107,16 @@ CREATE TABLE TBComorbidity (
 -- Number of deaths caused by illnesses in a given year
 -- Year - the year this row is describing
 -- diseaseName - The name of the disease 
--- totalDeaths - The number of deaths caused
+-- totalDeaths - The number of deaths per 100,000 people
 -- by diseaseName
 DROP TABLE IF EXISTS DiseaseCausedDeaths CASCADE;
 CREATE TABLE DiseaseCausedDeaths (
-    country INT NOT NULL,
+    country VARCHAR(100) NOT NULL,
     year INT NOT NULL,
     diseaseName VARCHAR(250) NOT NULL,
-    totalDeaths INT NOT NULL,
-    primary key(country, year, diseaseName)
-    
+    deathPer100k FLOAT NOT NULL,
+    primary key(country, year, diseaseName),
+    foreign key (country, year) references TB_Rates(country, year)
 );
 
 -- The total funds allocated to different healthcare sectors
@@ -122,5 +133,4 @@ CREATE TABLE HealthCareFunding (
     healthcareSector HealthSector,
     amount FLOAT NOT NULL,
     primary key(country, year, healthcareSector),
-    foreign key (country, year) references TB_Rates(country, year)
 );
