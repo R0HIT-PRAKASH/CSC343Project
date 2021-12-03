@@ -21,7 +21,7 @@ select h.country, h.year, h.sex, sum(h.tbrate) FROM TB_By_Demographic h where h.
 \echo
 \echo TB caseload with country health spending
 select t.country, sum(amount), sum(incidenceRate), sum(fatalityRate) from TB_Rates t join  healthcarefunding h
-ON t.country = h.country and t.year = h.year group by country limit 20;
+ON t.country = h.country and t.year = h.year group by t.country limit 20;
 \echo
 \echo lowest TB death rate by country
 select d.country from DiseaseCausedDeaths d where d.diseasename = 'Tuberculosis' order by d.deathper100k limit 10;
