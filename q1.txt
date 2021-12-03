@@ -20,7 +20,7 @@ select h.country, h.year, h.agerange, sum(h.tbrate) FROM TB_By_Demographic h whe
 select h.country, h.year, h.sex, sum(h.tbrate) FROM TB_By_Demographic h where h.sex != 'a' group by h.country, h.year, h.sex order by h.country, h.year, h.sex limit 20;
 \echo
 \echo TB caseload with country health spending
-select country, sum(amount), sum(incidenceRate), sum(fatalityRate) from TB_Rates t join  healthcarefunding h
+select t.country, sum(amount), sum(incidenceRate), sum(fatalityRate) from TB_Rates t join  healthcarefunding h
 ON t.country = h.country and t.year = h.year group by country limit 20;
 \echo
 \echo lowest TB death rate by country
