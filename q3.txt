@@ -14,4 +14,4 @@ CREATE VIEW fundingTBchanges AS
 SELECT s.country, s.year1, s.year2, s.healthcaresector, s.fundingdifference, r.incidencerate - t.incidencerate AS incidencechange, r.fatalityrate - t.fatalityrate AS fatalitychange FROM sectorfundchanges s JOIN TB_Rates t ON s.country = t.country and s.year1 = t.year JOIN TB_rates r ON s.country = r.country and s.year2 = r.year limit 20;
 \echo
 \echo Change in funding, incidence and fatality rates between consecutive years
-select * from fundingTBchanges order by s.fundingdifference DESC limit 10;\echo
+select * from fundingTBchanges order by fundingdifference DESC limit 10;\echo
