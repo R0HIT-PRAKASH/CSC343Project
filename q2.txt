@@ -1,14 +1,19 @@
+\echo High Deathrate
 select country, year, diseaseName, deathPer100k from DiseaseCausedDeaths order by Country, year, deathPer100k DESC limit 20;
-
+\echo
 DROP VIEW IF EXISTS HighTBCountries CASCADE;
 CREATE VIEW HighTBCountries AS
 select country, year, deathPer100k from DiseaseCausedDeaths d where d.diseaseName = 'Tuberculosis' and d.deathPer100K IN (SELECT deathPer100k from DiseaseCausedDeaths where d.country = country and d.year = year order by deathPer100k DESC limit 10); 
-
+\echo
+\echo Sex of Country with High TB Death
 select h.country, h.year, t.sex, sum(t.tbrate) FROM  HighTBCountries h JOIN TB_By_Demographic t ON h.country = t.country and h.year = t.year where t.sex != 'a' group by h.country, h.year, t.sex limit 20;
-
+\echo
+\echo Age range of Country with High TB Death
 select h.country, h.year, t.agerange, sum(t.tbrate) FROM  HighTBCountries h JOIN TB_By_Demographic t ON h.country = t.country and h.year = t.year where t.agerange != 'all' group by h.country, h.year, t.agerange limit 20;
-
+\echo
+\echo GDP of Country with High TB Death
 select h.country, h.year, c.GDPPerCap, h.deathPer100k FROM HighTBCountries h JOIN CountryGDPPC c on c.year = h.year and h.country = c.country limit 20;
-
+\echo
+\echo Diseases in High TB Countries
 select * FROM DiseaseCausedDeaths d WHERE d.country in (SELECT country from HighTBCountries) limit 20;
 
