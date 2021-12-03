@@ -1,3 +1,6 @@
+SELECT c.country, c.year, h.healthcaresector, h.amount FROM Healthcarefunding h JOIN HighTBCountries c ON h.country = c.country and h.year = c.year
+limit 10;
+
 DROP VIEW IF EXISTS sectorfundchanges CASCADE;
 CREATE VIEW sectorfundchanges AS
 SELECT h.country, h.year AS year1, f.year as year2, h.healthcaresector, 100*((f.amount - h.amount))/(h.amount) AS fundingdifference FROM Healthcarefunding h JOIN healthcarefunding f ON h.country = f.country and h.year = f.year-1 and h.healthcaresector = f.healthcaresector WHERE h.amount != 0;
