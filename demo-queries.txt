@@ -1,0 +1,448 @@
+csc343h-prakas72=> \i queries-runner.txt
+-------------------- Loading schema and data: --------------------
+
+psql:schema.ddl:12: NOTICE:  drop cascades to 13 other objects
+DETAIL:  drop cascades to type ageranges
+drop cascades to type sex
+drop cascades to type healthsector
+drop cascades to table tb_rates
+drop cascades to table tb_by_demographic
+drop cascades to table countrygdp
+drop cascades to table countrygdppc
+drop cascades to table tbcomorbidity
+drop cascades to table diseasecauseddeaths
+drop cascades to table healthcarefunding
+drop cascades to view hightbcountries
+drop cascades to view sectorfundchanges
+drop cascades to view fundingtbchanges
+DROP SCHEMA
+CREATE SCHEMA
+SET
+CREATE DOMAIN
+CREATE DOMAIN
+CREATE DOMAIN
+psql:schema.ddl:35: NOTICE:  table "tb_rates" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:52: NOTICE:  table "tb_by_demographic" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:67: NOTICE:  table "countrygdp" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:80: NOTICE:  table "countrygdppc" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:97: NOTICE:  table "tbcomorbidity" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:112: NOTICE:  table "diseasecauseddeaths" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+psql:schema.ddl:129: NOTICE:  table "healthcarefunding" does not exist, skipping
+DROP TABLE
+CREATE TABLE
+COPY 428
+COPY 4280
+COPY 324
+COPY 324
+COPY 2129
+COPY 13808
+COPY 2375
+
+-------------------- Investigative Question 1: ------------------
+
+Cases By Age
+ agerange | totalcases 
+----------+------------
+ 15plus   |   59387169
+ 5-14     |    1182162
+ 0-4      |    1059367
+(3 rows)
+
+
+Cases By Sex
+ sex | totalcases |     avgcases     
+-----+------------+------------------
+ a   |   45917517 | 53641.9591121495
+ m   |   38508821 | 22493.4702102804
+ f   |   21813410 | 12741.4778037383
+(3 rows)
+
+
+High Caseload with GDP
+   country    | year |       gdp        | incidencerate | fatalityrate 
+--------------+------+------------------+---------------+--------------
+ India        | 2019 | 2870504096717.48 |       2640000 |       445000
+ India        | 2020 | 2622983732006.45 |       2590000 |       504000
+ Indonesia    | 2019 | 1119091259074.62 |        845000 |        96000
+ China        | 2020 | 14722730697890.1 |        842000 |        32000
+ China        | 2019 |   14279937467431 |        833000 |        33000
+ Indonesia    | 2020 | 1058423838345.14 |        824000 |        98000
+ Philippines  | 2019 | 376823278560.849 |        599000 |        29000
+ Philippines  | 2020 |     361489354350 |        591000 |        32000
+ Pakistan     | 2020 | 263686552686.208 |        573000 |        46000
+ Pakistan     | 2019 | 278221906022.841 |        570000 |        44000
+ Nigeria      | 2020 | 432293776262.398 |        452000 |       156000
+ Nigeria      | 2019 | 448120428858.769 |        440000 |       155000
+ Bangladesh   | 2019 | 302563398919.928 |        361000 |        39000
+ South Africa | 2019 | 351431649241.439 |        360000 |        58000
+ Bangladesh   | 2020 | 324239176765.053 |        360000 |        44000
+ South Africa | 2020 | 301923639269.552 |        328000 |        61000
+ Myanmar      | 2019 | 79844294296.0647 |        174000 |        22000
+ Myanmar      | 2020 | 76185586096.7974 |        167000 |        21000
+ Ethiopia     | 2019 | 95912590628.1412 |        157000 |        24000
+ Ethiopia     | 2020 | 107645054311.876 |        151000 |        22000
+(20 rows)
+
+
+High Caseload with GDP per capita
+   country    | year |    gdppercap     | incidencerate | fatalityrate 
+--------------+------+------------------+---------------+--------------
+ India        | 2019 | 2100.75146060783 |       2640000 |       445000
+ India        | 2020 | 1900.70680971528 |       2590000 |       504000
+ Indonesia    | 2019 | 4135.20153132694 |        845000 |        96000
+ China        | 2020 | 10500.3956159637 |        842000 |        32000
+ China        | 2019 | 10216.6303341031 |        833000 |        33000
+ Indonesia    | 2020 | 3869.58842704537 |        824000 |        98000
+ Philippines  | 2019 |  3485.3408438977 |        599000 |        29000
+ Philippines  | 2020 |  3298.8298514292 |        591000 |        32000
+ Pakistan     | 2020 | 1193.73339713731 |        573000 |        46000
+ Pakistan     | 2019 | 1284.70204683255 |        570000 |        44000
+ Nigeria      | 2020 | 2097.09247289022 |        452000 |       156000
+ Nigeria      | 2019 |  2229.8586518613 |        440000 |       155000
+ Bangladesh   | 2019 |  1855.6915096678 |        361000 |        39000
+ South Africa | 2019 |  6001.4011214068 |        360000 |        58000
+ Bangladesh   | 2020 | 1968.79222484581 |        360000 |        44000
+ South Africa | 2020 | 5090.71502455292 |        328000 |        61000
+ Myanmar      | 2019 | 1477.35536778794 |        174000 |        22000
+ Myanmar      | 2020 | 1400.21824189956 |        167000 |        21000
+ Ethiopia     | 2019 | 855.760885186903 |        157000 |        24000
+ Ethiopia     | 2020 | 936.340461064749 |        151000 |        22000
+(20 rows)
+
+
+Comorbidity case total
+ cname | totalcases 
+-------+------------
+ all   |   97798282
+ und   |    3984839
+ alc   |    3046461
+ smk   |    2979662
+ hiv   |    1498631
+ dia   |    1426347
+(6 rows)
+
+
+Cases by age per country-year
+    country     | year | agerange |  sum   
+----------------+------+----------+--------
+ Afghanistan    | 2019 | 0-4      |   6300
+ Afghanistan    | 2019 | 15plus   | 178143
+ Afghanistan    | 2019 | 5-14     |   8800
+ Afghanistan    | 2020 | 0-4      |   6000
+ Afghanistan    | 2020 | 15plus   | 190866
+ Afghanistan    | 2020 | 5-14     |   8500
+ Albania        | 2019 | 0-4      |      5
+ Albania        | 2019 | 15plus   |   1667
+ Albania        | 2019 | 5-14     |      8
+ Albania        | 2020 | 0-4      |      0
+ Albania        | 2020 | 15plus   |   1550
+ Albania        | 2020 | 5-14     |      6
+ Algeria        | 2019 | 0-4      |   1130
+ Algeria        | 2019 | 15plus   |  79530
+ Algeria        | 2019 | 5-14     |    880
+ Algeria        | 2020 | 0-4      |   1060
+ Algeria        | 2020 | 15plus   |  80049
+ Algeria        | 2020 | 5-14     |    870
+ American Samoa | 2019 | 0-4      |      0
+ American Samoa | 2019 | 15plus   |      5
+(20 rows)
+
+
+Cases by sex per country-year
+    country     | year | sex |  sum   
+----------------+------+-----+--------
+ Afghanistan    | 2019 | f   | 111673
+ Afghanistan    | 2019 | m   |  92850
+ Afghanistan    | 2020 | f   | 108586
+ Afghanistan    | 2020 | m   | 107000
+ Albania        | 2019 | f   |    426
+ Albania        | 2019 | m   |   1132
+ Albania        | 2020 | f   |    341
+ Albania        | 2020 | m   |   1094
+ Algeria        | 2019 | f   |  32340
+ Algeria        | 2019 | m   |  47560
+ Algeria        | 2020 | f   |  29379
+ Algeria        | 2020 | m   |  50640
+ American Samoa | 2019 | f   |      3
+ American Samoa | 2019 | m   |      3
+ American Samoa | 2020 | f   |      0
+ American Samoa | 2020 | m   |      0
+ Andorra        | 2019 | f   |      3
+ Andorra        | 2019 | m   |     14
+ Andorra        | 2020 | f   |      3
+ Andorra        | 2020 | m   |      3
+(20 rows)
+
+
+TB caseload with country health spending
+             country              |   sum    |   sum   |  sum   
+----------------------------------+----------+---------+--------
+ Afghanistan                      | 19168521 |  882000 | 126000
+ Angola                           | 11025145 | 1362000 | 246000
+ Argentina                        |  3610958 |  162000 |  10620
+ Armenia                          |  7390806 |    7980 |    588
+ Azerbaijan                       |  7532993 |   59500 |   6900
+ Bangladesh                       | 86144541 | 4326000 | 498000
+ Belarus                          | 25229250 |   31800 |   3900
+ Belize                           |   174332 |    1152 |    138
+ Benin                            |  3146752 |   79200 |  14400
+ Bhutan                           |   929900 |   15600 |   1860
+ Bolivia (Plurinational State of) |  7205606 |  144000 |  16200
+ Bosnia and Herzegovina           |    92776 |    1750 |    204
+ Botswana                         | 10847030 |   68400 |  24600
+ Brazil                           | 32633124 | 1152000 |  89400
+ Bulgaria                         |  1265394 |   16200 |   1182
+ Burkina Faso                     |  2582481 |  115200 |  28200
+ Burundi                          |  1687102 |  144000 |  34800
+ Cabo Verde                       |    53600 |    2160 |    291
+ Cambodia                         | 13085924 |  558000 |  42000
+ Cameroon                         |  6270269 |  552000 | 174000
+(20 rows)
+
+
+lowest TB death rate by country
+  country   
+------------
+ Seychelles
+ Malta
+ Germany
+ Jordan
+ Canada
+ Australia
+ Israel
+ Czechia
+ Bahamas
+ Luxembourg
+(10 rows)
+
+
+highest TB death rate by country
+  country   
+------------
+ Gabon
+ Somalia
+ Nigeria
+ Liberia
+ Angola
+ Congo
+ Namibia
+ Nepal
+ Lesotho
+ Madagascar
+(10 rows)
+
+
+-------------------- Investigative Question 2: ------------------
+
+High Deathrate
+   country   | year |                diseasename                 | deathper100k 
+-------------+------+--------------------------------------------+--------------
+ Afghanistan | 2019 | Ischaemic heart disease                    |        301.7
+ Afghanistan | 2019 | Stroke                                     |        149.1
+ Afghanistan | 2019 | Collective violence and legal intervention |        121.6
+ Afghanistan | 2019 | Hypertensive heart disease                 |         65.9
+ Afghanistan | 2019 | Lower respiratory infections               |         49.8
+ Afghanistan | 2019 | Kidney diseases                            |         46.1
+ Afghanistan | 2019 | Tuberculosis                               |         41.1
+ Afghanistan | 2019 | Chronic obstructive pulmonary disease      |           37
+ Afghanistan | 2019 | Cirrhosis of the liver                     |         27.2
+ Afghanistan | 2019 | Asthma                                     |         24.2
+ Afghanistan | 2019 | Alzheimer disease and other dementias      |         22.3
+ Afghanistan | 2019 | Road injury                                |         19.8
+ Afghanistan | 2019 | Other circulatory diseases                 |         17.5
+ Afghanistan | 2019 | Other infectious diseases                  |         13.7
+ Afghanistan | 2019 | Other unintentional injuries               |           13
+ Afghanistan | 2019 | Preterm birth complications                |         12.1
+ Afghanistan | 2019 | Peptic ulcer disease                       |         10.6
+ Afghanistan | 2019 | Hepatitis                                  |         10.5
+ Afghanistan | 2019 | Stomach cancer                             |         10.4
+ Afghanistan | 2019 | Birth asphyxia and birth trauma            |         10.2
+(20 rows)
+
+
+psql:q2.txt:4: NOTICE:  view "hightbcountries" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+
+Sex of Country with High TB Death
+   country   | year | sex |  sum   
+-------------+------+-----+--------
+ Afghanistan | 2019 | f   | 111673
+ Afghanistan | 2019 | m   |  92850
+ Angola      | 2019 | f   | 135200
+ Angola      | 2019 | m   | 200400
+ Bangladesh  | 2019 | f   | 461680
+ Bangladesh  | 2019 | m   | 643900
+ Bhutan      | 2019 | f   |   1939
+ Bhutan      | 2019 | m   |   1877
+ Botswana    | 2019 | f   |   6969
+ Botswana    | 2019 | m   |  11480
+ Burundi     | 2019 | f   |  13922
+ Burundi     | 2019 | m   |  24140
+ Cambodia    | 2019 | f   |  53180
+ Cambodia    | 2019 | m   |  96200
+ Cameroon    | 2019 | f   |  53557
+ Cameroon    | 2019 | m   |  90200
+ Chad        | 2019 | f   |  24745
+ Chad        | 2019 | m   |  42890
+ Congo       | 2019 | f   |  23890
+ Congo       | 2019 | m   |  37430
+(20 rows)
+
+
+Age range of Country with High TB Death
+   country   | year | agerange |   sum   
+-------------+------+----------+---------
+ Afghanistan | 2019 | 0-4      |    6300
+ Afghanistan | 2019 | 15plus   |  178143
+ Afghanistan | 2019 | 5-14     |    8800
+ Angola      | 2019 | 0-4      |    6900
+ Angola      | 2019 | 15plus   |  319700
+ Angola      | 2019 | 5-14     |    8800
+ Bangladesh  | 2019 | 0-4      |   12600
+ Bangladesh  | 2019 | 15plus   | 1095980
+ Bangladesh  | 2019 | 5-14     |   20000
+ Bhutan      | 2019 | 0-4      |      24
+ Bhutan      | 2019 | 15plus   |    3823
+ Bhutan      | 2019 | 5-14     |      40
+ Botswana    | 2019 | 0-4      |     280
+ Botswana    | 2019 | 15plus   |   18719
+ Botswana    | 2019 | 5-14     |     300
+ Burundi     | 2019 | 0-4      |     700
+ Burundi     | 2019 | 15plus   |   37772
+ Burundi     | 2019 | 5-14     |     580
+ Cambodia    | 2019 | 0-4      |    1850
+ Cambodia    | 2019 | 15plus   |  152790
+(20 rows)
+
+
+GDP of Country with High TB Death
+   country   | year |    gdppercap     | deathper100k 
+-------------+------+------------------+--------------
+ Afghanistan | 2019 | 507.103391875763 |         41.1
+ Angola      | 2019 | 2809.62608839129 |           86
+ Bangladesh  | 2019 |  1855.6915096678 |         25.9
+ Bhutan      | 2019 | 3316.16702210577 |         18.3
+ Botswana    | 2019 | 7970.79696800641 |         34.5
+ Burundi     | 2019 |  261.24529116164 |         32.8
+ Cambodia    | 2019 | 1643.12138876475 |         21.1
+ Cameroon    | 2019 | 1507.44979812212 |         40.9
+ Chad        | 2019 |  709.54004317463 |         35.4
+ Ethiopia    | 2019 | 855.760885186903 |         25.3
+ Gabon       | 2019 | 7767.01697942954 |          114
+ Ghana       | 2019 | 2210.35592258865 |         44.3
+ India       | 2019 | 2100.75146060783 |         32.8
+ Indonesia   | 2019 | 4135.20153132694 |         34.3
+ Kenya       | 2019 | 1816.54712375218 |         49.9
+ Kiribati    | 2019 | 1655.05069337521 |         44.1
+ Lesotho     | 2019 | 1113.37214033581 |         68.8
+ Liberia     | 2019 | 621.892953622715 |           90
+ Madagascar  | 2019 | 526.224572187396 |         61.2
+ Mauritania  | 2019 | 1679.44260484157 |         24.1
+(20 rows)
+
+
+Diseases in High TB Countries
+   country   | year |                diseasename                 | deathper100k 
+-------------+------+--------------------------------------------+--------------
+ Afghanistan | 2019 | Alcohol use disorders                      |          0.7
+ Afghanistan | 2019 | Alzheimer disease and other dementias      |         22.3
+ Afghanistan | 2019 | Appendicitis                               |          1.5
+ Afghanistan | 2019 | Asthma                                     |         24.2
+ Afghanistan | 2019 | Birth asphyxia and birth trauma            |         10.2
+ Afghanistan | 2019 | Bladder cancer                             |            2
+ Afghanistan | 2019 | Brain and nervous system cancers           |          3.3
+ Afghanistan | 2019 | Breast cancer                              |         10.1
+ Afghanistan | 2019 | Cardiomyopathy, myocarditis, endocarditis  |          3.3
+ Afghanistan | 2019 | Cervix uteri cancer                        |          2.8
+ Afghanistan | 2019 | Childhood-cluster diseases                 |          6.5
+ Afghanistan | 2019 | Chronic obstructive pulmonary disease      |           37
+ Afghanistan | 2019 | Cirrhosis of the liver                     |         27.2
+ Afghanistan | 2019 | Cleft lip and cleft palate                 |            0
+ Afghanistan | 2019 | Collective violence and legal intervention |        121.6
+ Afghanistan | 2019 | Colon and rectum cancers                   |          4.1
+ Afghanistan | 2019 | Congenital heart anomalies                 |          2.3
+ Afghanistan | 2019 | Corpus uteri cancer                        |          1.9
+ Afghanistan | 2019 | Diarrhoeal diseases                        |          9.7
+ Afghanistan | 2019 | Down syndrome                              |          0.2
+(20 rows)
+
+
+-------------------- Investigative Question 3: ------------------
+
+Funding in country with High TB death rate
+   country   | year | healthcaresector |  amount  
+-------------+------+------------------+----------
+ Afghanistan | 2019 | DrugSusp         |  1271127
+ Angola      | 2019 | DrugSusp         |  1556857
+ Bangladesh  | 2019 | DrugSusp         |  9556788
+ Bhutan      | 2019 | DrugSusp         |    20985
+ Botswana    | 2019 | DrugSusp         |   690000
+ Burundi     | 2019 | DrugSusp         |   245808
+ Cambodia    | 2019 | DrugSusp         |  1400000
+ Cameroon    | 2019 | DrugSusp         |   477935
+ Chad        | 2019 | DrugSusp         |   559144
+ Congo       | 2019 | DrugSusp         |   336476
+ Ethiopia    | 2019 | DrugSusp         |  3935600
+ Gabon       | 2019 | DrugSusp         |   562291
+ Ghana       | 2019 | DrugSusp         |   539392
+ India       | 2019 | DrugSusp         | 36055152
+ Indonesia   | 2019 | DrugSusp         | 24710793
+ Kenya       | 2019 | DrugSusp         |  4398363
+ Lesotho     | 2019 | DrugSusp         |   556357
+ Madagascar  | 2019 | DrugSusp         |  1026618
+ Mauritania  | 2019 | DrugSusp         |    91667
+ Myanmar     | 2019 | DrugSusp         |  3145428
+(20 rows)
+
+
+psql:q3.txt:4: NOTICE:  view "sectorfundchanges" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+
+Change in funding between consecutive years
+   country   | year1 | year2 | healthcaresector | fundingdifference 
+-------------+-------+-------+------------------+-------------------
+ Cambodia    |  2019 |  2020 | BudgetLine       |  76473.0870712401
+ Timor-Leste |  2018 |  2019 | Lab              |  68678.5413744741
+ Lesotho     |  2017 |  2018 | Lab              |  14896.1746174617
+ Haiti       |  2019 |  2020 | BudgetLine       |  8588.32106933099
+ Mexico      |  2019 |  2020 | Research         |  7113.38582677165
+ Lebanon     |  2017 |  2018 | Research         |  6844.44444444444
+ Yemen       |  2017 |  2018 | Lab              |  5741.97134387352
+ Ukraine     |  2017 |  2018 | Research         |  5585.48085901027
+ Rwanda      |  2019 |  2020 | BudgetLine       |  5522.49194239321
+ Georgia     |  2017 |  2018 | DrugSusp         |  3855.35939470366
+(10 rows)
+
+
+
+psql:q3.txt:12: NOTICE:  view "fundingtbchanges" does not exist, skipping
+DROP VIEW
+CREATE VIEW
+
+Change in funding, incidence and fatality rates between consecutive years
+        country         | year1 | year2 | healthcaresector | fundingdifference | incidencechange | fatalitychange 
+------------------------+-------+-------+------------------+-------------------+-----------------+----------------
+ Afghanistan            |  2019 |  2020 | DrugSusp         |  110.441049556811 |            3000 |           1000
+ Angola                 |  2019 |  2020 | DrugSusp         |  101.593274141427 |            3000 |           1000
+ Cameroon               |  2019 |  2020 | DrugSusp         |  84.8228315565924 |               0 |           5000
+ Bhutan                 |  2019 |  2020 | DrugSusp         |  82.0300214438885 |               0 |             30
+ Brazil                 |  2019 |  2020 | DrugSusp         |  77.0121748644445 |               0 |            900
+ Bosnia and Herzegovina |  2019 |  2020 | DrugSusp         |  25.9742790335152 |             -50 |             16
+ Bulgaria               |  2019 |  2020 | DrugSusp         |  25.9695944916674 |            -100 |              1
+ Cambodia               |  2019 |  2020 | DrugSusp         |  21.4285714285714 |           -1000 |            400
+ Azerbaijan             |  2019 |  2020 | DrugSusp         |  15.8380529618858 |            -100 |            160
+ Burundi                |  2019 |  2020 | DrugSusp         |  12.1932565254182 |               0 |            200
