@@ -1,14 +1,17 @@
-SELECT c.country, c.year, h.healthcaresector, h.amount FROM Healthcarefunding h JOIN HighTBCountries c ON h.country = c.country and h.year = c.year
-limit 10;
-
+\echo  Funding in country with High TB death rate
+Select c.country, c.year, h.healthcaresector, h.amount FROM Healthcarefunding h JOIN HighTBCountries c ON h.country = c.country and h.year = c.year limit 20;
+\echo
 DROP VIEW IF EXISTS sectorfundchanges CASCADE;
 CREATE VIEW sectorfundchanges AS
 SELECT h.country, h.year AS year1, f.year as year2, h.healthcaresector, 100*((f.amount - h.amount))/(h.amount) AS fundingdifference FROM Healthcarefunding h JOIN healthcarefunding f ON h.country = f.country and h.year = f.year-1 and h.healthcaresector = f.healthcaresector WHERE h.amount != 0;
-
+\echo
+\echo Change in funding between consecutive years
 select * from sectorfundchanges order by fundingdifference DESC limit 10;
-
+\echo
+\echo
 DROP VIEW IF EXISTS fundingTBchanges CASCADE;
 CREATE VIEW fundingTBchanges AS
 SELECT s.country, s.year1, s.year2, s.healthcaresector, s.fundingdifference, r.incidencerate - t.incidencerate AS incidencechange, r.fatalityrate - t.fatalityrate AS fatalitychange FROM sectorfundchanges s JOIN TB_Rates t ON s.country = t.country and s.year1 = t.year JOIN TB_rates r ON s.country = r.country and s.year2 = r.year limit 20;
-
-select * from fundingTBchanges order by fundingdifference DESC limit 10;
+\echo
+\echo Change in funding, incidence and fatality rates between consecutive years
+select * from fundingTBchanges order by s.fundingdifference DESC limit 10;\echo
