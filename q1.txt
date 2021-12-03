@@ -2,7 +2,7 @@
 select agerange, sum(tbrate) as TotalCases FROM Tb_by_demographic where agerange <> 'all' group by agerange order by sum(tbrate) DESC limit 20;
 \echo
 \echo Cases By Sex
-select sex, sum(tbrate) as TotalCases, avg(tbrate) AS AvgCases FROM Tb_by_demographic  group by sex order by sum(tbrate) DESC limit 20;
+select sex, sum(tbrate) as TotalCases FROM Tb_by_demographic  group by sex order by sum(tbrate) DESC limit 20;
 \echo
 \echo High Caseload with GDP
 select t.country, t.year, c.GDP, t.incidenceRate, t.fatalityRate FROM CountryGDP c JOIN TB_Rates t ON c.Country = t.Country and c.Year = t.Year ORDER BY t.incidenceRate DESC, t.fatalityRate DESC limit 20;
