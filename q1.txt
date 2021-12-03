@@ -6,7 +6,7 @@ select t.country, t.year, c.GDP, t.incidenceRate, t.fatalityRate FROM CountryGDP
 
 select t.country, t.year, c.GDPPerCap, t.incidenceRate, t.fatalityRate FROM CountryGDPPC c JOIN TB_Rates t ON c.Country = t.Country and c.Year = t.Year ORDER BY t.incidenceRate DESC, t.fatalityRate DESC limit 20;
 
-select cName, sum(comorbidityRate) as TotalCases from TBComorbidity group by cName order by (comorbidityRate) DESC limit 20;
+select cName, sum(comorbidityRate) as TotalCases from TBComorbidity group by cName order by sum(comorbidityRate) DESC limit 20;
 
 select h.country, h.year, h.agerange, sum(h.tbrate) FROM TB_By_Demographic h where h.agerange != 'all' group by h.country, h.year, h.agerange order by h.country, h.year, h.agerange limit 20;
 
@@ -14,8 +14,8 @@ select h.country, h.year, h.sex, sum(h.tbrate) FROM TB_By_Demographic h where h.
 
 select country, sum(amount), sum(incidenceRate), sum(fatalityRate) from TB_Rates natural join  healthcarefunding group by country limit 20;
 
-select d.country from DiseaseCausedDeaths d where d.diseasename = ‘Tuberculosis’ order by d.deathper100k limit 10;
+select d.country from DiseaseCausedDeaths d where d.diseasename = 'Tuberculosis' order by d.deathper100k limit 10;
 
-select d.country from DiseaseCausedDeaths d where d.diseasename = ‘Tuberculosis’ order by d.deathper100k DESC limit 10;
+select d.country from DiseaseCausedDeaths d where d.diseasename = 'Tuberculosis' order by d.deathper100k DESC limit 10;
 
 
